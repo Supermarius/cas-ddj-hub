@@ -1,0 +1,959 @@
+,Datum,Geschäft,Einreichender 1,Partei 1,Einreichender 2,Partei 2,Departement
+0,25.11.2009,2009/562,Kurt Hüssy,SVP,Peter Anderegg,EVP,Polizeidepartement (PD)
+1,21.8.2002,2002/289,Markus Schwyn,PFZ,Monika Erfigen,SVP,Hochbaudepartement (HBD)
+2,3.5.2006,2006/134,Richard Rabelbauer,EVP,Robert Schönbächler,CVP,Departement der Industriellen Betriebe (DIB)
+3,26.05.2010,2008/16,Rebekka Wyler,SP,Pierino Cerliani,Grüne,
+4,30.8.2000,2000/415,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+5,16.05.2013,2005/550,Mario Mariani,CVP,Muriel Herzig,Grüne,
+6,9.2.2005,2005/42,Susi Gut,PFZ,Roger Liebi,SVP,Stadtschreiber/in (STS)
+7,26.09.2018,2018/375,Ezgi Akyol,AL,Anjushka Früh,SP,Stadtrat
+8,31.10.2018,2018/413,Ernst Danner,EVP,Raphael Kobler,FDP,
+9,1.12.2004,2004/637,Corine Mauch,SP,Albert Leiser,FDP,
+10,19.09.2018,2018/361,Matthias Probst,Grüne,Guido Hüni,GLP,Stadtrat
+11,15.11.2000,2000/549,Köbi Möri,Parteilos,Hansruedi Bär,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+12,14.03.2012,2012/100,Cäcilia Hänni-Etter,FDP,Markus Hungerbühler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+13,16.06.2010,2007/53,Katrin Schönenberger-Meier,EVP,Thomas  Kappeler,CVP,
+14,11.06.2014,2014/186,Alan David Sangines,SP,Matthias Probst,Grüne,Stadtrat
+15,7.4.2004,2004/192,Daniel Leupi,Grüne,Christian Traber,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+16,18.8.2004,2004/421,Markus Schwyn,PFZ,Monika Erfigen,SVP,Finanzdepartement (FD)
+17,30.08.2017,2017/290,Balz Bürgisser,Grüne,Rosa Maino,AL,Stadtrat
+18,06.03.2019,2019/84,Ernst Danner,EVP,Albert Leiser,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+19,18.8.2004,2004/409,Susi Gut,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+20,18.5.2005,2005/197,Susi Gut,PFZ,Cornelia Schaub,SVP,Schul- und Sportdepartement (SSD)
+21,03.10.2007,2007/535,Alecs Recher,AL,Peider Filli,Grüne,
+22,12.07.2017,2017/247,Ursula Uttinger,FDP,Marco Denoth,SP,Stadtrat
+23,27.01.2010,2010/63,Christine Seidler,SP,Ueli Nagel,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+24,30.01.2019,2019/46,Markus Baumann,GLP,Marco Denoth,SP,Gemeinderat
+25,27.01.2010,2010/62,Christine Seidler,SP,Ueli Nagel,Grüne,Hochbaudepartement (HBD)
+26,13.03.2019,2019/91,Balz Bürgisser,Grüne,Yasmine Bourgeois,FDP,Gemeinderat
+27,15.05.2019,2019/198,Olivia Romanelli,AL,Gabriele Kisker,Grüne,Gemeinderat
+28,06.07.2016,2016/257,Jonas Steiner,SP,Ursula Uttinger,FDP,Stadtrat
+29,11.06.2014,2014/187,Peter Küng,SP,Gian von Planta,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+30,31.01.2007,2007/52,Daniel Meier,CVP,Albert Leiser,FDP,
+31,7.4.2004,2004/193,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+32,21.6.2006,2006/257,Heinz Jacobi,SP,Robert Schönbächler,CVP,Departement der Industriellen Betriebe (DIB)
+33,14.03.2012,2012/101,Cäcilia Hänni-Etter,FDP,Isabel Garcia,GLP,Departement der Industriellen Betriebe (DIB)
+34,27.1.1999,1999/30,Hermann Aebi,Parteilos,Hans Marolf,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+35,22.6.2005,2003/306,Robert Schönbächler,CVP,Daniel Leupi,Grüne,
+36,04.06.2014,2014/178,Ursula Uttinger,FDP,Markus Baumann,GLP,Sozialdepartement (SD)
+37,24.3.2004,2004/150,Albert Leiser,FDP,Peter Püntener,GLP,Schul- und Sportdepartement (SSD)
+38,16.12.2009,2009/601,Bruno Wohler,SVP,Thomas Wyss,Grüne,Hochbaudepartement (HBD)
+39,7.9.2005,2005/357,Mauro Tuena,SVP,Markus Schwyn,PFZ,Schul- und Sportdepartement (SSD)
+40,24.11.2004,2004/622,Marlène Butz,SP,Daniel Leupi,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+41,28.10.1998,1998/345,Jürg Liebermann,FDP,Monjek Rosenheim,FDP,
+42,30.09.2009,2007/642,Daniel Leupi,Grüne,Roger Tognella,FDP,
+43,9.2.2005,2005/43,Mauro Tuena,SVP,Susi Gut,PFZ,Präsidialdepartement (PRD)
+44,16.12.2016,2016/451,Mario Mariani,CVP,Heinz F. Steger,FDP,
+45,18.05.2011,2005/551,Bernhard Piller,Grüne,Mario Mariani,CVP,
+46,8.2.2005,2005/223,Corine Mauch,SP,Ernst Danner,EVP,
+47,4.7.2001,2001/388,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+48,3.5.2006,2006/135,Judith Bucher,SP,Christian Traber,CVP,
+49,10.11.2004,2004/583,Thomas Marthaler,SP,Christian Traber,CVP,Polizeidepartement (PD)
+50,20.04.2016,2016/135,Pascal Lamprecht,SP,Markus Baumann,GLP,Stadtrat
+51,24.1.2001,2001/27,Christian Mettler,SVP,Markus Schwyn,PFZ,Sozialdepartement (SD)
+52,10.6.1998,1998/184,Monjek Rosenheim,FDP,Jürg Liebermann,FDP,Finanzdepartement (FD)
+53,20.12.2000,2000/616,Markus Schwyn,PFZ,Christian Mettler,SVP,Sozialdepartement (SD)
+54,10.12.1997,1997/539,Rolf Walther,FDP,Jürg Liebermann,FDP,Finanzdepartement (FD)
+55,08.01.20,2014/230,Marcel Schönbächler,CVP,Peter Küng,SP,
+56,25.11.2009,2009/561,Daniel Regli,SVP,Peter Anderegg,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+57,25.11.2009,2009/549,Walter Angst,AL,Jean-Claude Virchaux,CVP,
+58,21.09.2011,2011/349,Dorothea Frei,SP,Roger Tognella,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+59,04.02.2015,2015/44,Markus Knauss,Grüne,Guido Trevisan,GLP,
+60,20.04.2016,2016/137,Marcel Tobler,SP,Markus Hungerbühler,CVP,
+61,30.1.91,1991/56,Werner Furrer,SVP,Paul Kleger,FDP,Hochbaudepartement (HBD)
+62,18.1.2006,2006/10,Roger Tognella,FDP,Gerold Lauber,CVP,Sozialdepartement (SD)
+63,12.7.2000,2000/364,Mauro Tuena,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+64,29.09.2010,2010/416,Gabriele Kisker,Grüne,Samuel Dubno,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+65,17.12.2003,2003/502,Markus Schwyn,PFZ,Monika Erfigen,SVP,Sozialdepartement (SD)
+66,9.2.2005,2005/41,Robert Schönbächler,CVP,Heinz Bögle,SP,Tiefbau- und Entsorgungsdepartement (TED)
+67,31.01.2018,2018/38,Alexander Brunner,FDP,Shaibal Roy,GLP,Finanzdepartement (FD)
+68,03.07.2013,2013/258,Ann-Catherine Nabholz,GLP,Heinz F. Steger,FDP,
+69,16.12.2009,2009/603,Mario Mariani,CVP,Hanspeter Kunz,EVP,Polizeidepartement (PD)
+70,26.10.2005,2005/427,Robert Schönbächler,CVP,Ernst Danner,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+71,24.10.2018,2018/404,Yasmine Bourgeois,FDP,Susanne Brunner,SVP,
+72,1.12.2004,2004/634,Maya Burri-Wenger,SP,Gerold Lauber,CVP,
+73,10.12.2003,2003/489,Oliver B. Meier,SVP,Gerold Lauber,CVP,Hochbaudepartement (HBD)
+74,14.03.2012,2012/103,Simon Kälin-Werth,Grüne,Marlène Butz,SP,
+75,11.12.1996,2006/255,Bastien Girod,Grüne,Ernst Danner,EVP,
+76,9.2.2000,2000/65,Jürg R. Schüepp,FDP,Willy Furter,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+77,04.02.2009,2009/55,Esther Straub,SP,Gabriele Kisker,Grüne,Gesundheits- und Umweltdepartement (GUD)
+78,09.04.2008,2008/174,Richard Rabelbauer,EVP,Esther Ponti-Weder,CVP,Schul- und Sportdepartement (SSD)
+79,18.04.2018,2018/160,Jean-Daniel Strub,SP,Andreas Kirstein,AL,Stadtrat
+80,05.11.2014,2014/350,Markus Knauss,Grüne,Simone Brander,SP,Tiefbau- und Entsorgungsdepartement (TED)
+81,02.04.2008,2008/160,Heinz F. Steger,FDP,Daniel Meier,CVP,Hochbaudepartement (HBD)
+82,13.03.2019,2019/93,Sven Sobernheim,GLP,Andri Silberschmidt,FDP,Stadtrat
+83,26.3.2008,2008/148,Ernst Danner,EVP,Urs Rechsteiner,CVP,Präsidialdepartement (PRD)
+84,24.11.1999,1999/587,Christoph Hug,Grüne,Marie-Therese Meier,SP,Tiefbau- und Entsorgungsdepartement (TED)
+85,12.07.2017,2017/244,Roger Liebi,SVP,Markus Knauss,Grüne,
+86,18.5.2005,2005/194,Gregor Bucher,Grüne,Daniel Leupi,Grüne,Hochbaudepartement (HBD)
+87,03.12.2014,2014/393,Patrick Hadi Huber,SP,Markus Knauss,Grüne,Hochbaudepartement (HBD)
+88,12.07.2017,2017/250,Eduard Guggenheim,AL,Marcel Bührig,Grüne,Stadtrat
+89,26.9.2007,2007/522,Ruth Ackermann,CVP,Ernst Danner,EVP,Präsidialdepartement (PRD)
+90,03.02.2010,2010/74,Bernhard Piller,Grüne,Monika Bloch Süss,CSP,Tiefbau- und Entsorgungsdepartement (TED)
+91,27.01.2010,2010/60,Myrtha Meuli,SP,Hans Bachmann,FDP,Hochbaudepartement (HBD)
+92,27.01.2010,2010/61,Monika Bloch Süss,CSP,Bernhard Jüsi,SP,Polizeidepartement (PD)
+93,30.01.2019,2019/45,Marco Denoth,SP,Brigitte Fürer,Grüne,Gemeinderat
+94,03.02.2010,2010/75,Monika Bloch Süss,CSP,Hans Urs von Matt,SP,Gesundheits- und Umweltdepartement (GUD)
+95,6.11.2002,2002/472,Walter Angst,AL,Pierino Cerliani,Grüne,Finanzdepartement (FD)
+96,14.1.2004,2004/28,Susi Gut,PFZ,Monika Erfigen,SVP,
+97,03.10.2007,2007/537,Ernst Danner,EVP,Ruth Ackermann,CVP,Polizeidepartement (PD)
+98,23.09.2009,2009/428,Marcel Z'graggen,CVP,Richard Rabelbauer,EVP,Präsidialdepartement (PRD)
+99,08.01.20,1991/392,Toni Baur,Grüne,Erika Mägli-Fischer,SP,Geschäftsbericht Stadtrat
+100,2.4.2008,2008/161,Ueli Nagel,Grüne,Claudia Rabelbauer,EVP,
+101,05.11.2014,2014/351,Heinz F. Steger,FDP,Ruth Ackermann,CVP,Polizeidepartement (PD)
+102,18.04.2018,2018/161,Elena Marti,Grüne,Anjushka Früh,SP,Stadtrat
+103,02.12.2015,2015/383,Markus Knauss,Grüne,Urs Helfenstein,SP,
+104,20.8.2003,2003/305,Markus Schwyn,PFZ,Martin Burger,SVP,Präsidialdepartement (PRD)
+105,10.12.2003,2003/488,Oliver B. Meier,SVP,Gerold Lauber,CVP,Hochbaudepartement (HBD)
+106,19.09.2018,2018/377,Luca Maggi,Grüne,Christina Schiller,AL,Gemeinderat
+107,21.04.2010,2010/205,Beat Bloch,CSP,Thomas Wyss,Grüne,Polizeidepartement (PD)
+108,26.10.2005,2005/426,Ueli Nagel,Grüne,Monjek Rosenheim,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+109,9.1.2002,2002/7,Bruno Sidler,SVP,Markus Schwyn,PFZ,Präsidialdepartement (PRD)
+110,28.10.1998,1998/352,Nicole Bisig,SP,Pierino Cerliani,Grüne,Hochbaudepartement (HBD)
+111,09.01.2019,2019/4,Marcel Müller,FDP,Pascal Lamprecht,SP,Stadtrat
+112,20.01.2016,2016/28,Hans Urs von Matt,SP,Christian Traber,CVP,Präsidialdepartement (PRD)
+113,16.3.2005,2005/97,Eva Virag Jansen,Grüne,Gregor Bucher,Grüne,Hochbaudepartement (HBD)
+114,21.12.2005,2005/552,Bernhard Piller,Grüne,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+115,20.04.2016,2016/136,Jonas Steiner,SP,Shaibal Roy,GLP,
+116,1.2.2006,2006/39,Mario Mariani,CVP,Daniel Leupi,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+117,13.12.2017,2017/457,Thomas Schwendener,SVP,Christoph Luchsinger,FDP,Hochbaudepartement (HBD)
+118,10.6.1998,1998/187,Niklaus Scherr,AL,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+119,20.12.2000,2000/615,Markus Schwyn,PFZ,Christopher Vohdin,SVP,Polizeidepartement (PD)
+120,28.09.2011,2011/360,Gian von Planta,GLP,Katrin Wüthrich,SP,Geschäftsbericht Stadtrat
+121,02.12.2009,2009/570,Jacqueline Badran,SP,Balthasar Glättli,Grüne,Präsidialdepartement (PRD)
+122,20.12.2000,2000/611,Köbi Möri,Parteilos,Jürg Casparis,SVP,
+123,10.7.2002,2002/258,Daniel Leupi,Grüne,Alexander Jäger,FDP,Geschäftsbericht Stadtrat
+124,6.6.2007,2007/321,Fakir Atalay,SP,Ueli Nagel,Grüne,Gesundheits- und Umweltdepartement (GUD)
+125,10.11.2004,2004/584,Thomas Marthaler,SP,Christian Traber,CVP,Polizeidepartement (PD)
+126,6.1.1999,1999/8,Robert Schönbächler,CVP,Placidus Maissen,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+127,15.11.2006,2006/495,Gregor Bucher,Grüne,Ernst Danner,EVP,
+128,21.3.2001,2001/172,Köbi Möri,Parteilos,Theo Hauri,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+129,23.8.2000,2000/407,Robert Schönbächler,CVP,Willy Furter,EVP,Departement der Industriellen Betriebe (DIB)
+130,08.01.20,2000/413,Balthasar Glättli,Grüne,Markus Bischoff,AL,
+131,21.09.2016,2016/318,Renate Fischer,SP,Isabel Garcia,GLP,
+132,2.3.2005,2005/78,Susi Gut,PFZ,Thomas Schwendener,SVP,Präsidialdepartement (PRD)
+133,2.7.2003,2003/249,Walter Angst,AL,Heidi Bucher-Steinegger,Grüne,Gesundheits- und Umweltdepartement (GUD)
+134,9.2.2005,2005/44,Susi Gut,PFZ,Mauro Tuena,SVP,Präsidialdepartement (PRD)
+135,28.09.2016,2016/330,Davy Graf,SP,Andreas Kirstein,AL,Sicherheitsdepartement (SID)
+136,11.03.2009,2009/93,Susi Gut,PFZ,Ernst Danner,EVP,Sozialdepartement (SD)
+137,5.7.2006,2006/287,Peter Anderegg,EVP,Daniel Meier,CVP,Polizeidepartement (PD)
+138,05.07.2006,2006/293,Robert Schönbächler,CVP,Ernst Danner,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+139,24.08.2016,2016/278,Reto Vogelbacher,CVP,Elisabeth Schoch,FDP,Gesundheits- und Umweltdepartement (GUD)
+140,29.06.2016,2016/250,Alan David Sangines,SP,Shaibal Roy,GLP,Sozialdepartement (SD)
+141,28.9.2005,2005/387,Markus Schwyn,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+142,7.4.2004,2004/194,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+143,04.09.2013,2013/301,Gabriele Kisker,Grüne,Eva-Maria Würth,SP,
+144,02.04.2008,2008/159,Karin Rykart Sutter,Grüne,Martin Sarbach,SP,Polizeidepartement (PD)
+145,06.03.2019,2019/82,Roger Bartholdi,SVP,Pascal Lamprecht,SP,Stadtrat
+146,16.09.2009,2009/404,Urs Rechsteiner,CVP,Jean-Claude Virchaux,CVP,
+147,09.04.2008,2008/171,Martin Sarbach,SP,Mario Mariani,CVP,Hochbaudepartement (HBD)
+148,08.06.2011,2011/204,Guido Trevisan,GLP,Alexander Jäger,FDP,
+149,14.11.2001,2001/576,Robert Schönbächler,CVP,Andres Türler,FDP,Polizeidepartement (PD)
+150,30.6.2004,2004/341,Georg Schmid,CVP,Anton Stäbler,CVP,Finanzdepartement (FD)
+151,29.03.2017,2017/78,Katharina Prelicz-Huber,Grüne,Michael Kraft,SP,
+152,26.3.2003,2003/117,Emil Seliner,SP,Robert Schönbächler,CVP,
+153,08.03.2017,2017/44,Eduard Guggenheim,AL,Andreas Edelmann,SP,
+154,18.5.2005,2005/191,Beatrice Reimann,SP,Ernst Danner,EVP,Departement der Industriellen Betriebe (DIB)
+155,10.06.2015,2015/184,Matthias Probst,Grüne,Guido Trevisan,GLP,Polizeidepartement (PD)
+156,9.5.2007,2007/240,Andrew Katumba,SP,Gabriele Kisker,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+157,18.5.2005,2005/190,Gregor Bucher,Grüne,Muriel Herzig,Grüne,
+158,17.03.2010,2003/116,Emil Seliner,SP,Robert Schönbächler,CVP,
+159,23.08.2017,2017/268,Sven Sobernheim,GLP,Pascal Lamprecht,SP,
+160,2.6.1999,1999/226,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+161,29.03.2017,2017/79,Mathias Manz,SP,Katharina Prelicz-Huber,Grüne,
+162,30.6.2004,2004/340,Georg Schmid,CVP,Anton Stäbler,CVP,Finanzdepartement (FD)
+163,23.10.2019,2019/439,Marcel Savarioud,SP,Felix Moser,Grüne,Stadtrat
+164,7.4.2004,2004/195,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+165,4.2.2009,2009/45,Ueli Nagel,Grüne,Claudia Simon,FDP,Schul- und Sportdepartement (SSD)
+166,24.10.2018,2018/399,Eduard Guggenheim,AL,Stefan Urech,SVP,Stadtrat
+167,17.12.2003,2003/499,Thomas Marthaler,SP,Christian Traber,CVP,
+168,28.09.2016,2016/331,Elisabeth Schoch,FDP,Rolf Müller,SVP,Gesundheits- und Umweltdepartement (GUD)
+169,05.12.2007,2007/644,Monika Bloch Süss,CSP,Gabriele Kisker,Grüne,Polizeidepartement (PD)
+170,6.2.2002,2002/58,Heinz Jacobi,SP,Katharina Prelicz-Huber,Grüne,Finanzdepartement (FD)
+171,9.2.2005,2005/51,Marianne Dubs Früh,SP,Kurt Maeder,CVP,
+172,28.10.1998,1998/343,Beat Badertscher,FDP,Peter Stähli-Barth,SP,Tiefbau- und Entsorgungsdepartement (TED)
+173,28.3.2001,2001/198,Andreas J. Schlegel,FDP,Robert Eggler,FDP,Finanzdepartement (FD)
+174,21.09.2016,2016/319,Marcel Bührig,Grüne,Sven Sobernheim,GLP,
+175,8.6.2005,2005/225,Marianne Dubs Früh,SP,Kurt Maeder,CVP,
+176,29.09.2010,2010/412,Bernhard Piller,Grüne,Mirella Wepf,SP,Departement der Industriellen Betriebe (DIB)
+177,21.3.2001,2001/173,Köbi Möri,Parteilos,Bruno Sidler,SVP,Departement der Industriellen Betriebe (DIB)
+178,29.8.2007,2007/452,Beatrice Reimann,SP,Daniel Leupi,Grüne,Geschäftsbericht Stadtrat
+179,14.7.1999,1999/346,Niklaus Scherr,AL,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+180,5.4.2000,2000/176,Marcel Knörr,FDP,Hermann Aebi,Parteilos,Tiefbau- und Entsorgungsdepartement (TED)
+181,13.12.2000,2000/604,Markus Schwyn,PFZ,Christopher Vohdin,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+182,5.5.2004,2004/220,Susi Gut,PFZ,Monika Erfigen,SVP,Finanzdepartement (FD)
+183,10.6.1998,1998/182,Jürg Liebermann,FDP,Monjek Rosenheim,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+184,10.6.1998,1998/180,Rolf Walther,FDP,Jürg Liebermann,FDP,Finanzdepartement (FD)
+185,28.8.2002,2002/298,Georg Schmid,CVP,Willy Furter,EVP,Polizeidepartement (PD)
+186,08.04.2015,2015/95,Walter Angst,AL,Rebekka Wyler,SP,
+187,5.5.2004,2004/222,Monika Erfigen,SVP,Markus Schwyn,PFZ,Gesundheits- und Umweltdepartement (GUD)
+188,11.12.2009,2009/598,Christian Traber,CVP,Daniel Leupi,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+189,29.8.2007,2007/450,Gabriele Kisker,Grüne,Andrew Katumba,SP,Hochbaudepartement (HBD)
+190,06.06.2007,2007/322,Fakir Atalay,SP,Ueli Nagel,Grüne,Gesundheits- und Umweltdepartement (GUD)
+191,6.9.2000,2000/438,Markus Schwyn,PFZ,Christopher Vohdin,SVP,Stadtschreiber/in (STS)
+192,8.11.2006,2006/482,Richard Rabelbauer,EVP,Daniel Meier,CVP,
+193,7.1.2004,2004/6,Robert Schönbächler,CVP,Anton Stäbler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+194,18.12.2013,2008/576,Urs Rechsteiner,CVP,Martin Mächler,EVP,
+195,7.4.1999,1999/152,Robert Schönbächler,CVP,Willy Furter,EVP,Präsidialdepartement (PRD)
+196,21.12.2016,2016/469,Hans Jörg Käppeli,SP,Markus Knauss,Grüne,Stadtrat
+197,16.12.1998,1998/433,Köbi Möri,Parteilos,Lorenz Habicher,SVP,Präsidialdepartement (PRD)
+198,17.01.2018,2018/16,Katharina Prelicz-Huber,Grüne,Markus Baumann,GLP,Stadtrat
+199,19.09.2018,2018/358,Matthias Probst,Grüne,Florian Utz,SP,Stadtrat
+200,17.3.2004,2004/140,Susi Gut,PFZ,Karin Peter,SVP,Polizeidepartement (PD)
+201,22.11.2000,2000/564,Markus Schwyn,PFZ,Mauro Tuena,SVP,Präsidialdepartement (PRD)
+202,24.3.2004,2004/154,Susi Gut,PFZ,Monika Erfigen,SVP,Gesundheits- und Umweltdepartement (GUD)
+203,8.7.1998,1998/221,Rolf Kuhn,SP,Kurt Tschopp,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+204,02.12.2015,2015/384,Ezgi Akyol,AL,Linda Bär,SP,Sozialdepartement (SD)
+205,3.12.2003,2003/464,Bruno Amacker,SVP,Susi Gut,PFZ,Tiefbau- und Entsorgungsdepartement (TED)
+206,08.01.20,1996/100,André Odermatt,SP,Niklaus Scherr,AL,Geschäftsbericht Stadtrat
+207,06.03.2019,2019/81,Nicole Giger,SP,Andri Silberschmidt,FDP,Stadtrat
+208,30.6.,2004/342,Andreas Ammann,SP,Rolf Kuhn,SP,Hochbaudepartement (HBD)
+209,13.4.2005,2005/145,Susi Gut,PFZ,Bruno Wohler,SVP,Präsidialdepartement (PRD)
+210,18.5.2005,2005/192,Gregor Bucher,Grüne,Eva Virag Jansen,Grüne,Hochbaudepartement (HBD)
+211,18.09.2019,2017/243,Marco Denoth,SP,Sven Sobernheim,GLP,Kommission
+212,6.11.2002,2002/474,Dorothea Frei,SP,Simone Bertogg-Baudet,Grüne,Schul- und Sportdepartement (SSD)
+213,18.5.2005,2005/193,Gregor Bucher,Grüne,Pierino Cerliani,Grüne,Hochbaudepartement (HBD)
+214,15.03.2017,2017/52,Roger-Paul Speck,SP,Markus Merki,GLP,Stadtrat
+215,21.02.2019,2019/57,Luca Maggi,Grüne,Christina Schiller,AL,
+216,16.09.2009,2009/406,Alexander Jäger,FDP,Bernhard Piller,Grüne,Departement der Industriellen Betriebe (DIB)
+217,30.6.2004,2004/343,Markus Schwyn,PFZ,Monika Erfigen,SVP,Sozialdepartement (SD)
+218,11.5.2005,2005/178,Susi Gut,PFZ,Bruno Sidler,SVP,Präsidialdepartement (PRD)
+219,18.8.2004,2004/419,Andreas Ammann,SP,Robert Schönbächler,CVP,Departement der Industriellen Betriebe (DIB)
+220,08.01.20,2019/80,Markus Knauss,Grüne,Simone Brander,SP,
+221,7.4.2004,2004/196,Roger Liebi,SVP,Markus Schwyn,PFZ,
+222,29.06.2016,2016/252,Christina Schiller,AL,Guy Krayenbühl,GLP,
+223,11.09.2013,2013/317,Peter Küng,SP,Michael Schmid,FDP,Schul- und Sportdepartement (SSD)
+224,08.01.20,2012/138,Bernhard Piller,Grüne,Helen Glaser,SP,
+225,9.2.2000,2000/76,Mauro Tuena,SVP,Markus Schwyn,PFZ,Departement der Industriellen Betriebe (DIB)
+226,24.3.2004,2004/155,Susi Gut,PFZ,Monika Erfigen,SVP,Gesundheits- und Umweltdepartement (GUD)
+227,5.7.2006,2006/291,Robert Schönbächler,CVP,Niklaus Scherr,AL,
+228,08.01.20,1997/110,Theres Renner,FraP,Susanne Erdös-Schärer,SP,Schul- und Sportdepartement (SSD)
+229,5.10.2005,2005/408,Christine Seidler,SP,Gerold Lauber,CVP,Departement der Industriellen Betriebe (DIB)
+230,21.12.2016,2016/468,Hans Jörg Käppeli,SP,Markus Knauss,Grüne,Stadtrat
+231,15.6.2005,2005/232,Susi Gut,PFZ,Cornelia Schaub,SVP,Präsidialdepartement (PRD)
+232,21.3.2001,2001/170,Andreas J. Schlegel,FDP,Robert Eggler,FDP,Polizeidepartement (PD)
+233,7.1.2004,2004/7,Daniel Leupi,Grüne,Mark Roth,SP,Tiefbau- und Entsorgungsdepartement (TED)
+234,04.02.2015,2015/43,Petek Altinay,SP,Christina Hug,Grüne,"Präsidialdepartement (PRD), Stadtschreiber/in (STS)"
+235,6.6.2007,2007/323,Mario Mariani,CVP,Bruno Wohler,SVP,Sozialdepartement (SD)
+236,14.7.1999,1999/345,Markus Bischoff,AL,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+237,11.12.2009,2009/599,Monika Bloch Süss,CSP,Martin Abele,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+238,22.05.2019,2019/214,Urs Egger,FDP,Anjushka Früh,SP,Gemeinderat
+239,02.12.2009,2009/566,Walter Angst,AL,Balthasar Glättli,Grüne,Präsidialdepartement (PRD)
+240,12.9.2007,2007/492,Martin Sarbach,SP,Alecs Recher,AL,Polizeidepartement (PD)
+241,10.11.2004,2004/579,Andreas Ammann,SP,Marlène Butz,SP,Tiefbau- und Entsorgungsdepartement (TED)
+242,17.6.1998,1998/195,Peter Marti,FDP,Monjek Rosenheim,FDP,Polizeidepartement (PD)
+243,10.6.1998,1998/181,Jürg Liebermann,FDP,Hans-Ulrich Meier,FDP,Präsidialdepartement (PRD)
+244,28.8.2002,2002/299,Markus Schwyn,PFZ,Rolf André Siegenthaler-Benz,SVP,Polizeidepartement (PD)
+245,14.12.2011,2009/501,Peter Anderegg,EVP,Daniel Meier,CVP,
+246,20.10.2004,2004/536,Susi Gut,PFZ,Bernhard Britschgi,SVP,Departement der Industriellen Betriebe (DIB)
+247,20.11.2019,2019/501,Natalie Eberle,AL,Katharina Prelicz-Huber,Grüne,Gemeinderat
+248,20.12.2002,2002/567,Susann Birrer,FDP,Claudia Nielsen,SP,Tiefbau- und Entsorgungsdepartement (TED)
+249,2.6.2004,2004/287,Markus Schwyn,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+250,08.01.20,2007/344,Gregor Bucher,Grüne,Ernst Danner,EVP,
+251,06.12.2017,2017/436,Pascal Lamprecht,SP,Markus Baumann,GLP,
+252,19.12.2018,2018/504,Walter Angst,AL,Jean-Daniel Strub,SP,
+253,12.6.1996,1996/210,Peter Stähli-Barth,SP,Christoph Hug,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+254,21.03.2007,2007/152,Salvatore Di Concilio,SP,Fakir Atalay,SP,Polizeidepartement (PD)
+255,02.03.2016,2016/61,Rebekka Wyler,SP,Ezgi Akyol,AL,
+256,22.12.2010,2008/289,Niklaus Scherr,AL,Claudia Nielsen,SP,Departement der Industriellen Betriebe (DIB)
+257,11.07.2018,2018/289,Corina Gredig,GLP,Marion Schmid,SP,
+258,9.11.2005,2005/453,Markus Knauss,Grüne,Claudia Nielsen,SP,Polizeidepartement (PD)
+259,16.04.2014,2014/126,Pawel Silberring,SP,Christian Traber,CVP,
+260,01.12.2010,2010/502,Fabienne Vocat,Grüne,Michael Baumer,FDP,Hochbaudepartement (HBD)
+261,28.11.2018,2018/464,Balz Bürgisser,Grüne,Ursula Näf,SP,Stadtrat
+262,08.01.20,1990/490,Salomon Browar,Grüne,Toni Baur,Grüne,Polizeidepartement (PD)
+263,15.12.2004,2004/668,Markus Schwyn,PFZ,Roger Liebi,SVP,Finanzdepartement (FD)
+264,16.09.2015,2015/309,Andreas Edelmann,SP,Markus Kunz,Grüne,
+265,3.2.1999,1999/52,Peter Marti,FDP,Monjek Rosenheim,FDP,Polizeidepartement (PD)
+266,23.11.2005,2005/490,Markus Schwyn,PFZ,Roger Liebi,SVP,Finanzdepartement (FD)
+267,5.11.2003,2003/416,Georg Schmid,CVP,Werner Sieg,SP,Tiefbau- und Entsorgungsdepartement (TED)
+268,10.01.2018,2018/5,Balz Bürgisser,Grüne,Jean-Daniel Strub,SP,Stadtrat
+269,24.1.2007,2007/30,Karin Rykart Sutter,Grüne,Astrid Hirzel,CVP,
+270,06.07.2011,2011/261,Jacqueline Badran,SP,Balthasar Glättli,Grüne,Finanzdepartement (FD)
+271,20.05.2015,2015/137,Min Li Marti,SP,Samuel Dubno,GLP,
+272,03.07.2019,2019/313,Markus Merki,GLP,Heidi Egger,SP,
+273,30.09.2009,2009/449,Christian Aeschbach,FDP,Christina Hug,Grüne,Departement der Industriellen Betriebe (DIB)
+274,30.6.1999,1999/295,Reto Dettli,SP,Balthasar Glättli,Grüne,Polizeidepartement (PD)
+275,28.1.2004,2004/49,Markus Schwyn,PFZ,Ruth Anhorn,SVP,Schul- und Sportdepartement (SSD)
+276,23.10.2002,2002/413,André Odermatt,SP,Niklaus Scherr,AL,Hochbaudepartement (HBD)
+277,25.2.2004,2004/75,Michael Baumer,FDP,Balthasar Glättli,Grüne,
+278,06.01.2010,2010/14,Monika Bloch Süss,CSP,Thomas Wyss,Grüne,
+279,5.2.2003,2003/41,Kurt Krebs,SL,Arthur Bernet,SVP,Präsidialdepartement (PRD)
+280,30.6.1999,1999/294,Balthasar Glättli,Grüne,Reto Dettli,SP,Polizeidepartement (PD)
+281,22.10.2014,2014/325,Nina Fehr Düsel,SVP,Karin Weyermann,CVP,
+282,1.9.2004,2004/457,Gregor Bucher,Grüne,Daniel Leupi,Grüne,Schul- und Sportdepartement (SSD)
+283,07.06.2006,2006/220,Richard Rabelbauer,EVP,Bastien Girod,Grüne,Präsidialdepartement (PRD)
+284,27.02.2013,2013/50,Ursula Uttinger,FDP,Jean-Daniel Strub,SP,Schul- und Sportdepartement (SSD)
+285,3.2.1999,1999/53,Luzi Rüegg,SVP,Kurt Miescher,SD,Departement der Industriellen Betriebe (DIB)
+286,16.06.2010,2010/265,Florian Utz,SP,Guido Trevisan,GLP,
+287,28.11.2018,2018/465,Markus Kunz,Grüne,Michael Kraft,SP,Stadtrat
+288,21.10.2015,2015/334,Pascal Lamprecht,SP,Ursula Uttinger,FDP,Gesundheits- und Umweltdepartement (GUD)
+289,05.10.2016,2016/340,Urs Helfenstein,SP,Karin Rykart Sutter,Grüne,
+290,11.6.2003,2003/205,Susi Gut,PFZ,Bruno Wohler,SVP,Gesundheits- und Umweltdepartement (GUD)
+291,5.12.2007,2007/635,Walter Angst,AL,Ernst Danner,EVP,Finanzdepartement (FD)
+292,14.07.2010,2010/311,Dorothea Frei,SP,Severin Pflüger,FDP,Finanzdepartement (FD)
+293,11.4.2007,2007/184,Marcel Savarioud,SP,Josef Widler,CVP,Sozialdepartement (SD)
+294,1.3.2006,2006/65,Niklaus Scherr,AL,Alexander Jäger,FDP,
+295,01.11.2017,2017/379,Pascal Lamprecht,SP,Markus Baumann,GLP,
+296,20.04.2016,2016/142,Sven Sobernheim,GLP,Markus Kunz,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+297,2.6.2004,2004/286,Markus Schwyn,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+298,28.01.2015,2015/31,Marcel Bührig,Grüne,Markus Hungerbühler,CVP,Gesundheits- und Umweltdepartement (GUD)
+299,20.12.2002,2002/566,Susann Birrer,FDP,Claudia Nielsen,SP,Tiefbau- und Entsorgungsdepartement (TED)
+300,07.12.2011,2011/466,Peter Küng,SP,Marcel Schönbächler,CVP,Schul- und Sportdepartement (SSD)
+301,20.11.2019,2019/500,Markus Merki,GLP,Andreas Kirstein,AL,Gemeinderat
+302,07.12.2011,2011/472,Bernhard Piller,Grüne,Helen Glaser,SP,
+303,11.11.2009,2009/516,Heinz F. Steger,FDP,Uschi Heinrich,SP,Tiefbau- und Entsorgungsdepartement (TED)
+304,04.07.2007,2007/384,Claudia Simon,FDP,Kurt Hüssy,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+305,31.08.2011,2011/316,Markus Knauss,Grüne,Samuel Dubno,GLP,Polizeidepartement (PD)
+306,10.06.2009,2009/258,Monika Bloch Süss,CSP,Marlène Butz,SP,Polizeidepartement (PD)
+307,2.6.2004,2004/284,Markus Schwyn,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+308,31.1.2001,2001/52,Markus Schwyn,PFZ,Christian Mettler,SVP,Präsidialdepartement (PRD)
+309,23.01.2008,2008/62,Christine Seidler,SP,Christian Traber,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+310,10.5.2006,2006/168,Susi Gut,PFZ,Hedy Schlatter,SVP,
+311,11.7.2007,2007/409,Kyriakos Papageorgiou,SP,Alexander Jäger,FDP,Departement der Industriellen Betriebe (DIB)
+312,7.12.2005,2005/530,Andreas Ammann,SP,Christine Stokar Gasser,SP,
+313,20.9.2006,2006/395,Myrtha Meuli,SP,Josef Widler,CVP,Sozialdepartement (SD)
+314,14.07.2010,2010/313,Andrew Katumba,SP,Gabriele Kisker,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+315,11.6.2003,2003/207,Heidi Bucher-Steinegger,Grüne,Walter Angst,AL,Schul- und Sportdepartement (SSD)
+316,05.10.2016,2016/342,Marco Denoth,SP,Martin Luchsinger,GLP,
+317,21.03.2007,2007/145,Fakir Atalay,SP,Andrew Katumba,SP,Präsidialdepartement (PRD)
+318,27.09.2006,2006/418,Matthias Probst,Grüne,Richard Rabelbauer,EVP,Präsidialdepartement (PRD)
+319,08.01.20,2018/315,Isabel Garcia,GLP,Michael Schmid,FDP,
+320,06.01.2016,2016/9,Markus Baumann,GLP,Alan David Sangines,SP,
+321,9.11.2005,2005/450,Susi Gut,PFZ,Roger Bartholdi,SVP,Gesundheits- und Umweltdepartement (GUD)
+322,15.12.2006,2006/593,Daniela Schicker,AL,Peider Filli,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+323,25.6.2008,2008/301,Gabriele Kisker,Grüne,Monika Bloch Süss,CSP,Schul- und Sportdepartement (SSD)
+324,1.11.2000,2000/529,Markus Schwyn,PFZ,Mauro Tuena,SVP,Finanzdepartement (FD)
+325,10.3.2004,2004/119,Alexander Jäger,FDP,Willy Furter,EVP,Schul- und Sportdepartement (SSD)
+326,15.12.2010,2010/529,Christina Hug,Grüne,Claudia Rabelbauer,EVP,Schul- und Sportdepartement (SSD)
+327,18.04.2012,2012/174,Katrin Wüthrich,SP,Marcel Schönbächler,CVP,Hochbaudepartement (HBD)
+328,7.6.2006,2006/222,Christine Seidler,SP,Mario Mariani,CVP,
+329,29.10.2003,2003/401,Mauro Tuena,SVP,Susi Gut,PFZ,Stadtschreiber/in (STS)
+330,6.12.2006,2006/578,Marlène Butz,SP,Theresa G. Hensch-Stadelmann,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+331,03.07.2019,2019/310,Monika Bätschmann,Grüne,Christine Seidler,SP,Gemeinderat
+332,31.10.2012,2012/389,Min Li Marti,SP,Isabel Garcia,GLP,
+333,10.07.2019,2019/338,Balz Bürgisser,Grüne,Jean-Daniel Strub,SP,Gemeinderat
+334,09.05.2007,2007/233,Ernst Danner,EVP,Jean-Claude Virchaux,CVP,Schul- und Sportdepartement (SSD)
+335,2.10.2002,2002/404,Christoph Hug,Grüne,Gerold Lauber,CVP,
+336,05.07.2017,2017/227,Heidi Egger,SP,Reto Rudolf,CVP,Stadtrat
+337,21.5.2003,2003/171,Georg Schmid,CVP,Ernst Danner,EVP,Polizeidepartement (PD)
+338,08.01.20,2004/482,Roger Liebi,SVP,Markus Schwyn,PFZ,
+339,13.11.2019,2019/489,Pascal Lamprecht,SP,Marcel Müller,FDP,Stadtrat
+340,24.10.2007,2007/569,Claudia Simon,FDP,Ruth Anhorn,SVP,Schul- und Sportdepartement (SSD)
+341,08.01.20,2001/289,Christoph Hug,Grüne,Joe A. Manser,SP,
+342,30.5.2001,2001/288,Markus Schwyn,PFZ,Christopher Vohdin,SVP,Präsidialdepartement (PRD)
+343,09.05.2012,2007/232,Jean-Claude Virchaux,CVP,Ernst Danner,EVP,
+344,05.07.2017,2017/226,Christine Seidler,SP,Mario Mariani,CVP,Stadtrat
+345,03.07.2019,2019/311,Zilla Roose,SP,Markus Merki,GLP,Stadtrat
+346,04.12.2013,2013/428,Samuel Dubno,GLP,Marc Bourgeois,FDP,
+347,18.04.2012,2012/175,Daniel Meier,CVP,Florian Utz,SP,
+348,06.01.2016,2016/8,Markus Knauss,Grüne,Marco Denoth,SP,
+349,10.3.2004,2004/124,Ernst Danner,EVP,Kurt Maeder,CVP,Finanzdepartement (FD)
+350,10.3.1999,1999/93,Markus Bischoff,AL,Balthasar Glättli,Grüne,Polizeidepartement (PD)
+351,02.07.2008,2008/314,Min Li Marti,SP,Christina Hug,Grüne,Präsidialdepartement (PRD)
+352,16.06.2010,2010/266,Florian Utz,SP,Guido Trevisan,GLP,
+353,5.12.2007,2007/636,Walter Angst,AL,Jacqueline Badran,SP,Finanzdepartement (FD)
+354,13.9.2000,2000/448,Markus Schwyn,PFZ,Theo Hauri,SVP,Hochbaudepartement (HBD)
+355,02.11.2016,2016/380,Ezgi Akyol,AL,Linda Bär,SP,Stadtrat
+356,14.07.2010,2010/312,Marianne Dubs Früh,SP,Thomas Wyss,Grüne,
+357,14.7.1999,1999/334,Markus Bischoff,AL,Reto Dettli,SP,Hochbaudepartement (HBD)
+358,7.7.1999,1999/320,Kurt Tschopp,CVP,Rolf Kuhn,SP,Tiefbau- und Entsorgungsdepartement (TED)
+359,10.5.2006,2006/169,Peider Filli,Grüne,Niklaus Scherr,AL,
+360,28.1.1998,1998/38,Luzi Rüegg,SVP,Köbi Möri,Parteilos,Hochbaudepartement (HBD)
+361,2.6.2004,2004/285,Markus Schwyn,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+362,20.04.2016,2016/141,Markus Hungerbühler,CVP,Urs Fehr,SVP,
+363,11.1.1995,1993/155,Peter Stähli-Barth,SP,Paul Kleger,FDP,Hochbaudepartement (HBD)
+364,6.2.2008,2008/88,Mirella Wepf,SP,Ernst Danner,EVP,Hochbaudepartement (HBD)
+365,10.1.2001,2001/6,Joe A. Manser,SP,Guido Wick,FDP,Polizeidepartement (PD)
+366,04.11.2009,2009/503,Theo Hauri,SVP,Heinz F. Steger,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+367,31.08.2011,2011/317,Monika Erfigen,SVP,Marianne Aubert,SP,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
+368,6.6.2001,2001/317,Luzi Rüegg,SVP,Markus Schwyn,PFZ,Departement der Industriellen Betriebe (DIB)
+369,05.06.2019,2019/249,Balz Bürgisser,Grüne,Roger Bartholdi,SVP,Stadtrat
+370,6.6.2001,2001/313,Luzi Rüegg,SVP,Markus Schwyn,PFZ,Tiefbau- und Entsorgungsdepartement (TED)
+371,17.5.2006,2006/186,Bruno Amacker,SVP,Christian Traber,CVP,Polizeidepartement (PD)
+372,07.12.2011,2011/475,Hans Jörg Käppeli,SP,Guido Trevisan,GLP,
+373,04.10.2017,2017/356,Mathias Egloff,SP,Ronny Siev,GLP,Stadtrat
+374,18.12.2002,2002/561,Robert Schönbächler,CVP,Claudia Nielsen,SP,Tiefbau- und Entsorgungsdepartement (TED)
+375,27.09.2017,2017/342,Pascal Lamprecht,SP,Mario Mariani,CVP,
+376,4.6.2008,2008/258,Myrtha Meuli,SP,Ernst Danner,EVP,Sozialdepartement (SD)
+377,27.9.2000,2000/464,Christian Mettler,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+378,11.4.2007,2007/183,Rebekka Wyler,SP,Pascal Pauli,Grüne,Sozialdepartement (SD)
+379,28.6.2000,2000/302,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+380,10.11.2010,2010/464,Mario Mariani,CVP,Heinz F. Steger,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+381,28.3.2007,2007/168,Ernst Danner,EVP,Daniel Meier,CVP,Sozialdepartement (SD)
+382,27.9.2006,2006/421,Robert Schönbächler,CVP,Pierino Cerliani,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+383,8.11.2000,2000/538,Markus Schwyn,PFZ,Christian Mettler,SVP,Hochbaudepartement (HBD)
+384,22.10.2008,2008/476,Marco V. Camin,FDP,Ueli Nagel,Grüne,Gesundheits- und Umweltdepartement (GUD)
+385,1.10.2008,2008/462,Peter Stähli-Barth,SP,Bruno Sidler,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+386,17.1.2007,2007/22,Markus Knauss,Grüne,Myriam Barzotto,SP,Präsidialdepartement (PRD)
+387,24.9.2003,2003/362,Susi Gut,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+388,30.6.1999,1999/293,Reto Dettli,SP,Balthasar Glättli,Grüne,Polizeidepartement (PD)
+389,30.10.2019,2019/473,Olivia Romanelli,AL,Ernst Danner,EVP,Gemeinderat
+390,01.07.2009,2009/301,Heinz F. Steger,FDP,Josef Widler,CVP,
+391,30.10.2019,2019/467,Balz Bürgisser,Grüne,Roger Bartholdi,SVP,Stadtrat
+392,08.02.2017,2017/27,Pawel Silberring,SP,Guy Krayenbühl,GLP,Stadtrat
+393,25.9.2002,2002/367,Bruno Garzotto,SVP,Hans Bachmann,FDP,Sozialdepartement (SD)
+394,2.10.2002,2002/401,Daniel Leupi,Grüne,Christian Traber,CVP,Polizeidepartement (PD)
+395,9.5.2007,2007/237,Daniel Leupi,Grüne,Doris Weber,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+396,20.11.2019,2019/499,Balz Bürgisser,Grüne,Maya Kägi Götz,SP,Zuteilung ausstehend
+397,22.10.1997,1997/428,Luzia Vieli-Hardegger,LdU,Simone Bertogg-Baudet,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+398,3.3.2004,2004/99,Roger Bartholdi,SVP,Susi Gut,PFZ,Tiefbau- und Entsorgungsdepartement (TED)
+399,08.07.2009,2009/328,Jacqueline Badran,SP,Andreas Ammann,SP,Geschäftsbericht Stadtrat
+400,6.12.2006,2006/568,Bastien Girod,Grüne,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+401,28.11.2018,2018/463,Pablo Bünger,FDP,Helen Glaser,SP,
+402,02.04.2014,2014/109,Bernhard Piller,Grüne,Andrea Leitner Verhoeven,AL,
+403,09.11.2016,2016/391,Simone Brander,SP,Christina Schiller,AL,Departement der Industriellen Betriebe (DIB)
+404,7.3.2001,2001/104,Emil Seliner,SP,Placidus Maissen,CVP,Hochbaudepartement (HBD)
+405,12.11.2008,2008/517,Ernst Danner,EVP,Ruth Ackermann,CVP,Hochbaudepartement (HBD)
+406,27.9.2000,2000/465,Christian Mettler,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+407,03.11.2010,2010/459,Urs Rechsteiner,CVP,Daniel Meier,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+408,4.6.2008,2008/259,Josef Widler,CVP,Heinz Jacobi,SP,Sozialdepartement (SD)
+409,18.12.2002,2002/560,Renate Schoch,AL,Min Li Marti,SP,Hochbaudepartement (HBD)
+410,23.05.2012,2012/212,Isabel Garcia,GLP,Claudia Simon,FDP,Sozialdepartement (SD)
+411,21.1.1998,1998/29,Max Müller,SVP,Armin W. Zenger,LdU,Tiefbau- und Entsorgungsdepartement (TED)
+412,7.7.1999,1999/319,Rolf Kuhn,SP,Kurt Tschopp,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+413,6.6.2001,2001/306,Markus Schwyn,PFZ,Monika Erfigen,SVP,Finanzdepartement (FD)
+414,05.06.2019,2019/248,Sebastian Vogel,FDP,Guido Hüni,GLP,Stadtrat
+415,4.3.2009,2000/129,Robert Schönbächler,CVP,Heinz Bögle,SP,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
+416,16.05.2012,2010/129,Walter Angst,AL,Karin Rykart Sutter,Grüne,Finanzdepartement (FD)
+417,04.11.2009,2009/504,Heinz F. Steger,FDP,Theo Hauri,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+418,4.7.2007,2007/382,Daniela Schicker,AL,Peider Filli,Grüne,Schul- und Sportdepartement (SSD)
+419,14.1.1998,1998/17,Ruth Zollinger,FraP,Marie-Therese Meier,SP,Schul- und Sportdepartement (SSD)
+420,17.03.2010,2007/355,Claudia Rabelbauer,EVP,Mario Mariani,CVP,
+421,12.11.2008,2008/515,Hanspeter Kunz,EVP,Mario Mariani,CVP,Polizeidepartement (PD)
+422,08.01.20,2006/387,Niklaus Scherr,AL,Albert Leiser,FDP,
+423,8.1.2003,2003/3,Christopher Vohdin,SVP,Markus Schwyn,PFZ,Hochbaudepartement (HBD)
+424,21.11.2012,2006/393,Daniel Leupi,Grüne,André Odermatt,SP,
+425,02.03.2016,2016/64,Marcel Bührig,Grüne,Sven Sobernheim,GLP,
+426,25.06.2008,2008/298,Monika Bloch Süss,CSP,Gabriele Kisker,Grüne,Departement der Industriellen Betriebe (DIB)
+427,26.1.2005,2005/24,Markus Schwyn,PFZ,Martin Burger,SVP,Finanzdepartement (FD)
+428,07.02.2018,2018/61,Jean-Daniel Strub,SP,Marcel Bührig,Grüne,
+429,24.8.2005,2005/318,Susi Gut,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+430,03.04.2019,2019/128,Hans Jörg Käppeli,SP,Ann-Catherine Nabholz,GLP,Gemeinderat
+431,23.06.2010,2010/275,Thomas Wyss,Grüne,Hanspeter Kunz,EVP,Finanzdepartement (FD)
+432,1.10.2008,2008/461,Walter Angst,AL,Christine Stokar Gasser,SP,
+433,08.01.20,2006/595,Roger Liebi,SVP,Markus Schwyn,PFZ,
+434,5.12.2004,2004/651,Walter Angst,AL,Balthasar Glättli,Grüne,
+435,12.1.2005,2005/5,Robert Schönbächler,CVP,Ernst Danner,EVP,
+436,21.1.2009,2009/30,Peter Stähli-Barth,SP,Bruno Sidler,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+437,7.6.2006,2006/218,Ueli Nagel,Grüne,Claudia Nielsen,SP,
+438,26.1.2000,2000/28,Markus Bischoff,AL,Markus Knauss,Grüne,Schul- und Sportdepartement (SSD)
+439,11.04.2012,2012/166,Guido Trevisan,GLP,Ursula Uttinger,FDP,
+440,08.01.20,2006/556,Ueli Nagel,Grüne,Claudia Nielsen,SP,
+441,30.10.2019,2019/464,Pascal Lamprecht,SP,Markus Baumann,GLP,Stadtrat
+442,16.6.2004,2004/321,Gregor Bucher,Grüne,Walter Angst,AL,Schul- und Sportdepartement (SSD)
+443,06.07.2011,2011/264,Matthias Probst,Grüne,Marcel Schönbächler,CVP,Polizeidepartement (PD)
+444,06.07.2011,2011/270,Maleica Landolt,GLP,Markus Hungerbühler,CVP,
+445,3.10.2001,2001/502,Kurt Haueter,SVP,Markus Schwyn,PFZ,Stadtschreiber/in (STS)
+446,9.6.1999,1999/247,Ronald Schmid,FDP,Hanna Lienhard,FDP,Präsidialdepartement (PRD)
+447,23.10.2002,2002/416,Salvatore Di Concilio,SP,Balthasar Glättli,Grüne,Polizeidepartement (PD)
+448,2.10.2002,2002/402,Willy Furter,EVP,Robert Schönbächler,CVP,Polizeidepartement (PD)
+449,9.5.2007,2007/234,Bernhard Piller,Grüne,Corine Mauch,SP,
+450,07.01.2009,2009/9,Mario Mariani,CVP,Martin Mächler,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+451,06.01.2010,2010/10,Monika Bloch Süss,CSP,Karin Meier-Bohrer,Grüne,Sozialdepartement (SD)
+452,08.01.20,2003/78,Susann Birrer,FDP,Monika Piesbergen,FDP,
+453,30.10.2019,2019/465,Përparim Avdili,FDP,Pascal Lamprecht,SP,Gemeinderat
+454,04.04.2018,2018/138,Guido Hüni,GLP,Markus Kunz,Grüne,Stadtrat
+455,22.11.2006,2006/543,Judith Bucher,SP,Doris Weber,FDP,
+456,15.06.2016,2016/225,Barbara Wiesmann,SP,Guy Krayenbühl,GLP,Stadtrat
+457,30.09.2009,2006/219,Richard Rabelbauer,EVP,Christian Traber,CVP,
+458,05.03.2014,2014/60,Simone Brander,SP,Guido Trevisan,GLP,
+459,21.1.2009,2009/31,Bruno Sidler,SVP,Peter Stähli-Barth,SP,Tiefbau- und Entsorgungsdepartement (TED)
+460,06.03.2013,2013/69,Simone Brander,SP,Markus Knauss,Grüne,
+461,16.4.1997,1997/167,Marie-Therese Meier,SP,Ruth Zollinger,FraP,Schul- und Sportdepartement (SSD)
+462,24.5.2000,2000/248,Markus Schwyn,PFZ,Christian Mettler,SVP,Sozialdepartement (SD)
+463,03.04.2019,2019/129,Markus Knauss,Grüne,Ann-Catherine Nabholz,GLP,Stadtrat
+464,13.7.2005,2005/292,Mario Mariani,CVP,Hanspeter Kunz,EVP,Hochbaudepartement (HBD)
+465,26.1.2005,2005/25,Michael Baumer,FDP,Bruno Garzotto,SVP,Schul- und Sportdepartement (SSD)
+466,17.05.2017,2017/142,Anjushka Früh,SP,Katharina Prelicz-Huber,Grüne,
+467,02.11.2016,2016/379,Dorothea Frei,SP,Heinz Schatt,SVP,
+468,01.12.2010,2010/499,Matthias Probst,Grüne,Martin Luchsinger,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+469,16.1.2002,2002/10,Mauro Tuena,SVP,Markus Schwyn,PFZ,Schul- und Sportdepartement (SSD)
+470,08.07.2015,2015/245,Ann-Catherine Nabholz,GLP,Heinz F. Steger,FDP,Stadtrat
+471,14.07.2010,2010/314,Andrew Katumba,SP,Gabriele Kisker,Grüne,Polizeidepartement (PD)
+472,7.2.2001,2001/55,Balthasar Glättli,Grüne,Niklaus Scherr,AL,Polizeidepartement (PD)
+473,2.6.2004,2004/283,Susi Gut,PFZ,Hansruedi Bär,SVP,Präsidialdepartement (PRD)
+474,13.6.2007,2007/354,Richard Rabelbauer,EVP,Alexander Jäger,FDP,Polizeidepartement (PD)
+475,28.01.2015,2015/34,Markus Knauss,Grüne,Hans Jörg Käppeli,SP,Tiefbau- und Entsorgungsdepartement (TED)
+476,14.1.1998,1998/16,Robert Schönbächler,CVP,Placidus Maissen,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+477,23.1.2008,2008/59,Andreas Ammann,SP,Rolf Kuhn,SP,Departement der Industriellen Betriebe (DIB)
+478,27.11.2019,2019/511,Balz Bürgisser,Grüne,Patrik Maillard,AL,Stadtrat
+479,19.06.2019,2019/277,Balz Bürgisser,Grüne,Sebastian Vogel,FDP,Gemeinderat
+480,30.01.2008,2008/83,Martin Abele,Grüne,Monika Bloch Süss,CSP,Geschäftsbericht Stadtrat
+481,27.11.2019,2019/520,Ezgi Akyol,AL,Luca Maggi,Grüne,
+482,27.11.2019,2019/508,Marion Schmid,SP,Maria del Carmen Señorán,SVP,Stadtrat
+483,26.06.2019,2019/291,Sebastian Vogel,FDP,Balz Bürgisser,Grüne,Gemeinderat
+484,6.5.1998,1998/138,Monjek Rosenheim,FDP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+485,24.06.2009,2009/285,Monika Bloch Süss,CSP,Gabriele Kisker,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+486,8.4.1998,1998/104,Andrea Widmer Graf,FDP,Hanna Lienhard,FDP,Departement der Industriellen Betriebe (DIB)
+487,08.01.20,1998/33,Johanna Tremp,SP,Kathy Riklin,CVP,Hochbaudepartement (HBD)
+488,13.3.2001,2001/122,Markus Schwyn,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+489,12.12.2001,2001/644,Monika Erfigen,SVP,Markus Schwyn,PFZ,Präsidialdepartement (PRD)
+490,30.11.2005,2005/512,Robert Schönbächler,CVP,Anton Stäbler,CVP,Polizeidepartement (PD)
+491,14.07.2010,2010/319,Hans Jörg Käppeli,SP,Roger Tognella,FDP,Geschäftsbericht Stadtrat
+492,25.6.2003,2003/231,Anton Stäbler,CVP,Robert Schönbächler,CVP,
+493,08.01.20,2006/406,Gregor Bucher,Grüne,Muriel Herzig,Grüne,
+494,28.03.2007,2007/167,Pascal Pauli,Grüne,Martin Sarbach,SP,Polizeidepartement (PD)
+495,23.11.2016,2016/406,Linda Bär,SP,Ann-Catherine Nabholz,GLP,Stadtrat
+496,30.8.2006,2006/348,Andrew Katumba,SP,Gabriele Kisker,Grüne,Polizeidepartement (PD)
+497,21.11.2018,2018/451,Pirmin Meyer,GLP,Zilla Roose,SP,Stadtrat
+498,03.04.2019,2019/130,Matthias Probst,Grüne,Michael Kraft,SP,Stadtrat
+499,8.11.2000,2000/537,Peter Mächler,SVP,Markus Schwyn,PFZ,Sozialdepartement (SD)
+500,01.04.2009,2009/118,Beatrice Reimann,SP,Andreas Ammann,SP,Tiefbau- und Entsorgungsdepartement (TED)
+501,06.03.2013,2013/70,Hans Jörg Käppeli,SP,Marcel Schönbächler,CVP,
+502,21.1.2009,2009/28,Peter Stähli-Barth,SP,Bruno Sidler,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+503,21.6.2000,2000/292,Peter Marti,FDP,Monjek Rosenheim,FDP,Stadtschreiber/in (STS)
+504,05.02.2014,2014/45,Jean-Daniel Strub,SP,Martin Luchsinger,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+505,15.06.2016,2016/228,Walter Angst,AL,Markus Merki,GLP,
+506,04.04.2018,2018/135,Markus Kunz,Grüne,Helen Glaser,SP,
+507,23.10.2019,2019/440,Katharina Prelicz-Huber,Grüne,Vera Ziswiler,SP,Stadtrat
+508,08.07.2009,2009/326,Jacqueline Badran,SP,Andreas Ammann,SP,
+509,22.05.2013,2013/184,Gabriele Kisker,Grüne,Eva-Maria Würth,SP,
+510,5.3.2003,2003/75,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+511,21.12.2011,2010/35,Claudia Nielsen,SP,Bernhard Piller,Grüne,Departement der Industriellen Betriebe (DIB)
+512,9.5.2007,2007/238,Martin Sarbach,SP,Katrin Schönenberger-Meier,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+513,5.3.2003,2003/74,Roger Liebi,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+514,26.2.2003,2003/60,Werner Sieg,SP,Claudia Rütsche,CVP,
+515,25.9.2002,2002/355,Robert Schönbächler,CVP,Ernst Danner,EVP,Sozialdepartement (SD)
+516,28.06.2017,2017/210,Walter Angst,AL,Isabel Garcia,GLP,Stadtrat
+517,06.07.2011,2011/269,Urs Rechsteiner,CVP,Markus Hungerbühler,CVP,Hochbaudepartement (HBD)
+518,22.05.2013,2013/185,Renate Fischer,SP,Martin Bürki,FDP,Stadtrat
+519,12.03.2008,2008/120,Mario Mariani,CVP,Albert Leiser,FDP,Hochbaudepartement (HBD)
+520,4.6.2003,2003/185,Susi Gut,PFZ,Raphaela-Franziska Ulcay-Hauser,SVP,Polizeidepartement (PD)
+521,23.10.2019,2019/441,Mathias Egloff,SP,Guido Hüni,GLP,Stadtrat
+522,27.11.2013,2013/422,Alecs Recher,AL,Gabriele Kisker,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+523,21.1.2009,2009/29,Bruno Sidler,SVP,Peter Stähli-Barth,SP,Tiefbau- und Entsorgungsdepartement (TED)
+524,02.04.2014,2014/106,Christina Hug,Grüne,Jean-Daniel Strub,SP,
+525,21.11.2018,2018/450,Ezgi Akyol,AL,Nadia Huberson,SP,
+526,30.08.2006,2006/349,Yvonne Müller,SP,Astrid Hirzel,CVP,Hochbaudepartement (HBD)
+527,10.3.1999,1999/100,Romeo Steiner,CVP,Armin Schilter,SVP,Finanzdepartement (FD)
+528,14.07.2010,2010/318,Roger Tognella,FDP,Hans Jörg Käppeli,SP,Tiefbau- und Entsorgungsdepartement (TED)
+529,21.1.1998,1998/32,Markus Bischoff,AL,Ruth Zollinger,FraP,Polizeidepartement (PD)
+530,10.5.2006,2006/163,Peider Filli,Grüne,Alecs Recher,AL,Präsidialdepartement (PRD)
+531,6.6.2001,2001/309,Markus Schwyn,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+532,22.3.2006,2006/93,Beatrice Reimann,SP,Robert Schönbächler,CVP,Hochbaudepartement (HBD)
+533,22.9.2004,2004/516,Susi Gut,PFZ,Marina Garzotto,SVP,Präsidialdepartement (PRD)
+534,22.3.2000,2000/132,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+535,05.06.2019,2019/245,Luca Maggi,Grüne,Simon Diggelmann,SP,Gemeinderat
+536,22.9.2004,2004/514,Pierino Cerliani,Grüne,Gregor Bucher,Grüne,
+537,19.06.2019,2019/279,Markus Merki,GLP,Ernst Danner,EVP,Stadtrat
+538,26.9.2001,2001/479,Karl Gafner,FDP,Andreas J. Schlegel,FDP,
+539,1.2.2006,2006/46,Roger Tognella,FDP,Bruno Wohler,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+540,29.9.1999,1999/472,Markus Schwyn,PFZ,Christian Mettler,SVP,Sozialdepartement (SD)
+541,13.04.2011,2011/121,Severin Pflüger,FDP,Kurt Hüssy,SVP,
+542,7.3.2001,2001/109,Mauro Tuena,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+543,23.03.2011,2011/89,Michael Baumer,FDP,Markus Knauss,Grüne,Schul- und Sportdepartement (SSD)
+544,06.01.2010,2010/6,Robert Schönbächler,CVP,Ernst Danner,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+545,11.06.2008,2008/268,Bernhard Piller,Grüne,Ernst Danner,EVP,
+546,18.6.2008,2008/283,Walter Angst,AL,Corine Mauch,SP,Finanzdepartement (FD)
+547,23.1.2002,2002/22,Andreas J. Schlegel,FDP,Robert Eggler,FDP,Präsidialdepartement (PRD)
+548,30.1.2002,2002/36,Hans Marolf,SVP,Marcel Knörr,FDP,Sozialdepartement (SD)
+549,3.3.2004,2004/104,Ueli Nagel,Grüne,Willy Furter,EVP,Hochbaudepartement (HBD)
+550,24.8.2005,2005/317,Susi Gut,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+551,02.04.2014,2014/110,Bernhard Piller,Grüne,Andrea Leitner Verhoeven,AL,
+552,25.10.2000,2000/508,Köbi Möri,Parteilos,Mauro Tuena,SVP,Sozialdepartement (SD)
+553,08.01.20,1997/155,Hansueli Züllig,SVP,Robert Schönbächler,CVP,Schul- und Sportdepartement (SSD)
+554,14.1.2009,2009/17,Ueli Nagel,Grüne,Uschi Heinrich,SP,
+555,23.10.2019,2019/443,Përparim Avdili,FDP,Stefan Urech,SVP,Gemeinderat
+556,2.10.2002,2002/394,Doris Fiala,FDP,Andreas J. Schlegel,FDP,Polizeidepartement (PD)
+557,4.6.2003,2003/187,Kurt Krebs,SL,Arthur Bernet,SVP,Gesundheits- und Umweltdepartement (GUD)
+558,04.04.2018,2018/136,Markus Kunz,Grüne,Helen Glaser,SP,
+559,08.01.20,2003/89,Christopher Vohdin,SVP,Markus Schwyn,PFZ,
+560,10.01.2007,2007/8,Pierino Cerliani,Grüne,Michael Baumer,FDP,
+561,5.3.2003,2003/76,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+562,28.06.2017,2017/212,Pawel Silberring,SP,Elena Marti,Grüne,
+563,23.6.1999,1999/274,Robert Schönbächler,CVP,Markus Bischoff,AL,Departement der Industriellen Betriebe (DIB)
+564,21.12.2011,2010/36,Bernhard Piller,Grüne,Davy Graf,SP,Departement der Industriellen Betriebe (DIB)
+565,6.10.1999,1999/506,Christoph Hug,Grüne,Markus Bischoff,AL,
+566,25.01.2017,2017/16,Michel Urben,SP,Karin Meier-Bohrer,Grüne,
+567,18.04.2007,2007/213,Alecs Recher,AL,Martin Abele,Grüne,Polizeidepartement (PD)
+568,25.2.2004,2004/81,Susi Gut,PFZ,Monika Erfigen,SVP,Präsidialdepartement (PRD)
+569,4.6.2003,2003/186,Susi Gut,PFZ,Raphaela-Franziska Ulcay-Hauser,SVP,Schul- und Sportdepartement (SSD)
+570,23.3.2005,2005/114,Susi Gut,PFZ,Mauro Tuena,SVP,Stadtschreiber/in (STS)
+571,04.04.2018,2018/137,Markus Kunz,Grüne,Guido Hüni,GLP,
+572,9.5.2001,2001/242,Markus Schwyn,PFZ,Raphaela-Franziska Ulcay-Hauser,SVP,Präsidialdepartement (PRD)
+573,21.6.2000,2000/290,Markus Schwyn,PFZ,Mauro Tuena,SVP,Departement der Industriellen Betriebe (DIB)
+574,19.11.2003,2003/435,Min Li Marti,SP,Gregor Bucher,Grüne,Präsidialdepartement (PRD)
+575,17.3.2004,2004/139,Susi Gut,PFZ,Bernhard Britschgi,SVP,Präsidialdepartement (PRD)
+576,25.10.2000,2000/509,Köbi Möri,Parteilos,Hans Marolf,SVP,Schul- und Sportdepartement (SSD)
+577,28.3.2007,2007/165,Robert Schönbächler,CVP,Bruno Garzotto,SVP,Finanzdepartement (FD)
+578,16.03.2016,2016/81,Marcel Savarioud,SP,Karin Weyermann,CVP,
+579,08.01.20,1993/410,Toni Baur,Grüne,Ueli Keller,SP,Tiefbau- und Entsorgungsdepartement (TED)
+580,20.06.2018,2018/241,Urs Egger,FDP,Anjushka Früh,SP,Schul- und Sportdepartement (SSD)
+581,02.09.2015,2015/276,Marcel Savarioud,SP,Roger Tognella,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+582,29.9.1999,1999/473,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+583,26.9.2001,2001/478,Karl Gafner,FDP,Andreas J. Schlegel,FDP,Finanzdepartement (FD)
+584,19.06.2019,2019/278,Alexander Brunner,FDP,Pirmin Meyer,GLP,Gemeinderat
+585,22.9.2004,2004/515,Gregor Bucher,Grüne,Pierino Cerliani,Grüne,Präsidialdepartement (PRD)
+586,05.06.2019,2019/250,Andrea Leitner Verhoeven,AL,Ann-Catherine Nabholz,GLP,Stadtrat
+587,05.06.2019,2019/244,Nadia Huberson,SP,Përparim Avdili,FDP,Gemeinderat
+588,27.2.2008,2008/95,Ernst Danner,EVP,Urs Rechsteiner,CVP,Rückzug
+589,17.6.2009,2009/268,Severin Pflüger,FDP,Daniel Meier,CVP,
+590,28.2.2001,2001/89,Markus Schwyn,PFZ,Hansruedi Bär,SVP,Sozialdepartement (SD)
+591,07.12.2011,2011/468,Michel Urben,SP,Marcel Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+592,8.3.2000,2000/109,Joe A. Manser,SP,Max Fritz,FDP,Geschäftsbericht Stadtrat
+593,04.12.2019,2019/532,Guido Hüni,GLP,Sebastian Vogel,FDP,Gemeinderat
+594,27.08.2014,2014/263,Hans Jörg Käppeli,SP,Andreas Kirstein,AL,
+595,2.6.2004,2004/288,Christina Bellin-Isele,SP,Thomas  Kappeler,CVP,Hochbaudepartement (HBD)
+596,20.6.2007,2007/363,Albert Leiser,FDP,Hedy Schlatter,SVP,Sozialdepartement (SD)
+597,30.03.2011,2011/98,Marc Bourgeois,FDP,Guido Trevisan,GLP,
+598,16.11.2016,2016/399,Katharina Prelicz-Huber,Grüne,Gabriela Rothenfluh,SP,
+599,11.07.2018,2018/279,Barbara Wiesmann,SP,Res Marti,Grüne,Stadtrat
+600,4.10.2000,2000/486,Köbi Möri,Parteilos,Luzi Rüegg,SVP,Polizeidepartement (PD)
+601,24.11.2010,2010/486,Christina Hug,Grüne,Isabel Garcia,GLP,Präsidialdepartement (PRD)
+602,5.6.2002,2002/187,Christopher Vohdin,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+603,02.07.2008,2008/325,Dominique Feuillet,SP,Matthias Probst,Grüne,Polizeidepartement (PD)
+604,16.09.2009,2004/667,Susi Gut,PFZ,Thomas Schwendener,SVP,
+605,1.11.2000,2000/525,Köbi Möri,Parteilos,Werner Furrer,SVP,Schul- und Sportdepartement (SSD)
+606,26.02.2014,2014/57,Martin Luchsinger,GLP,Jean-Claude Virchaux,CVP,
+607,05.12.2018,2018/480,Balz Bürgisser,Grüne,Simone Brander,SP,Stadtrat
+608,15.04.2015,2015/110,Michel Urben,SP,Karin Meier-Bohrer,Grüne,Polizeidepartement (PD)
+609,16.6.2004,2004/317,Markus Schwyn,PFZ,Bruno Garzotto,SVP,Sozialdepartement (SD)
+610,30.5.2001,2001/291,Christopher Vohdin,SVP,Markus Schwyn,PFZ,Tiefbau- und Entsorgungsdepartement (TED)
+611,24.10.2007,2007/564,Markus Knauss,Grüne,Beatrice Reimann,SP,
+612,18.12.19,2001/290,Joe A. Manser,SP,Christoph Hug,Grüne,
+613,28.10.2009,2009/484,Andrea Nüssli,SP,Andreas Ammann,SP,
+614,16.01.2019,2019/16,Katharina Prelicz-Huber,Grüne,Natalie Eberle,AL,Gemeinderat
+615,28.1.2004,2004/47,Gregor Bucher,Grüne,Mark Richli,SP,
+616,23.3.2005,2005/111,Roger Liebi,SVP,Markus Schwyn,PFZ,Hochbaudepartement (HBD)
+617,08.04.2015,2015/105,Petek Altinay,SP,Matthias Probst,Grüne,Polizeidepartement (PD)
+618,4.6.2003,2003/183,Daniel Leupi,Grüne,Robert Schönbächler,CVP,Geschäftsbericht Stadtrat
+619,9.5.2001,2001/253,Markus Schwyn,PFZ,Jürg Casparis,SVP,Finanzdepartement (FD)
+620,30.09.2009,2009/447,Jean-Daniel Strub,SP,Balthasar Glättli,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+621,08.06.2016,2016/207,Marco Denoth,SP,Ann-Catherine Nabholz,GLP,
+622,06.12.2018,2018/481,Mischa Schiwow,AL,Marianne Aubert,SP,Stadtrat
+623,13.11.2013,2013/395,Roger Tognella,FDP,Dorothea Frei,SP,Sozialdepartement (SD)
+624,1.11.2000,2000/524,Hans-Ulrich Meier,FDP,Werner Sieg,SP,Hochbaudepartement (HBD)
+625,3.3.2004,2004/100,Susi Gut,PFZ,Roger Bartholdi,SVP,Polizeidepartement (PD)
+626,24.8.2005,2005/313,Markus Schwyn,PFZ,Mauro Tuena,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+627,5.6.2002,2002/186,Christopher Vohdin,SVP,Markus Schwyn,PFZ,
+628,9.11.2005,2005/449,Peter Püntener,GLP,Gerold Lauber,CVP,
+629,29.08.2018,2018/318,Stefan Urech,SVP,Urs Helfenstein,SP,Stadtrat
+630,4.10.2000,2000/487,Köbi Möri,Parteilos,Theo Hauri,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+631,21.3.2007,2007/148,Susi Gut,PFZ,Christian Traber,CVP,Schul- und Sportdepartement (SSD)
+632,16.11.2016,2016/398,Katharina Prelicz-Huber,Grüne,Gabriela Rothenfluh,SP,
+633,18.05.2016,2016/171,Markus Knauss,Grüne,Christian Traber,CVP,
+634,14.12.2011,2011/496,Kathy Steiner,Grüne,Simone Brander,SP,
+635,19.06.2019,2019/282,Olivia Romanelli,AL,Brigitte Fürer,Grüne,Gemeinderat
+636,8.2.2006,2006/56,Pierino Cerliani,Grüne,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+637,03.06.2009,2009/241,Mario Mariani,CVP,Hanspeter Kunz,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+638,6.2.2008,2008/90,Mischa Morgenbesser,FDP,Richard Rabelbauer,EVP,Sozialdepartement (SD)
+639,26.5.2004,2004/262,Susi Gut,PFZ,Hansruedi Bär,SVP,Schul- und Sportdepartement (SSD)
+640,07.12.2011,2011/469,Rebekka Wyler,SP,Walter Angst,AL,Finanzdepartement (FD)
+641,17.06.2009,2009/269,Marcel Z'graggen,CVP,Peter Anderegg,EVP,Finanzdepartement (FD)
+642,27.11.2019,2019/519,Nicole Giger,SP,Sven Sobernheim,GLP,Gemeinderat
+643,22.9.2004,2004/512,Franziska Graf,SP,Thomas  Kappeler,CVP,
+644,12.06.2019,2019/257,Sven Sobernheim,GLP,Res Marti,Grüne,Gemeinderat
+645,03.09.2014,2014/274,Eduard Guggenheim,AL,Adrian Gautschi,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+646,30.1.2008,2008/79,Urs Rechsteiner,CVP,Robert Schönbächler,CVP,Schul- und Sportdepartement (SSD)
+647,13.6.2007,2007/348,Albert Leiser,FDP,Niklaus Scherr,AL,Tiefbau- und Entsorgungsdepartement (TED)
+648,7.7.1999,1999/312,Balthasar Glättli,Grüne,Markus Bischoff,AL,
+649,1.2.2006,2006/40,Salvatore Di Concilio,SP,Robert Schönbächler,CVP,Präsidialdepartement (PRD)
+650,26.9.2001,2001/480,Karl Gafner,FDP,Andreas J. Schlegel,FDP,
+651,11.07.2007,2007/406,Daniel Leupi,Grüne,Claudia Nielsen,SP,Geschäftsbericht Stadtrat
+652,18.05.2016,2016/167,Matthias Probst,Grüne,Davy Graf,SP,
+653,08.01.20,2005/39,Maya Burri-Wenger,SP,Gerold Lauber,CVP,
+654,25.6.2003,2003/234,Walter Angst,AL,Balthasar Glättli,Grüne,Finanzdepartement (FD)
+655,19.06.2013,2013/234,Niklaus Scherr,AL,Albert Leiser,FDP,
+656,3.3.2004,2004/102,Gregor Bucher,Grüne,Mark Richli,SP,
+657,1.11.2000,2000/526,Niklaus Scherr,AL,Heinz Jacobi,SP,Departement der Industriellen Betriebe (DIB)
+658,09.06.2010,2010/254,Sacha Walker,GLP,Rebekka Wyler,SP,Polizeidepartement (PD)
+659,22.10.2003,2003/383,Susi Gut,PFZ,Bruno Wohler,SVP,Polizeidepartement (PD)
+660,15.12.2004,2004/670,Hans Jörg Käppeli,SP,Kurt Maeder,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+661,01.04.2009,2009/121,Monika Bloch Süss,CSP,Marianne Spieler Frauenfelder,SP,Tiefbau- und Entsorgungsdepartement (TED)
+662,2.2.2000,2000/35,Robert Schönbächler,CVP,Andres Türler,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+663,24.1.2007,2007/28,Bernhard Piller,Grüne,André Odermatt,SP,
+664,26.05.2010,2006/577,Pierino Cerliani,Grüne,Claudia Rabelbauer,EVP,
+665,08.06.2016,2016/205,Urs Egger,FDP,Anjushka Früh,SP,
+666,23.6.2004,2004/328,Alexander Jäger,FDP,Pierino Cerliani,Grüne,Polizeidepartement (PD)
+667,9.6.2004,2004/300,Niklaus Scherr,AL,Albert Leiser,FDP,
+668,24.10.2001,2001/523,Doris Fiala,FDP,Andreas J. Schlegel,FDP,Finanzdepartement (FD)
+669,23.3.2005,2005/107,Maya Burri-Wenger,SP,Roger Tognella,FDP,Polizeidepartement (PD)
+670,15.9.2004,2004/499,Gregor Bucher,Grüne,Daniel Leupi,Grüne,Schul- und Sportdepartement (SSD)
+671,13.01.2010,2010/24,Hans Jörg Käppeli,SP,Ruth Ackermann,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+672,13.11.2019,2019/486,Anjushka Früh,SP,Katharina Prelicz-Huber,Grüne,Gemeinderat
+673,17.04.2013,2013/156,Alan David Sangines,SP,Samuel Dubno,GLP,
+674,18.4.2007,2007/214,Balthasar Glättli,Grüne,Jacqueline Badran,SP,
+675,08.01.20,2002/423,Karl Gafner,FDP,Andreas J. Schlegel,FDP,
+676,30.5.2001,2001/286,Bruno Sidler,SVP,Markus Schwyn,PFZ,Schul- und Sportdepartement (SSD)
+677,23.01.2019,2019/28,Markus Baumann,GLP,Marcel Tobler,SP,Gemeinderat
+678,08.01.20,2002/422,Karl Gafner,FDP,Andreas J. Schlegel,FDP,
+679,21.06.2017,2017/201,Isabel Garcia,GLP,Michael Schmid,FDP,
+680,30.5.2001,2001/287,Markus Schwyn,PFZ,Rolf André Siegenthaler-Benz,SVP,Finanzdepartement (FD)
+681,24.10.2007,2007/567,Mauro Tuena,SVP,Urs Egger,FDP,Präsidialdepartement (PRD)
+682,21.03.2018,2018/119,Markus Knauss,Grüne,Simone Brander,SP,
+683,25.2.2004,2004/87,Susi Gut,PFZ,Monika Erfigen,SVP,Polizeidepartement (PD)
+684,12.03.2014,2014/69,Duri Beer,SP,Peider Filli,Grüne,Stadtrat
+685,12.11.2003,2003/427,Susi Gut,PFZ,Mauro Tuena,SVP,Schul- und Sportdepartement (SSD)
+686,6.12.2006,2006/576,Pierino Cerliani,Grüne,Mario Mariani,CVP,Departement der Industriellen Betriebe (DIB)
+687,24.1.2007,2007/29,Karin Rykart Sutter,Grüne,Hans Urs von Matt,SP,
+688,1.10.2003,2003/369,Daniel Leupi,Grüne,Christian Traber,CVP,Departement der Industriellen Betriebe (DIB)
+689,12.1.2000,2000/20,Markus Schwyn,PFZ,Hansruedi Bär,SVP,Sozialdepartement (SD)
+690,30.10.2013,2013/369,Marcel Schönbächler,CVP,Peter Küng,SP,
+691,23.11.2005,2005/489,Balthasar Glättli,Grüne,Gerold Lauber,CVP,
+692,7.1.2009,2009/10,Daniel Meier,CVP,Peter Anderegg,EVP,Gesundheits- und Umweltdepartement (GUD)
+693,18.04.2012,2008/333,Martin Sarbach,SP,Markus Knauss,Grüne,
+694,01.04.2009,2009/120,Hans Bachmann,FDP,Peter Anderegg,EVP,Polizeidepartement (PD)
+695,15.12.2004,2004/671,Hans Jörg Käppeli,SP,Kurt Maeder,CVP,Departement der Industriellen Betriebe (DIB)
+696,08.01.20,2018/327,Pascal Lamprecht,SP,Markus Baumann,GLP,
+697,3.3.2004,2004/103,Ueli Nagel,Grüne,Franziska Graf,SP,Gesundheits- und Umweltdepartement (GUD)
+698,15.12.2004,2004/665,Myriam Barzotto,SP,Christoph Hug,Grüne,Gesundheits- und Umweltdepartement (GUD)
+699,26.03.2014,2014/96,Eva-Maria Würth,SP,Karin Weyermann,CVP,
+700,20.03.2019,2019/108,Markus Baumann,GLP,Marco Geissbühler,SP,Gemeinderat
+701,18.6.2008,2008/284,Niklaus Scherr,AL,Jacqueline Badran,SP,Finanzdepartement (FD)
+702,19.06.2013,2013/235,Guido Trevisan,GLP,Marcel Schönbächler,CVP,Stadtrat
+703,5.12.2007,2007/639,Walter Angst,AL,Jean-Claude Virchaux,CVP,Sozialdepartement (SD)
+704,13.9.2000,2000/447,Markus Schwyn,PFZ,Mauro Tuena,SVP,Präsidialdepartement (PRD)
+705,14.06.2017,2017/188,Ann-Catherine Nabholz,GLP,Gabriele Kisker,Grüne,
+706,14.12.2011,2011/495,Hans Jörg Käppeli,SP,Thomas Wyss,Grüne,
+707,19.6.2002,2002/218,Marcel Savarioud,SP,Gerold Lauber,CVP,
+708,26.5.2004,2004/261,Bernhard Britschgi,SVP,Susi Gut,PFZ,Polizeidepartement (PD)
+709,04.12.2019,2019/524,Marion Schmid,SP,Corina Ursprung,FDP,Gemeinderat
+710,13.6.2001,2001/330,Markus Schwyn,PFZ,Marina Garzotto,SVP,Präsidialdepartement (PRD)
+711,03.09.2014,2014/275,Markus Knauss,Grüne,Simone Brander,SP,Tiefbau- und Entsorgungsdepartement (TED)
+712,10.06.2009,2009/256,Pierino Cerliani,Grüne,Jean-Daniel Strub,SP,
+713,06.02.2008,2008/87,Gregor Bucher,Grüne,Mischa Morgenbesser,FDP,Schul- und Sportdepartement (SSD)
+714,04.12.2019,2019/530,Florian Utz,SP,Matthias Probst,Grüne,Stadtrat
+715,6.6.2001,2001/318,Renate Schoch,AL,Thelma Huber,FraP,Hochbaudepartement (HBD)
+716,12.5.2004,2004/249,Susi Gut,PFZ,Kurt Haueter,SVP,Hochbaudepartement (HBD)
+717,21.8.2002,2002/280,Georg Schmid,CVP,Ernst Danner,EVP,Polizeidepartement (PD)
+718,22.05.2019,2019/225,Elena Marti,Grüne,Alan David Sangines,SP,Gemeinderat
+719,3.7.2002,2002/243,Georg Schmid,CVP,Ernst Danner,EVP,Polizeidepartement (PD)
+720,27.11.2002,2002/519,Rolf Kuhn,SP,Anton Stäbler,CVP,Sozialdepartement (SD)
+721,14.3.2001,2001/155,Luzi Rüegg,SVP,Markus Schwyn,PFZ,Hochbaudepartement (HBD)
+722,21.3.2001,2001/169,Markus Schwyn,PFZ,Bruno Sidler,SVP,Finanzdepartement (FD)
+723,9.3.2005,2005/88,Susi Gut,PFZ,Mauro Tuena,SVP,Departement der Industriellen Betriebe (DIB)
+724,26.06.2013,2013/252,Simon Kälin-Werth,Grüne,Andreas Edelmann,SP,
+725,25.10.2006,2006/459,Richard Rabelbauer,EVP,Daniel Meier,CVP,Finanzdepartement (FD)
+726,21.11.2018,2015/405,Roger Tognella,FDP,Marco Denoth,SP,
+727,31.3.2004,2004/164,Gerold Lauber,CVP,Albert Leiser,FDP,Sozialdepartement (SD)
+728,21.9.2005,2005/377,Susi Gut,PFZ,Mauro Tuena,SVP,Präsidialdepartement (PRD)
+729,5.10.2005,2005/411,Robert Schönbächler,CVP,Anton Stäbler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+730,25.11.2015,2015/377,Urs Fehr,SVP,Mario Mariani,CVP,
+731,07.11.2018,2018/426,Corina Gredig,GLP,Jean-Daniel Strub,SP,Stadtrat
+732,31.3.2004,2004/170,Susi Gut,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+733,1.3.2000,2000/90,Markus Schwyn,PFZ,Marina Garzotto,SVP,Departement der Industriellen Betriebe (DIB)
+734,19.11.2003,2003/440,Roger Liebi,SVP,Catrina Luchsinger Gähwiler,FDP,Finanzdepartement (FD)
+735,16.01.2013,2013/13,Gian von Planta,GLP,Patrick Hadi Huber,SP,
+736,11.12.2013,2013/440,2013_0440 Protokollauszug Beschluss.pdf,32 KB,2013_0440 Protokollauszug substanziell.pdf,35 KB,"Abschreibung, Geschäftsbericht"
+737,28.9.2005,2005/388,Markus Schwyn,PFZ,Mauro Tuena,SVP,Polizeidepartement (PD)
+738,23.09.2009,2009/437,Josef Widler,CVP,Ernst Danner,EVP,Gesundheits- und Umweltdepartement (GUD)
+739,30.10.2002,2002/445,Hans-Ulrich Meier,FDP,Alexander Weber,SVP,Finanzdepartement (FD)
+740,23.08.2017,2017/266,Markus Baumann,GLP,Alexander Brunner,FDP,
+741,30.10.2002,2002/450,Markus Schwyn,PFZ,Raphaela-Franziska Ulcay-Hauser,SVP,Gesundheits- und Umweltdepartement (GUD)
+742,09.01.2013,2013/5,Esther Straub,SP,Kathy Steiner,Grüne,Polizeidepartement (PD)
+743,27.05.2015,2015/160,Roger-Paul Speck,SP,Sven Sobernheim,GLP,
+744,13.03.2019,2019/98,Markus Merki,GLP,Stefan Urech,SVP,Gemeinderat
+745,11.5.2005,2005/174,Robert Schönbächler,CVP,Anton Stäbler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+746,26.11.2003,2003/455,Markus Schwyn,PFZ,Roger Bartholdi,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+747,06.07.2016,2016/262,Andreas Egli,FDP,Markus Hungerbühler,CVP,
+748,31.08.2016,2016/289,Karin Meier-Bohrer,Grüne,Michel Urben,SP,
+749,21.05.2014,2014/165,Andreas Kirstein,AL,Isabel Garcia,GLP,Schul- und Sportdepartement (SSD)
+750,17.12.2003,2003/496,Susi Gut,PFZ,Roger Liebi,SVP,Präsidialdepartement (PRD)
+751,12.09.2018,2018/341,Andri Silberschmidt,FDP,Gabriele Kisker,Grüne,Stadtrat
+752,27.01.2016,2016/36,Andrea Nüssli,SP,Christian Traber,CVP,
+753,6.2.2002,2002/57,Robert Schönbächler,CVP,Willy Furter,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+754,25.10.2006,2006/458,Richard Rabelbauer,EVP,Daniel Meier,CVP,Finanzdepartement (FD)
+755,28.3.2001,2001/197,Ruth Anhorn,SVP,Markus Schwyn,PFZ,Sozialdepartement (SD)
+756,21.12.2016,2016/470,Hans Jörg Käppeli,SP,Markus Knauss,Grüne,
+757,12.04.2017,2017/105,Andreas Kirstein,AL,Albert Leiser,FDP,
+758,14.3.2001,2001/154,Markus Schwyn,PFZ,Jürg Casparis,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+759,13.06.2018,2018/221,Anjushka Früh,SP,Luca Maggi,Grüne,Sicherheitsdepartement (SID)
+760,6.9.2000,2000/435,Markus Schwyn,PFZ,Arthur Bernet,SVP,Polizeidepartement (PD)
+761,01.02.2012,2012/46,Gerhard Bosshard,EVP,Bernhard Piller,Grüne,Hochbaudepartement (HBD)
+762,4.2.1998,1998/45,Placidus Maissen,CVP,Robert Schönbächler,CVP,Polizeidepartement (PD)
+763,3.7.2002,2002/242,Robert Schönbächler,CVP,Ernst Danner,EVP,Polizeidepartement (PD)
+764,14.7.1999,1999/349,Silvia Seiz,SP,Niklaus Scherr,AL,Finanzdepartement (FD)
+765,14.04.2010,2010/186,Marcel Z'graggen,CVP,Martin Mächler,EVP,
+766,5.4.2000,2000/179,Markus Schwyn,PFZ,Thomas Meier,SVP,Sozialdepartement (SD)
+767,26.05.2010,2000/145,Monika Spring-Gross,SP,Katharina Prelicz-Huber,Grüne,
+768,27.5.2009,2009/224,Jean-Claude Virchaux,CVP,Balthasar Glättli,Grüne,Finanzdepartement (FD)
+769,22.8.2001,2001/424,Mauro Tuena,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+770,28.8.2002,2002/297,Andreas J. Schlegel,FDP,Erika Bärtschi Hafner,FDP,Polizeidepartement (PD)
+771,29.3.2000,2000/147,Katharina Prelicz-Huber,Grüne,Monika Spring-Gross,SP,Tiefbau- und Entsorgungsdepartement (TED)
+772,29.8.2001,2001/432,Joe A. Manser,SP,Urs Lauffer,FDP,Hochbaudepartement (HBD)
+773,12.4.2000,2000/184,Theresa G. Hensch-Stadelmann,FDP,Willy Furter,EVP,Gesundheits- und Umweltdepartement (GUD)
+774,14.04.2010,2010/190,Hans Bachmann,FDP,Ruth Anhorn,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+775,20.12.2017,2017/463,Patrick Hadi Huber,SP,Ann-Catherine Nabholz,GLP,Stadtrat
+776,11.03.2015,2015/71,Felix Moser,Grüne,Ann-Catherine Nabholz,GLP,
+777,1.9.1999,1999/405,Romeo Steiner,CVP,Willy Furter,EVP,Hochbaudepartement (HBD)
+778,6.12.2001,2001/630,Niklaus Scherr,AL,Katharina Prelicz-Huber,Grüne,Finanzdepartement (FD)
+779,6.9.2000,2000/437,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+780,15.11.2006,2006/499,Gregor Bucher,Grüne,Mischa Morgenbesser,FDP,Präsidialdepartement (PRD)
+781,11.01.2017,2017/3,Markus Baumann,GLP,Marcel Müller,FDP,Stadtrat
+782,12.7.2006,2006/314,Salvatore Di Concilio,SP,Robert Schönbächler,CVP,
+783,2.3.2005,2005/74,Min Li Marti,SP,Christoph Hug,Grüne,
+784,28.3.2001,2001/195,Köbi Möri,Parteilos,Theo Hauri,SVP,Hochbaudepartement (HBD)
+785,31.01.2018,2018/31,Jean-Daniel Strub,SP,Rosa Maino,AL,Stadtrat
+786,9.2.2005,2005/48,Susi Gut,PFZ,Roger Liebi,SVP,Präsidialdepartement (PRD)
+787,30.1.2002,2002/41,Beat Badertscher,FDP,Werner Sieg,SP,
+788,07.11.2018,2018/425,Urs Helfenstein,SP,Matthias Wiesmann,GLP,Stadtrat
+789,16.12.2015,2015/406,Christina Schiller,AL,Alan David Sangines,SP,
+790,28.03.2012,2012/136,Matthias Probst,Grüne,Richard Wolff,AL,Tiefbau- und Entsorgungsdepartement (TED)
+791,10.9.2003,2003/331,Heidi Bucher-Steinegger,Grüne,Werner Sieg,SP,Polizeidepartement (PD)
+792,3.9.2003,2003/325,Cornelia Schaub,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+793,2.2.2000,2000/44,Niklaus Scherr,AL,Balthasar Glättli,Grüne,Gesundheits- und Umweltdepartement (GUD)
+794,06.02.2013,2013/38,Simone Brander,SP,Ann-Catherine Nabholz,GLP,
+795,12.11.2014,2014/365,Cordula Bieri,Grüne,Markus Baumann,GLP,Sozialdepartement (SD)
+796,21.08.2019,2019/346,Shaibal Roy,GLP,Marcel Bührig,Grüne,Stadtrat
+797,27.05.2015,2015/162,Eduard Guggenheim,AL,Marc Bourgeois,FDP,Geschäftsbericht Stadtrat
+798,18.8.2004,2004/403,Alecs Recher,AL,Robert Schönbächler,CVP,Hochbaudepartement (HBD)
+799,7.5.2008,2008/196,Michael Baumer,FDP,Claudia Rabelbauer,EVP,
+800,05.12.2012,2012/452,Bernhard Piller,Grüne,Andreas Edelmann,SP,Departement der Industriellen Betriebe (DIB)
+801,4.9.2002,2002/320,Roger Liebi,SVP,Markus Schwyn,PFZ,Präsidialdepartement (PRD)
+802,30.10.2002,2002/446,Albert Leiser,FDP,Robert Schönbächler,CVP,Präsidialdepartement (PRD)
+803,21.11.2001,2001/591,Joe A. Manser,SP,Hans-Ulrich Meier,FDP,Hochbaudepartement (HBD)
+804,06.02.2019,2019/59,Pascal Lamprecht,SP,Sven Sobernheim,GLP,Gemeinderat
+805,02.09.2009,2009/391,Salvatore Di Concilio,SP,Peider Filli,Grüne,Departement der Industriellen Betriebe (DIB)
+806,22.08.2012,2012/308,Davy Graf,SP,Joachim Hagger,FDP,Finanzdepartement (FD)
+807,21.1.2004,2004/35,Markus Schwyn,PFZ,Monika Erfigen,SVP,Gesundheits- und Umweltdepartement (GUD)
+808,10.11.1999,1999/564,Lorenz Habicher,SVP,Markus Schwyn,PFZ,Schul- und Sportdepartement (SSD)
+809,27.02.2019,2019/70,Balz Bürgisser,Grüne,Jean-Daniel Strub,SP,Gemeinderat
+810,06.02.2019,2019/58,Pirmin Meyer,GLP,Marcel Tobler,SP,Stadtrat
+811,2.4.2003,2003/126,Cornelia Schaub,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+812,30.10.2002,2002/447,Marcel Knörr,FDP,Hans Diem,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+813,7.7.2004,2004/364,Martin Burger,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+814,11.5.2005,2005/177,Susi Gut,PFZ,Bruno Sidler,SVP,Präsidialdepartement (PRD)
+815,20.11.2002,2002/490,Hans Diem,CVP,Erika Bärtschi Hafner,FDP,Hochbaudepartement (HBD)
+816,18.8.2004,2004/402,Alecs Recher,AL,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+817,26.3.2008,2008/140,Martin Sarbach,SP,Markus Knauss,Grüne,
+818,06.02.2013,2013/39,Alan David Sangines,SP,Mario Mariani,CVP,
+819,3.9.2003,2003/324,Susi Gut,PFZ,Bruno Wohler,SVP,Stadtschreiber/in (STS)
+820,19.11.2003,2003/442,Ernst Danner,EVP,Gerold Lauber,CVP,Departement der Industriellen Betriebe (DIB)
+821,30.11.2006,2008/395,Claudia Rabelbauer,EVP,Mario Mariani,CVP,
+822,10.5.2000,2000/224,Monjek Rosenheim,FDP,Andreas J. Schlegel,FDP,Polizeidepartement (PD)
+823,12.09.2018,2018/342,Balz Bürgisser,Grüne,Ann-Catherine Nabholz,GLP,Stadtrat
+824,07.11.2018,2018/424,Andri Silberschmidt,FDP,Jean-Daniel Strub,SP,Stadtrat
+825,29.4.2009,2009/145,Beatrice Reimann,SP,Daniel Leupi,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+826,25.11.2015,2015/375,Anjushka Früh,SP,Eva Hirsiger,Grüne,
+827,12.12.2007,2007/648,Daniel Meier,CVP,Peter Anderegg,EVP,Finanzdepartement (FD)
+828,26.08.2009,2002/40,Robert Kaeser,FDP,Peter Stähli-Barth,SP,
+829,17.01.2018,2018/18,Dorothea Frei,SP,Patrick Albrecht,FDP,
+830,12.04.2017,2017/106,Marcel Bührig,Grüne,Jean-Daniel Strub,SP,Stadtrat
+831,12.7.2006,2006/315,Anton Stäbler,CVP,Robert Schönbächler,CVP,Departement der Industriellen Betriebe (DIB)
+832,11.01.2017,2017/2,Mario Mariani,CVP,Mathias Manz,SP,
+833,7.1.2004,2004/8,Marlène Butz,SP,Georg Schmid,CVP,Polizeidepartement (PD)
+834,17.12.2008,2008/578,Ruth Anhorn,SVP,Albert Leiser,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+835,06.10.2010,2010/422,Matthias Probst,Grüne,Gian von Planta,GLP,
+836,6.9.2000,2000/436,Markus Schwyn,PFZ,Arthur Bernet,SVP,Polizeidepartement (PD)
+837,08.01.20,2017/338,Katharina Prelicz-Huber,Grüne,Gabriela Rothenfluh,SP,
+838,25.1.2006,2006/24,Balthasar Glättli,Grüne,Michael Baumer,FDP,Finanzdepartement (FD)
+839,4.12.2002,2002/527,Susann Birrer,FDP,Monika Piesbergen,FDP,
+840,08.01.20,1996/57,Kurt Tschopp,CVP,Monika Spring-Gross,SP,Tiefbau- und Entsorgungsdepartement (TED)
+841,06.09.2017,2017/304,Ann-Catherine Nabholz,GLP,Balz Bürgisser,Grüne,Stadtrat
+842,16.1.2008,2008/21,Richard Rabelbauer,EVP,Josef Widler,CVP,Sozialdepartement (SD)
+843,14.04.2010,2010/191,Hans Bachmann,FDP,Ruth Anhorn,SVP,Tiefbau- und Entsorgungsdepartement (TED)
+844,04.04.2012,2010/146,Christine Seidler,SP,Alecs Recher,AL,Präsidialdepartement (PRD)
+845,29.3.2000,2000/146,Monika Spring-Gross,SP,Robert Schönbächler,CVP,Polizeidepartement (PD)
+846,20.12.2000,2000/620,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+847,08.01.20,1995/181,Theres Renner,FraP,Anita Zimmerling Enkelmann,SP,Finanzdepartement (FD)
+848,7.4.2004,2004/200,Gregor Bucher,Grüne,Myriam Barzotto,SP,Schul- und Sportdepartement (SSD)
+849,03.06.2009,2009/237,Mario Mariani,CVP,Urs Rechsteiner,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+850,22.8.2001,2001/423,Mauro Tuena,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+851,08.02.2012,2012/55,Ueli Nagel,Grüne,Richard Wolff,AL,Tiefbau- und Entsorgungsdepartement (TED)
+852,21.8.2002,2002/279,Ernst Danner,EVP,Georg Schmid,CVP,Polizeidepartement (PD)
+853,27.5.1998,1998/161,Markus Schwyn,PFZ,Emil Grabherr,SVP,Sozialdepartement (SD)
+854,30.05.2007,2007/300,Gregor Bucher,Grüne,Balthasar Glättli,Grüne,Schul- und Sportdepartement (SSD)
+855,09.12.2009,2009/592,Alecs Recher,AL,Karin Rykart Sutter,Grüne,
+856,08.11.2006,2006/488,Richard Rabelbauer,EVP,Daniel Meier,CVP,Finanzdepartement (FD)
+857,25.5.2005,2005/205,Corine Mauch,SP,Ernst Danner,EVP,
+858,2.12.1999,1999/602,Niklaus Scherr,AL,Katharina Prelicz-Huber,Grüne,Sozialdepartement (SD)
+859,17.01.2018,2018/20,Marcel Müller,FDP,Markus Hungerbühler,CVP,Stadtrat
+860,21.12.2016,2016/463,Eduard Guggenheim,AL,Mario Babini,Parteilos,Stadtrat
+861,17.12.2008,2008/583,Bernhard Piller,Grüne,Martin Mächler,EVP,
+862,1.12.2004,2004/638,Susi Gut,PFZ,Marina Garzotto,SVP,Sozialdepartement (SD)
+863,17.04.2019,2019/155,Florian Blättler,SP,Christian Monn,GLP,Stadtrat
+864,18.11.2015,2015/365,Pawel Silberring,SP,Christian Traber,CVP,Stadtrat
+865,17.4.2002,2002/127,Marcel Savarioud,SP,Gerold Lauber,CVP,Gesundheits- und Umweltdepartement (GUD)
+866,03.10.2018,2018/385,Eduard Guggenheim,AL,Sebastian Vogel,FDP,
+867,15.05.2019,2019/196,Olivia Romanelli,AL,Pawel Silberring,SP,Stadtrat
+868,08.01.20,2013/2,Marcel Z'graggen,CVP,Martin Mächler,EVP,
+869,22.06.2011,2011/219,Gian von Planta,GLP,Markus Knauss,Grüne,
+870,20.4.2005,2005/167,Alecs Recher,AL,Balthasar Glättli,Grüne,Sozialdepartement (SD)
+871,26.3.2008,2008/144,Mario Mariani,CVP,Claudia Rabelbauer,EVP,
+872,18.8.,2004/406,Markus Knauss,Grüne,Niklaus Scherr,AL,Tiefbau- und Entsorgungsdepartement (TED)
+873,06.02.2019,2019/60,Simone Brander,SP,Eduard Guggenheim,AL,Stadtrat
+874,15.1.2003,2003/10,Cornelia Schaub,SVP,Markus Schwyn,PFZ,Präsidialdepartement (PRD)
+875,11.9.2002,2002/331,Roger Liebi,SVP,Markus Schwyn,PFZ,
+876,10.04.2013,2013/136,Ursula Uttinger,FDP,Irene Bernhard,GLP,
+877,11.09.2019,2019/380,Guido Hüni,GLP,Sebastian Vogel,FDP,Stadtrat
+878,26.08.2009,2009/381,Peter Anderegg,EVP,Daniel Meier,CVP,
+879,14.1.2004,2004/24,Monika Erfigen,SVP,Susi Gut,PFZ,Finanzdepartement (FD)
+880,7.7.2004,2004/361,Markus Schwyn,PFZ,Martin Burger,SVP,Präsidialdepartement (PRD)
+881,7.11.2001,2001/556,Susann Birrer,FDP,Monika Piesbergen,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+882,20.4.2005,2005/166,Heinz Bögle,SP,Rosemarie Berthoud,FDP,Sozialdepartement (SD)
+883,05.11.2014,2014/349,Simone Brander,SP,Markus Knauss,Grüne,
+884,22.11.2006,2006/516,Corine Mauch,SP,Balthasar Glättli,Grüne,Sozialdepartement (SD)
+885,03.10.2018,2018/384,Monika Bätschmann,Grüne,Marion Schmid,SP,Stadtrat
+886,17.09.2008,2008/421,Marianne Spieler Frauenfelder,SP,Daniel Leupi,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+887,17.11.2004,2004/605,Markus Schwyn,PFZ,Martin Burger,SVP,Polizeidepartement (PD)
+888,21.05.2014,2014/163,Marcel Bührig,Grüne,Simone Brander,SP,Polizeidepartement (PD)
+889,17.04.2019,2019/154,Marco Denoth,SP,Markus Kunz,Grüne,Präsidialdepartement (PRD)
+890,2.7.2003,2003/255,Balthasar Glättli,Grüne,Mark Roth,SP,
+891,17.01.2018,2018/21,Raphael Kobler,FDP,Markus Hungerbühler,CVP,
+892,7.3.2007,2007/103,Myriam Barzotto,SP,Gregor Bucher,Grüne,Präsidialdepartement (PRD)
+893,17.12.2008,2008/582,Ueli Nagel,Grüne,Claudia Rabelbauer,EVP,Schul- und Sportdepartement (SSD)
+894,10.12.1999,1999/617,Hans-Ulrich Meier,FDP,Romeo Steiner,CVP,Departement der Industriellen Betriebe (DIB)
+895,21.8.2002,2002/278,Ernst Danner,EVP,Georg Schmid,CVP,Polizeidepartement (PD)
+896,8.9.1999,1999/415,Markus Schwyn,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+897,1.9.1999,1999/401,Markus Schwyn,PFZ,Thomas Meier,SVP,Sozialdepartement (SD)
+898,20.6.2001,2001/344,Luzi Rüegg,SVP,Markus Schwyn,PFZ,Polizeidepartement (PD)
+899,08.01.20,2012/287,Severin Pflüger,FDP,Daniel Meier,CVP,
+900,03.06.2009,2009/236,Ruth Ackermann,CVP,Ernst Danner,EVP,
+901,3.11.2004,2004/567,Thomas  Kappeler,CVP,Michael Baumer,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+902,02.11.2011,2011/408,Fiammetta Jahreiss-Montagnani,SP,Christian Traber,CVP,Finanzdepartement (FD)
+903,18.06.2014,2014/203,Pawel Silberring,SP,Heinz F. Steger,FDP,
+904,3.11.2004,2004/571,Roger Liebi,SVP,Markus Schwyn,PFZ,Finanzdepartement (FD)
+905,7.4.2004,2004/203,Franziska Graf,SP,Georg Schmid,CVP,
+906,3.5.2006,2006/138,Marlène Butz,SP,Astrid Hirzel,CVP,
+907,9.7.1997,1997/285,Markus Bischoff,AL,Christoph Hug,Grüne,Finanzdepartement (FD)
+908,25.1.2006,2006/23,Michael Baumer,FDP,Balthasar Glättli,Grüne,Finanzdepartement (FD)
+909,5.12.2001,2001/622,Bruno Sidler,SVP,Markus Schwyn,PFZ,Präsidialdepartement (PRD)
+910,3.12.2008,2008/543,Pierino Cerliani,Grüne,Marianne Spieler Frauenfelder,SP,Gesundheits- und Umweltdepartement (GUD)
+911,28.08.2013,2013/294,Simon Kälin-Werth,Grüne,Gerhard Bosshard,EVP,Hochbaudepartement (HBD)
+912,2.12.1998,1998/406,Jürg Liebermann,FDP,Beat Badertscher,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+913,28.3.2001,2001/187,Theo Hauri,SVP,Köbi Möri,Parteilos,Tiefbau- und Entsorgungsdepartement (TED)
+914,25.10.2006,2006/460,Thomas  Kappeler,CVP,Katrin Schönenberger-Meier,EVP,Tiefbau- und Entsorgungsdepartement (TED)
+915,17.12.2008,2008/580,Peter Stähli-Barth,SP,Ernst Danner,EVP,
+916,26.10.2005,2005/428,Mauro Tuena,SVP,Susi Gut,PFZ,Sozialdepartement (SD)
+917,17.04.2019,2019/156,Muammer Kurtulmus,Grüne,Urs Helfenstein,SP,Gemeinderat
+918,18.3.2009,2009/99,Marcel Z'graggen,CVP,Richard Rabelbauer,EVP,
+919,07.11.2018,2018/423,Marco Denoth,SP,Albert Leiser,FDP,
+920,3.9.2003,2003/323,Balthasar Glättli,Grüne,Mark Roth,SP,Finanzdepartement (FD)
+921,16.01.2013,2013/16,Peter Küng,SP,Michèle Halser-Furrer,EVP,
+922,15.05.2019,2019/195,Christine Seidler,SP,Isabel Garcia,GLP,
+923,20.4.2005,2005/170,Pierino Cerliani,Grüne,Gregor Bucher,Grüne,Präsidialdepartement (PRD)
+924,03.06.2015,2015/170,Simon Diggelmann,SP,Matthias Probst,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+925,12.11.2014,2014/363,Andrea Leitner Verhoeven,AL,Gabriele Kisker,Grüne,Hochbaudepartement (HBD)
+926,6.11.2002,2002/468,Susann Birrer,FDP,Monika Piesbergen,FDP,Sozialdepartement (SD)
+927,14.1.2004,2004/26,Gregor Bucher,Grüne,Daniel Leupi,Grüne,
+928,10.04.2013,2013/135,Joachim Hagger,FDP,Bernhard Piller,Grüne,Tiefbau- und Entsorgungsdepartement (TED)
+929,04.09.2019,2017/263,Albert Leiser,FDP,Andreas Kirstein,AL,
+930,03.04.2013,2013/121,Samuel Dubno,GLP,Urs Egger,FDP,Gesundheits- und Umweltdepartement (GUD)
+931,08.06.2016,2007/510,Franziska Graf,SP,Daniel Leupi,Grüne,
+932,03.04.2013,2013/120,Rebekka Wyler,SP,Thomas Wyss,Grüne,
+933,06.02.2019,2019/62,Ernst Danner,EVP,Christina Schiller,AL,Gemeinderat
+934,03.06.2015,2015/171,Marcel Savarioud,SP,Karin Weyermann,CVP,Gesundheits- und Umweltdepartement (GUD)
+935,20.4.2005,2005/165,Anna Brändle Galliker,SP,Gerold Lauber,CVP,Sozialdepartement (SD)
+936,19.08.2009,2009/355,Albert Leiser,FDP,Daniel Leupi,Grüne,
+937,12.12.2012,2012/482,Andrea Hochreutener,SP,Jürg Ammann,Grüne,
+938,03.10.2018,2018/387,Marcel Bührig,Grüne,Isabel Garcia,GLP,Stadtrat
+939,16.01.2013,2013/17,Florian Utz,SP,Michèle Halser-Furrer,EVP,
+940,31.3.,2004/174,Susi Gut,PFZ,Bruno Wohler,SVP,Hochbaudepartement (HBD)
+941,08.01.20,2009/143,Claudia Nielsen,SP,Markus Knauss,Grüne,Polizeidepartement (PD)
+942,10.12.2003,2003/487,Daniel Leupi,Grüne,Ernst Danner,EVP,Polizeidepartement (PD)
+943,26.10.2005,2005/429,Susi Gut,PFZ,Mauro Tuena,SVP,Sozialdepartement (SD)
+944,21.12.2016,2016/461,Pawel Silberring,SP,Christian Traber,CVP,
+945,30.1.2002,2002/46,Balthasar Glättli,Grüne,Joe A. Manser,SP,Finanzdepartement (FD)
+946,28.08.2013,2013/295,Simon Kälin-Werth,Grüne,Martin Luchsinger,GLP,Tiefbau- und Entsorgungsdepartement (TED)
+947,25.5.2005,2005/207,Hans Jörg Käppeli,SP,Heinz F. Steger,FDP,Tiefbau- und Entsorgungsdepartement (TED)
+948,16.1.2008,2008/33,Marlène Butz,SP,Astrid Hirzel,CVP,Polizeidepartement (PD)
+949,17.1.2001,2001/17,Placidus Maissen,CVP,Robert Schönbächler,CVP,Polizeidepartement (PD)
+950,25.1.2006,2006/22,Andreas Ammann,SP,Robert Schönbächler,CVP,Tiefbau- und Entsorgungsdepartement (TED)
+951,1.9.1999,1999/402,Renate Fässler,SP,Niklaus Scherr,AL,Tiefbau- und Entsorgungsdepartement (TED)
+952,3.5.2006,2006/139,Marlène Butz,SP,Robert Schönbächler,CVP,Departement der Industriellen Betriebe (DIB)
+953,9.1.2008,2008/3,Joe A. Manser,SP,Mario Mariani,CVP,Präsidialdepartement (PRD)
+954,9.7.1997,1997/284,Silvio Scotoni,FDP,Peter Marti,FDP,Polizeidepartement (PD)
+955,7.4.2004,2004/202,Alecs Recher,AL,Muriel Herzig,Grüne,Sozialdepartement (SD)
+956,25.11.2009,2009/547,André Odermatt,SP,Daniel Leupi,Grüne,
+957,3.11.2004,2004/570,Susi Gut,PFZ,Roger Bartholdi,SVP,Tiefbau- und Entsorgungsdepartement (TED)
