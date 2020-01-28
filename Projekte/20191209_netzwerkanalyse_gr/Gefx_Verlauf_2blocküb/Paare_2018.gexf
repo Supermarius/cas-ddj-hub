@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-01-20">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="datum" type="string" />
+      <attribute id="2" title="thema" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partei" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Ernst Danner" label="Ernst Danner">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Raphael Kobler" label="Raphael Kobler">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Matthias Probst" label="Matthias Probst">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Guido Hüni" label="Guido Hüni">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Albert Leiser" label="Albert Leiser">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Markus Baumann" label="Markus Baumann">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marco Denoth" label="Marco Denoth">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Balz Bürgisser" label="Balz Bürgisser">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Yasmine Bourgeois" label="Yasmine Bourgeois">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Sven Sobernheim" label="Sven Sobernheim">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Andri Silberschmidt" label="Andri Silberschmidt">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Müller" label="Marcel Müller">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Pascal Lamprecht" label="Pascal Lamprecht">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Roger Bartholdi" label="Roger Bartholdi">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Eduard Guggenheim" label="Eduard Guggenheim">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Stefan Urech" label="Stefan Urech">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Nicole Giger" label="Nicole Giger">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Urs Egger" label="Urs Egger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Anjushka Früh" label="Anjushka Früh">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Corina Gredig" label="Corina Gredig">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marion Schmid" label="Marion Schmid">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Markus Merki" label="Markus Merki">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Heidi Egger" label="Heidi Egger">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Andreas Kirstein" label="Andreas Kirstein">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Isabel Garcia" label="Isabel Garcia">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Michael Schmid" label="Michael Schmid">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Zilla Roose" label="Zilla Roose">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Olivia Romanelli" label="Olivia Romanelli">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Pablo Bünger" label="Pablo Bünger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Helen Glaser" label="Helen Glaser">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Sebastian Vogel" label="Sebastian Vogel">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Hans Jörg Käppeli" label="Hans Jörg Käppeli">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Ann-Catherine Nabholz" label="Ann-Catherine Nabholz">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Përparim Avdili" label="Përparim Avdili">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Markus Knauss" label="Markus Knauss">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Maria del Carmen Señorán" label="Maria del Carmen Señorán">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Pirmin Meyer" label="Pirmin Meyer">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Mathias Egloff" label="Mathias Egloff">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Alexander Brunner" label="Alexander Brunner">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Andrea Leitner Verhoeven" label="Andrea Leitner Verhoeven">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Nadia Huberson" label="Nadia Huberson">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Urs Helfenstein" label="Urs Helfenstein">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Res Marti" label="Res Marti">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Marcel Tobler" label="Marcel Tobler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Marco Geissbühler" label="Marco Geissbühler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Corina Ursprung" label="Corina Ursprung">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Roger Tognella" label="Roger Tognella">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Jean-Daniel Strub" label="Jean-Daniel Strub">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Gabriele Kisker" label="Gabriele Kisker">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Matthias Wiesmann" label="Matthias Wiesmann">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Shaibal Roy" label="Shaibal Roy">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Bührig" label="Marcel Bührig">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Florian Blättler" label="Florian Blättler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christian Monn" label="Christian Monn">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Christine Seidler" label="Christine Seidler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christina Schiller" label="Christina Schiller">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Ernst Danner" target="Raphael Kobler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-10-31 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Ernst Danner" target="Albert Leiser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-06 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Ernst Danner" target="Olivia Romanelli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-10-30 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Ernst Danner" target="Christina Schiller" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-02-06 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Matthias Probst" target="Guido Hüni" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-09-19 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Guido Hüni" target="Sebastian Vogel" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2019-06-05 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Guido Hüni" target="Mathias Egloff" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-10-23 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Albert Leiser" target="Marco Denoth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-07 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Albert Leiser" target="Andreas Kirstein" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-09-04 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Markus Baumann" target="Marco Denoth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-01-30 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Markus Baumann" target="Pascal Lamprecht" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2019-10-30 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Markus Baumann" target="Marcel Tobler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-01-23 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Markus Baumann" target="Marco Geissbühler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-20 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Marco Denoth" target="Sven Sobernheim" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-09-18 00:00:00" />
+          <attvalue for="2" value="Kommission" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Marco Denoth" target="Roger Tognella" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-21 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Balz Bürgisser" target="Yasmine Bourgeois" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-13 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Balz Bürgisser" target="Roger Bartholdi" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2019-06-05 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Balz Bürgisser" target="Sebastian Vogel" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2019-06-19 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Balz Bürgisser" target="Ann-Catherine Nabholz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-09-12 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Sven Sobernheim" target="Andri Silberschmidt" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-13 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Sven Sobernheim" target="Nicole Giger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-11-27 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Sven Sobernheim" target="Res Marti" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-06-12 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Sven Sobernheim" target="Pascal Lamprecht" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-02-06 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Andri Silberschmidt" target="Nicole Giger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-06 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Andri Silberschmidt" target="Gabriele Kisker" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-09-12 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Andri Silberschmidt" target="Jean-Daniel Strub" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-07 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Marcel Müller" target="Pascal Lamprecht" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2019-01-09 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Pascal Lamprecht" target="Roger Bartholdi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-06 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Pascal Lamprecht" target="Përparim Avdili" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-10-30 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Eduard Guggenheim" target="Stefan Urech" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-10-24 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Eduard Guggenheim" target="Sebastian Vogel" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-10-03 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Stefan Urech" target="Urs Helfenstein" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-08-29 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Stefan Urech" target="Markus Merki" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-03-13 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Urs Egger" target="Anjushka Früh" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2019-05-22 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Corina Gredig" target="Marion Schmid" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-07-11 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Corina Gredig" target="Jean-Daniel Strub" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-07 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Marion Schmid" target="Maria del Carmen Señorán" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-11-27 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Marion Schmid" target="Corina Ursprung" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-12-04 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Markus Merki" target="Heidi Egger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-07-03 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Markus Merki" target="Andreas Kirstein" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-11-20 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Markus Merki" target="Zilla Roose" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-07-03 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Isabel Garcia" target="Michael Schmid" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-12-31 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Isabel Garcia" target="Christine Seidler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-05-15 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Zilla Roose" target="Pirmin Meyer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-21 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Pablo Bünger" target="Helen Glaser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-28 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Hans Jörg Käppeli" target="Ann-Catherine Nabholz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-04-03 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Ann-Catherine Nabholz" target="Markus Knauss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-04-03 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Ann-Catherine Nabholz" target="Andrea Leitner Verhoeven" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-06-05 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Përparim Avdili" target="Nadia Huberson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-06-05 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Pirmin Meyer" target="Alexander Brunner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-06-19 00:00:00" />
+          <attvalue for="2" value="Gemeinderat" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Pirmin Meyer" target="Marcel Tobler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-02-06 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Urs Helfenstein" target="Matthias Wiesmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-11-07 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Shaibal Roy" target="Marcel Bührig" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-08-21 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Florian Blättler" target="Christian Monn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2019-04-17 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

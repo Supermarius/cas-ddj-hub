@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-01-27">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="datum" type="string" />
+      <attribute id="2" title="thema" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partei" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Ursula Uttinger" label="Ursula Uttinger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Marco Denoth" label="Marco Denoth">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Jonas Steiner" label="Jonas Steiner">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Peter Küng" label="Peter Küng">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Gian von Planta" label="Gian von Planta">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Pascal Lamprecht" label="Pascal Lamprecht">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Markus Baumann" label="Markus Baumann">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Schönbächler" label="Marcel Schönbächler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Markus Knauss" label="Markus Knauss">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Guido Trevisan" label="Guido Trevisan">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Tobler" label="Marcel Tobler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Markus Hungerbühler" label="Markus Hungerbühler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Roger Liebi" label="Roger Liebi">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Hans Urs von Matt" label="Hans Urs von Matt">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christian Traber" label="Christian Traber">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Shaibal Roy" label="Shaibal Roy">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Renate Fischer" label="Renate Fischer">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Isabel Garcia" label="Isabel Garcia">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Alan David Sangines" label="Alan David Sangines">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Matthias Probst" label="Matthias Probst">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Sven Sobernheim" label="Sven Sobernheim">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Bührig" label="Marcel Bührig">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Katharina Prelicz-Huber" label="Katharina Prelicz-Huber">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Roger-Paul Speck" label="Roger-Paul Speck">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Markus Merki" label="Markus Merki">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Christina Schiller" label="Christina Schiller">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Guy Krayenbühl" label="Guy Krayenbühl">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Min Li Marti" label="Min Li Marti">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Samuel Dubno" label="Samuel Dubno">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Markus Kunz" label="Markus Kunz">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Martin Luchsinger" label="Martin Luchsinger">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Heidi Egger" label="Heidi Egger">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Reto Rudolf" label="Reto Rudolf">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Christine Seidler" label="Christine Seidler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Mario Mariani" label="Mario Mariani">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Mathias Egloff" label="Mathias Egloff">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Ronny Siev" label="Ronny Siev">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Pawel Silberring" label="Pawel Silberring">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Guido Hüni" label="Guido Hüni">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Barbara Wiesmann" label="Barbara Wiesmann">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Dorothea Frei" label="Dorothea Frei">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Heinz Schatt" label="Heinz Schatt">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Linda Bär" label="Linda Bär">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Ann-Catherine Nabholz" label="Ann-Catherine Nabholz">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Walter Angst" label="Walter Angst">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Marcel Savarioud" label="Marcel Savarioud">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Karin Weyermann" label="Karin Weyermann">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Roger Tognella" label="Roger Tognella">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Eduard Guggenheim" label="Eduard Guggenheim">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Adrian Gautschi" label="Adrian Gautschi">
+        <attvalues>
+          <attvalue for="0" value="GLP" />
+        </attvalues>
+      </node>
+      <node id="Urs Egger" label="Urs Egger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Anjushka Früh" label="Anjushka Früh">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Gabriele Kisker" label="Gabriele Kisker">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Andreas Kirstein" label="Andreas Kirstein">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Andrea Nüssli" label="Andrea Nüssli">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Albert Leiser" label="Albert Leiser">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Patrick Hadi Huber" label="Patrick Hadi Huber">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Felix Moser" label="Felix Moser">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Cordula Bieri" label="Cordula Bieri">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Marc Bourgeois" label="Marc Bourgeois">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Patrick Albrecht" label="Patrick Albrecht">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Mathias Manz" label="Mathias Manz">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Balz Bürgisser" label="Balz Bürgisser">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Mario Babini" label="Mario Babini">
+        <attvalues>
+          <attvalue for="0" value="Parteilos" />
+        </attvalues>
+      </node>
+      <node id="Heinz F. Steger" label="Heinz F. Steger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Ursula Uttinger" target="Marco Denoth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-07-12 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Ursula Uttinger" target="Jonas Steiner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-07-06 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Ursula Uttinger" target="Pascal Lamprecht" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-10-21 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Marco Denoth" target="Martin Luchsinger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-10-05 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Marco Denoth" target="Ann-Catherine Nabholz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-08 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Jonas Steiner" target="Shaibal Roy" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-04-20 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Peter Küng" target="Gian von Planta" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-06-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Peter Küng" target="Marcel Schönbächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-12-31 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Pascal Lamprecht" target="Markus Baumann" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2016-04-20 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Pascal Lamprecht" target="Sven Sobernheim" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-08-23 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Pascal Lamprecht" target="Mario Mariani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-09-27 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Markus Baumann" target="Katharina Prelicz-Huber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-01-17 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Markus Baumann" target="Alan David Sangines" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-01-06 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Markus Baumann" target="Cordula Bieri" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-11-12 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Markus Knauss" target="Guido Trevisan" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-02-04 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Markus Knauss" target="Roger Liebi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-07-12 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Markus Knauss" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-05-18 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Guido Trevisan" target="Matthias Probst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-06-10 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Marcel Tobler" target="Markus Hungerbühler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-04-20 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Hans Urs von Matt" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-01-20 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Christian Traber" target="Andrea Nüssli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-01-27 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Christian Traber" target="Pawel Silberring" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-11-18 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Shaibal Roy" target="Alan David Sangines" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-29 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Renate Fischer" target="Isabel Garcia" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-09-21 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Isabel Garcia" target="Walter Angst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-06-28 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Isabel Garcia" target="Andreas Kirstein" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-05-21 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Sven Sobernheim" target="Marcel Bührig" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2016-09-21 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Sven Sobernheim" target="Markus Kunz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-04-20 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Sven Sobernheim" target="Roger-Paul Speck" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-05-27 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Roger-Paul Speck" target="Markus Merki" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-03-15 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Markus Merki" target="Walter Angst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-15 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Christina Schiller" target="Guy Krayenbühl" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-29 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Guy Krayenbühl" target="Pawel Silberring" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-02-08 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Guy Krayenbühl" target="Barbara Wiesmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-15 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Min Li Marti" target="Samuel Dubno" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-05-20 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Markus Kunz" target="Guido Hüni" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2018-04-04 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Heidi Egger" target="Reto Rudolf" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-07-05 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Christine Seidler" target="Mario Mariani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-07-05 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Mario Mariani" target="Mathias Manz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-01-11 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Mathias Egloff" target="Ronny Siev" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-10-04 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Pawel Silberring" target="Heinz F. Steger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-06-18 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Dorothea Frei" target="Heinz Schatt" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-11-02 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Dorothea Frei" target="Patrick Albrecht" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2018-01-17 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Linda Bär" target="Ann-Catherine Nabholz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-11-23 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Ann-Catherine Nabholz" target="Gabriele Kisker" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-06-14 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Ann-Catherine Nabholz" target="Patrick Hadi Huber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-12-20 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Ann-Catherine Nabholz" target="Felix Moser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-03-11 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Ann-Catherine Nabholz" target="Balz Bürgisser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-09-06 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Marcel Savarioud" target="Karin Weyermann" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2016-03-16 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Marcel Savarioud" target="Roger Tognella" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-09-02 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Eduard Guggenheim" target="Adrian Gautschi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2014-09-03 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Eduard Guggenheim" target="Marc Bourgeois" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2015-05-27 00:00:00" />
+          <attvalue for="2" value="Geschäftsbericht Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Eduard Guggenheim" target="Mario Babini" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-12-21 00:00:00" />
+          <attvalue for="2" value="Stadtrat" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Urs Egger" target="Anjushka Früh" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2016-06-08 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Andreas Kirstein" target="Albert Leiser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2017-04-12 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
