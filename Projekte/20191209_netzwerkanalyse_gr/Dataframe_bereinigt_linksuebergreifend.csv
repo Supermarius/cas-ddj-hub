@@ -1,318 +1,361 @@
 ,Datum,Geschäft,Einreichender 1,Partei 1,Block 1,Einreichender 2,Partei 2,Block 2,Departement
-0,16.05.2013,2005/550,Mario Mariani,CVP,mitte,Muriel Herzig,Grüne,links,
-1,1.12.2004,2004/637,Corine Mauch,SP,links,Albert Leiser,FDP,rechts,
-2,19.09.2018,2018/361,Matthias Probst,Grüne,links,Guido Hüni,GLP,mitte,Stadtrat
-3,7.4.2004,2004/192,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-4,12.07.2017,2017/247,Ursula Uttinger,FDP,rechts,Marco Denoth,SP,links,Stadtrat
-5,30.01.2019,2019/46,Markus Baumann,GLP,mitte,Marco Denoth,SP,links,Gemeinderat
-6,13.03.2019,2019/91,Balz Bürgisser,Grüne,links,Yasmine Bourgeois,FDP,rechts,Gemeinderat
-7,06.07.2016,2016/257,Jonas Steiner,SP,links,Ursula Uttinger,FDP,rechts,Stadtrat
-8,11.06.2014,2014/187,Peter Küng,SP,links,Gian von Planta,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-9,21.6.2006,2006/257,Heinz Jacobi,SP,links,Robert Schönbächler,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-10,22.6.2005,2003/306,Robert Schönbächler,CVP,mitte,Daniel Leupi,Grüne,links,
-11,16.12.2009,2009/601,Bruno Wohler,SVP,rechts,Thomas Wyss,Grüne,links,Hochbaudepartement (HBD)
-12,30.09.2009,2007/642,Daniel Leupi,Grüne,links,Roger Tognella,FDP,rechts,
-13,18.05.2011,2005/551,Bernhard Piller,Grüne,links,Mario Mariani,CVP,mitte,
-14,8.2.2005,2005/223,Corine Mauch,SP,links,Ernst Danner,EVP,mitte,
-15,3.5.2006,2006/135,Judith Bucher,SP,links,Christian Traber,CVP,mitte,
-16,10.11.2004,2004/583,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
-17,20.04.2016,2016/135,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Stadtrat
-18,08.01.20,2014/230,Marcel Schönbächler,CVP,mitte,Peter Küng,SP,links,
-19,25.11.2009,2009/549,Walter Angst,AL,links,Jean-Claude Virchaux,CVP,mitte,
-20,21.09.2011,2011/349,Dorothea Frei,SP,links,Roger Tognella,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-21,04.02.2015,2015/44,Markus Knauss,Grüne,links,Guido Trevisan,GLP,mitte,
-22,20.04.2016,2016/137,Marcel Tobler,SP,links,Markus Hungerbühler,CVP,mitte,
-23,29.09.2010,2010/416,Gabriele Kisker,Grüne,links,Samuel Dubno,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-24,9.2.2005,2005/41,Robert Schönbächler,CVP,mitte,Heinz Bögle,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-25,1.12.2004,2004/634,Maya Burri-Wenger,SP,links,Gerold Lauber,CVP,mitte,
-26,11.12.1996,2006/255,Bastien Girod,Grüne,links,Ernst Danner,EVP,mitte,
-27,12.07.2017,2017/244,Roger Liebi,SVP,rechts,Markus Knauss,Grüne,links,
-29,03.02.2010,2010/74,Bernhard Piller,Grüne,links,Monika Bloch Süss,CSP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-30,27.01.2010,2010/60,Myrtha Meuli,SP,links,Hans Bachmann,FDP,rechts,Hochbaudepartement (HBD)
-31,27.01.2010,2010/61,Monika Bloch Süss,CSP,mitte,Bernhard Jüsi,SP,links,Polizeidepartement (PD)
-32,03.02.2010,2010/75,Monika Bloch Süss,CSP,mitte,Hans Urs von Matt,SP,links,Gesundheits- und Umweltdepartement (GUD)
-33,2.4.2008,2008/161,Ueli Nagel,Grüne,links,Claudia Rabelbauer,EVP,mitte,
-34,21.04.2010,2010/205,Beat Bloch,CSP,mitte,Thomas Wyss,Grüne,links,Polizeidepartement (PD)
-35,26.10.2005,2005/426,Ueli Nagel,Grüne,links,Monjek Rosenheim,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-36,09.01.2019,2019/4,Marcel Müller,FDP,rechts,Pascal Lamprecht,SP,links,Stadtrat
-37,20.01.2016,2016/28,Hans Urs von Matt,SP,links,Christian Traber,CVP,mitte,Präsidialdepartement (PRD)
-39,21.12.2005,2005/552,Bernhard Piller,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-40,20.04.2016,2016/136,Jonas Steiner,SP,links,Shaibal Roy,GLP,mitte,
-41,1.2.2006,2006/39,Mario Mariani,CVP,mitte,Daniel Leupi,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-42,10.6.1998,1998/187,Niklaus Scherr,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-43,28.09.2011,2011/360,Gian von Planta,GLP,mitte,Katrin Wüthrich,SP,links,Geschäftsbericht Stadtrat
-44,10.7.2002,2002/258,Daniel Leupi,Grüne,links,Alexander Jäger,FDP,rechts,Geschäftsbericht Stadtrat
-46,10.11.2004,2004/584,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
-47,21.09.2016,2016/318,Renate Fischer,SP,links,Isabel Garcia,GLP,mitte,
-48,29.06.2016,2016/250,Alan David Sangines,SP,links,Shaibal Roy,GLP,mitte,Sozialdepartement (SD)
-49,06.03.2019,2019/82,Roger Bartholdi,SVP,rechts,Pascal Lamprecht,SP,links,Stadtrat
-50,09.04.2008,2008/171,Martin Sarbach,SP,links,Mario Mariani,CVP,mitte,Hochbaudepartement (HBD)
-51,26.3.2003,2003/117,Emil Seliner,SP,links,Robert Schönbächler,CVP,mitte,
-52,18.5.2005,2005/191,Beatrice Reimann,SP,links,Ernst Danner,EVP,mitte,Departement der Industriellen Betriebe (DIB)
-53,10.06.2015,2015/184,Matthias Probst,Grüne,links,Guido Trevisan,GLP,mitte,Polizeidepartement (PD)
-55,17.03.2010,2003/116,Emil Seliner,SP,links,Robert Schönbächler,CVP,mitte,
-56,23.08.2017,2017/268,Sven Sobernheim,GLP,mitte,Pascal Lamprecht,SP,links,
-57,4.2.2009,2009/45,Ueli Nagel,Grüne,links,Claudia Simon,FDP,rechts,Schul- und Sportdepartement (SSD)
-58,24.10.2018,2018/399,Eduard Guggenheim,AL,links,Stefan Urech,SVP,rechts,Stadtrat
-59,17.12.2003,2003/499,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,
-60,05.12.2007,2007/644,Monika Bloch Süss,CSP,mitte,Gabriele Kisker,Grüne,links,Polizeidepartement (PD)
-61,9.2.2005,2005/51,Marianne Dubs Früh,SP,links,Kurt Maeder,CVP,mitte,
-62,28.10.1998,1998/343,Beat Badertscher,FDP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-63,21.09.2016,2016/319,Marcel Bührig,Grüne,links,Sven Sobernheim,GLP,mitte,
-64,8.6.2005,2005/225,Marianne Dubs Früh,SP,links,Kurt Maeder,CVP,mitte,
-65,14.7.1999,1999/346,Niklaus Scherr,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-66,11.12.2009,2009/598,Christian Traber,CVP,mitte,Daniel Leupi,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-68,17.01.2018,2018/16,Katharina Prelicz-Huber,Grüne,links,Markus Baumann,GLP,mitte,Stadtrat
-69,8.7.1998,1998/221,Rolf Kuhn,SP,links,Kurt Tschopp,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-70,06.03.2019,2019/81,Nicole Giger,SP,links,Andri Silberschmidt,FDP,rechts,Stadtrat
-73,18.09.2019,2017/243,Marco Denoth,SP,links,Sven Sobernheim,GLP,mitte,Kommission
-75,15.03.2017,2017/52,Roger-Paul Speck,SP,links,Markus Merki,GLP,mitte,Stadtrat
-76,16.09.2009,2009/406,Alexander Jäger,FDP,rechts,Bernhard Piller,Grüne,links,Departement der Industriellen Betriebe (DIB)
-77,29.06.2016,2016/252,Christina Schiller,AL,links,Guy Krayenbühl,GLP,mitte,
-78,11.09.2013,2013/317,Peter Küng,SP,links,Michael Schmid,FDP,rechts,Schul- und Sportdepartement (SSD)
-79,5.7.2006,2006/291,Robert Schönbächler,CVP,mitte,Niklaus Scherr,AL,links,
-80,5.10.2005,2005/408,Christine Seidler,SP,links,Gerold Lauber,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-81,14.7.1999,1999/345,Markus Bischoff,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-82,11.12.2009,2009/599,Monika Bloch Süss,CSP,mitte,Martin Abele,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-83,22.05.2019,2019/214,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,Gemeinderat
-85,20.12.2002,2002/567,Susann Birrer,FDP,rechts,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-86,06.12.2017,2017/436,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,
-88,11.07.2018,2018/289,Corina Gredig,GLP,mitte,Marion Schmid,SP,links,
-89,16.04.2014,2014/126,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,
-90,01.12.2010,2010/502,Fabienne Vocat,Grüne,links,Michael Baumer,FDP,rechts,Hochbaudepartement (HBD)
-92,5.11.2003,2003/416,Georg Schmid,CVP,mitte,Werner Sieg,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-93,24.1.2007,2007/30,Karin Rykart Sutter,Grüne,links,Astrid Hirzel,CVP,mitte,
-94,20.05.2015,2015/137,Min Li Marti,SP,links,Samuel Dubno,GLP,mitte,
-95,03.07.2019,2019/313,Markus Merki,GLP,mitte,Heidi Egger,SP,links,
-96,30.09.2009,2009/449,Christian Aeschbach,FDP,rechts,Christina Hug,Grüne,links,Departement der Industriellen Betriebe (DIB)
-97,25.2.2004,2004/75,Michael Baumer,FDP,rechts,Balthasar Glättli,Grüne,links,
-98,06.01.2010,2010/14,Monika Bloch Süss,CSP,mitte,Thomas Wyss,Grüne,links,
-100,07.06.2006,2006/220,Richard Rabelbauer,EVP,mitte,Bastien Girod,Grüne,links,Präsidialdepartement (PRD)
-101,27.02.2013,2013/50,Ursula Uttinger,FDP,rechts,Jean-Daniel Strub,SP,links,Schul- und Sportdepartement (SSD)
-102,16.06.2010,2010/265,Florian Utz,SP,links,Guido Trevisan,GLP,mitte,
-103,21.10.2015,2015/334,Pascal Lamprecht,SP,links,Ursula Uttinger,FDP,rechts,Gesundheits- und Umweltdepartement (GUD)
-104,5.12.2007,2007/635,Walter Angst,AL,links,Ernst Danner,EVP,mitte,Finanzdepartement (FD)
-105,14.07.2010,2010/311,Dorothea Frei,SP,links,Severin Pflüger,FDP,rechts,Finanzdepartement (FD)
-106,11.4.2007,2007/184,Marcel Savarioud,SP,links,Josef Widler,CVP,mitte,Sozialdepartement (SD)
-107,1.3.2006,2006/65,Niklaus Scherr,AL,links,Alexander Jäger,FDP,rechts,
-108,01.11.2017,2017/379,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,
-109,20.04.2016,2016/142,Sven Sobernheim,GLP,mitte,Markus Kunz,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-110,28.01.2015,2015/31,Marcel Bührig,Grüne,links,Markus Hungerbühler,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
-111,20.12.2002,2002/566,Susann Birrer,FDP,rechts,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-112,07.12.2011,2011/466,Peter Küng,SP,links,Marcel Schönbächler,CVP,mitte,Schul- und Sportdepartement (SSD)
-113,20.11.2019,2019/500,Markus Merki,GLP,mitte,Andreas Kirstein,AL,links,Gemeinderat
-114,11.11.2009,2009/516,Heinz F. Steger,FDP,rechts,Uschi Heinrich,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-115,31.08.2011,2011/316,Markus Knauss,Grüne,links,Samuel Dubno,GLP,mitte,Polizeidepartement (PD)
-116,10.06.2009,2009/258,Monika Bloch Süss,CSP,mitte,Marlène Butz,SP,links,Polizeidepartement (PD)
-117,23.01.2008,2008/62,Christine Seidler,SP,links,Christian Traber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-118,11.7.2007,2007/409,Kyriakos Papageorgiou,SP,links,Alexander Jäger,FDP,rechts,Departement der Industriellen Betriebe (DIB)
-120,20.9.2006,2006/395,Myrtha Meuli,SP,links,Josef Widler,CVP,mitte,Sozialdepartement (SD)
-121,05.10.2016,2016/342,Marco Denoth,SP,links,Martin Luchsinger,GLP,mitte,
-123,27.09.2006,2006/418,Matthias Probst,Grüne,links,Richard Rabelbauer,EVP,mitte,Präsidialdepartement (PRD)
-124,06.01.2016,2016/9,Markus Baumann,GLP,mitte,Alan David Sangines,SP,links,
-125,25.6.2008,2008/301,Gabriele Kisker,Grüne,links,Monika Bloch Süss,CSP,mitte,Schul- und Sportdepartement (SSD)
-126,15.12.2010,2010/529,Christina Hug,Grüne,links,Claudia Rabelbauer,EVP,mitte,Schul- und Sportdepartement (SSD)
-127,18.04.2012,2012/174,Katrin Wüthrich,SP,links,Marcel Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
-128,7.6.2006,2006/222,Christine Seidler,SP,links,Mario Mariani,CVP,mitte,
-129,6.12.2006,2006/578,Marlène Butz,SP,links,Theresa G. Hensch-Stadelmann,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-130,31.10.2012,2012/389,Min Li Marti,SP,links,Isabel Garcia,GLP,mitte,
-131,2.10.2002,2002/404,Christoph Hug,Grüne,links,Gerold Lauber,CVP,mitte,
-132,05.07.2017,2017/227,Heidi Egger,SP,links,Reto Rudolf,CVP,mitte,Stadtrat
-133,13.11.2019,2019/489,Pascal Lamprecht,SP,links,Marcel Müller,FDP,rechts,Stadtrat
-134,05.07.2017,2017/226,Christine Seidler,SP,links,Mario Mariani,CVP,mitte,Stadtrat
-135,03.07.2019,2019/311,Zilla Roose,SP,links,Markus Merki,GLP,mitte,Stadtrat
-136,18.04.2012,2012/175,Daniel Meier,CVP,mitte,Florian Utz,SP,links,
-137,16.06.2010,2010/266,Florian Utz,SP,links,Guido Trevisan,GLP,mitte,
-138,7.7.1999,1999/320,Kurt Tschopp,CVP,mitte,Rolf Kuhn,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-139,11.1.1995,1993/155,Peter Stähli-Barth,SP,links,Paul Kleger,FDP,rechts,Hochbaudepartement (HBD)
-140,6.2.2008,2008/88,Mirella Wepf,SP,links,Ernst Danner,EVP,mitte,Hochbaudepartement (HBD)
-141,10.1.2001,2001/6,Joe A. Manser,SP,links,Guido Wick,FDP,rechts,Polizeidepartement (PD)
-142,31.08.2011,2011/317,Monika Erfigen,SVP,rechts,Marianne Aubert,SP,links,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
-143,05.06.2019,2019/249,Balz Bürgisser,Grüne,links,Roger Bartholdi,SVP,rechts,Stadtrat
-144,07.12.2011,2011/475,Hans Jörg Käppeli,SP,links,Guido Trevisan,GLP,mitte,
-145,04.10.2017,2017/356,Mathias Egloff,SP,links,Ronny Siev,GLP,mitte,Stadtrat
-146,18.12.2002,2002/561,Robert Schönbächler,CVP,mitte,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-147,27.09.2017,2017/342,Pascal Lamprecht,SP,links,Mario Mariani,CVP,mitte,
-148,4.6.2008,2008/258,Myrtha Meuli,SP,links,Ernst Danner,EVP,mitte,Sozialdepartement (SD)
-149,27.9.2006,2006/421,Robert Schönbächler,CVP,mitte,Pierino Cerliani,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-150,22.10.2008,2008/476,Marco V. Camin,FDP,rechts,Ueli Nagel,Grüne,links,Gesundheits- und Umweltdepartement (GUD)
-151,1.10.2008,2008/462,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-152,30.10.2019,2019/473,Olivia Romanelli,AL,links,Ernst Danner,EVP,mitte,Gemeinderat
-153,30.10.2019,2019/467,Balz Bürgisser,Grüne,links,Roger Bartholdi,SVP,rechts,Stadtrat
-154,08.02.2017,2017/27,Pawel Silberring,SP,links,Guy Krayenbühl,GLP,mitte,Stadtrat
-155,2.10.2002,2002/401,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
-156,9.5.2007,2007/237,Daniel Leupi,Grüne,links,Doris Weber,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-157,22.10.1997,1997/428,Luzia Vieli-Hardegger,LdU,mitte,Simone Bertogg-Baudet,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-159,6.12.2006,2006/568,Bastien Girod,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-160,28.11.2018,2018/463,Pablo Bünger,FDP,rechts,Helen Glaser,SP,links,
-161,7.3.2001,2001/104,Emil Seliner,SP,links,Placidus Maissen,CVP,mitte,Hochbaudepartement (HBD)
-162,4.6.2008,2008/259,Josef Widler,CVP,mitte,Heinz Jacobi,SP,links,Sozialdepartement (SD)
-163,7.7.1999,1999/319,Rolf Kuhn,SP,links,Kurt Tschopp,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-164,4.3.2009,2000/129,Robert Schönbächler,CVP,mitte,Heinz Bögle,SP,links,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
-165,08.01.20,2006/387,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,
-166,02.03.2016,2016/64,Marcel Bührig,Grüne,links,Sven Sobernheim,GLP,mitte,
-167,25.06.2008,2008/298,Monika Bloch Süss,CSP,mitte,Gabriele Kisker,Grüne,links,Departement der Industriellen Betriebe (DIB)
-168,03.04.2019,2019/128,Hans Jörg Käppeli,SP,links,Ann-Catherine Nabholz,GLP,mitte,Gemeinderat
-169,23.06.2010,2010/275,Thomas Wyss,Grüne,links,Hanspeter Kunz,EVP,mitte,Finanzdepartement (FD)
-170,21.1.2009,2009/30,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-171,30.10.2019,2019/464,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Stadtrat
-173,06.07.2011,2011/264,Matthias Probst,Grüne,links,Marcel Schönbächler,CVP,mitte,Polizeidepartement (PD)
-174,06.01.2010,2010/10,Monika Bloch Süss,CSP,mitte,Karin Meier-Bohrer,Grüne,links,Sozialdepartement (SD)
-175,30.10.2019,2019/465,Përparim Avdili,FDP,rechts,Pascal Lamprecht,SP,links,Gemeinderat
-176,04.04.2018,2018/138,Guido Hüni,GLP,mitte,Markus Kunz,Grüne,links,Stadtrat
-177,22.11.2006,2006/543,Judith Bucher,SP,links,Doris Weber,FDP,rechts,
-178,15.06.2016,2016/225,Barbara Wiesmann,SP,links,Guy Krayenbühl,GLP,mitte,Stadtrat
-179,05.03.2014,2014/60,Simone Brander,SP,links,Guido Trevisan,GLP,mitte,
-180,21.1.2009,2009/31,Bruno Sidler,SVP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-181,03.04.2019,2019/129,Markus Knauss,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Stadtrat
-182,02.11.2016,2016/379,Dorothea Frei,SP,links,Heinz Schatt,SVP,rechts,
-183,01.12.2010,2010/499,Matthias Probst,Grüne,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-185,19.06.2019,2019/277,Balz Bürgisser,Grüne,links,Sebastian Vogel,FDP,rechts,Gemeinderat
-186,30.01.2008,2008/83,Martin Abele,Grüne,links,Monika Bloch Süss,CSP,mitte,Geschäftsbericht Stadtrat
-187,27.11.2019,2019/508,Marion Schmid,SP,links,Maria del Carmen Señorán,SVP,rechts,Stadtrat
-188,26.06.2019,2019/291,Sebastian Vogel,FDP,rechts,Balz Bürgisser,Grüne,links,Gemeinderat
-189,24.06.2009,2009/285,Monika Bloch Süss,CSP,mitte,Gabriele Kisker,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-190,08.01.20,1998/33,Johanna Tremp,SP,links,Kathy Riklin,CVP,mitte,Hochbaudepartement (HBD)
-191,14.07.2010,2010/319,Hans Jörg Käppeli,SP,links,Roger Tognella,FDP,rechts,Geschäftsbericht Stadtrat
-193,23.11.2016,2016/406,Linda Bär,SP,links,Ann-Catherine Nabholz,GLP,mitte,Stadtrat
-194,21.11.2018,2018/451,Pirmin Meyer,GLP,mitte,Zilla Roose,SP,links,Stadtrat
-196,06.03.2013,2013/70,Hans Jörg Käppeli,SP,links,Marcel Schönbächler,CVP,mitte,
-197,21.1.2009,2009/28,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-198,05.02.2014,2014/45,Jean-Daniel Strub,SP,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-199,15.06.2016,2016/228,Walter Angst,AL,links,Markus Merki,GLP,mitte,
-201,9.5.2007,2007/238,Martin Sarbach,SP,links,Katrin Schönenberger-Meier,EVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-202,26.2.2003,2003/60,Werner Sieg,SP,links,Claudia Rütsche,CVP,mitte,
-203,28.06.2017,2017/210,Walter Angst,AL,links,Isabel Garcia,GLP,mitte,Stadtrat
-204,22.05.2013,2013/185,Renate Fischer,SP,links,Martin Bürki,FDP,rechts,Stadtrat
-205,23.10.2019,2019/441,Mathias Egloff,SP,links,Guido Hüni,GLP,mitte,Stadtrat
-206,21.1.2009,2009/29,Bruno Sidler,SVP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-207,30.08.2006,2006/349,Yvonne Müller,SP,links,Astrid Hirzel,CVP,mitte,Hochbaudepartement (HBD)
-208,14.07.2010,2010/318,Roger Tognella,FDP,rechts,Hans Jörg Käppeli,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-209,22.3.2006,2006/93,Beatrice Reimann,SP,links,Robert Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
-211,23.03.2011,2011/89,Michael Baumer,FDP,rechts,Markus Knauss,Grüne,links,Schul- und Sportdepartement (SSD)
-212,11.06.2008,2008/268,Bernhard Piller,Grüne,links,Ernst Danner,EVP,mitte,
-213,3.3.2004,2004/104,Ueli Nagel,Grüne,links,Willy Furter,EVP,mitte,Hochbaudepartement (HBD)
-214,10.01.2007,2007/8,Pierino Cerliani,Grüne,links,Michael Baumer,FDP,rechts,
-215,23.6.1999,1999/274,Robert Schönbächler,CVP,mitte,Markus Bischoff,AL,links,Departement der Industriellen Betriebe (DIB)
-216,04.04.2018,2018/137,Markus Kunz,Grüne,links,Guido Hüni,GLP,mitte,
-218,16.03.2016,2016/81,Marcel Savarioud,SP,links,Karin Weyermann,CVP,mitte,
-219,20.06.2018,2018/241,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,Schul- und Sportdepartement (SSD)
-220,02.09.2015,2015/276,Marcel Savarioud,SP,links,Roger Tognella,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-222,05.06.2019,2019/250,Andrea Leitner Verhoeven,AL,links,Ann-Catherine Nabholz,GLP,mitte,Stadtrat
-223,05.06.2019,2019/244,Nadia Huberson,SP,links,Përparim Avdili,FDP,rechts,Gemeinderat
-224,07.12.2011,2011/468,Michel Urben,SP,links,Marcel Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-225,8.3.2000,2000/109,Joe A. Manser,SP,links,Max Fritz,FDP,rechts,Geschäftsbericht Stadtrat
-226,2.6.2004,2004/288,Christina Bellin-Isele,SP,links,Thomas  Kappeler,CVP,mitte,Hochbaudepartement (HBD)
-227,24.11.2010,2010/486,Christina Hug,Grüne,links,Isabel Garcia,GLP,mitte,Präsidialdepartement (PRD)
-230,4.6.2003,2003/183,Daniel Leupi,Grüne,links,Robert Schönbächler,CVP,mitte,Geschäftsbericht Stadtrat
-231,08.06.2016,2016/207,Marco Denoth,SP,links,Ann-Catherine Nabholz,GLP,mitte,
-232,13.11.2013,2013/395,Roger Tognella,FDP,rechts,Dorothea Frei,SP,links,Sozialdepartement (SD)
-233,1.11.2000,2000/524,Hans-Ulrich Meier,FDP,rechts,Werner Sieg,SP,links,Hochbaudepartement (HBD)
-234,29.08.2018,2018/318,Stefan Urech,SVP,rechts,Urs Helfenstein,SP,links,Stadtrat
-235,18.05.2016,2016/171,Markus Knauss,Grüne,links,Christian Traber,CVP,mitte,
-236,8.2.2006,2006/56,Pierino Cerliani,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-237,27.11.2019,2019/519,Nicole Giger,SP,links,Sven Sobernheim,GLP,mitte,Gemeinderat
-238,22.9.2004,2004/512,Franziska Graf,SP,links,Thomas  Kappeler,CVP,mitte,
-239,12.06.2019,2019/257,Sven Sobernheim,GLP,mitte,Res Marti,Grüne,links,Gemeinderat
-240,03.09.2014,2014/274,Eduard Guggenheim,AL,links,Adrian Gautschi,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-241,13.6.2007,2007/348,Albert Leiser,FDP,rechts,Niklaus Scherr,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
-242,1.2.2006,2006/40,Salvatore Di Concilio,SP,links,Robert Schönbächler,CVP,mitte,Präsidialdepartement (PRD)
-243,08.01.20,2005/39,Maya Burri-Wenger,SP,links,Gerold Lauber,CVP,mitte,
-244,19.06.2013,2013/234,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,
-246,09.06.2010,2010/254,Sacha Walker,GLP,mitte,Rebekka Wyler,SP,links,Polizeidepartement (PD)
-247,15.12.2004,2004/670,Hans Jörg Käppeli,SP,links,Kurt Maeder,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-248,01.04.2009,2009/121,Monika Bloch Süss,CSP,mitte,Marianne Spieler Frauenfelder,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-249,26.05.2010,2006/577,Pierino Cerliani,Grüne,links,Claudia Rabelbauer,EVP,mitte,
-250,08.06.2016,2016/205,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,
-251,23.6.2004,2004/328,Alexander Jäger,FDP,rechts,Pierino Cerliani,Grüne,links,Polizeidepartement (PD)
-252,9.6.2004,2004/300,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,
-253,23.3.2005,2005/107,Maya Burri-Wenger,SP,links,Roger Tognella,FDP,rechts,Polizeidepartement (PD)
-255,13.01.2010,2010/24,Hans Jörg Käppeli,SP,links,Ruth Ackermann,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-256,17.04.2013,2013/156,Alan David Sangines,SP,links,Samuel Dubno,GLP,mitte,
-257,23.01.2019,2019/28,Markus Baumann,GLP,mitte,Marcel Tobler,SP,links,Gemeinderat
-258,6.12.2006,2006/576,Pierino Cerliani,Grüne,links,Mario Mariani,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-259,1.10.2003,2003/369,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-260,30.10.2013,2013/369,Marcel Schönbächler,CVP,mitte,Peter Küng,SP,links,
-261,23.11.2005,2005/489,Balthasar Glättli,Grüne,links,Gerold Lauber,CVP,mitte,
-262,15.12.2004,2004/671,Hans Jörg Käppeli,SP,links,Kurt Maeder,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-263,08.01.20,2018/327,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,
-264,26.03.2014,2014/96,Eva-Maria Würth,SP,links,Karin Weyermann,CVP,mitte,
-265,20.03.2019,2019/108,Markus Baumann,GLP,mitte,Marco Geissbühler,SP,links,Gemeinderat
-266,5.12.2007,2007/639,Walter Angst,AL,links,Jean-Claude Virchaux,CVP,mitte,Sozialdepartement (SD)
-267,14.06.2017,2017/188,Ann-Catherine Nabholz,GLP,mitte,Gabriele Kisker,Grüne,links,
-268,19.6.2002,2002/218,Marcel Savarioud,SP,links,Gerold Lauber,CVP,mitte,
-269,04.12.2019,2019/524,Marion Schmid,SP,links,Corina Ursprung,FDP,rechts,Gemeinderat
-270,27.11.2002,2002/519,Rolf Kuhn,SP,links,Anton Stäbler,CVP,mitte,Sozialdepartement (SD)
-271,21.11.2018,2015/405,Roger Tognella,FDP,rechts,Marco Denoth,SP,links,
-272,07.11.2018,2018/426,Corina Gredig,GLP,mitte,Jean-Daniel Strub,SP,links,Stadtrat
-273,16.01.2013,2013/13,Gian von Planta,GLP,mitte,Patrick Hadi Huber,SP,links,
-274,27.05.2015,2015/160,Roger-Paul Speck,SP,links,Sven Sobernheim,GLP,mitte,
-275,21.05.2014,2014/165,Andreas Kirstein,AL,links,Isabel Garcia,GLP,mitte,Schul- und Sportdepartement (SSD)
-276,12.09.2018,2018/341,Andri Silberschmidt,FDP,rechts,Gabriele Kisker,Grüne,links,Stadtrat
-277,27.01.2016,2016/36,Andrea Nüssli,SP,links,Christian Traber,CVP,mitte,
-278,12.04.2017,2017/105,Andreas Kirstein,AL,links,Albert Leiser,FDP,rechts,
-279,01.02.2012,2012/46,Gerhard Bosshard,EVP,mitte,Bernhard Piller,Grüne,links,Hochbaudepartement (HBD)
-280,27.5.2009,2009/224,Jean-Claude Virchaux,CVP,mitte,Balthasar Glättli,Grüne,links,Finanzdepartement (FD)
-281,29.8.2001,2001/432,Joe A. Manser,SP,links,Urs Lauffer,FDP,rechts,Hochbaudepartement (HBD)
-282,20.12.2017,2017/463,Patrick Hadi Huber,SP,links,Ann-Catherine Nabholz,GLP,mitte,Stadtrat
-283,11.03.2015,2015/71,Felix Moser,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,
-284,12.7.2006,2006/314,Salvatore Di Concilio,SP,links,Robert Schönbächler,CVP,mitte,
-285,30.1.2002,2002/41,Beat Badertscher,FDP,rechts,Werner Sieg,SP,links,
-286,07.11.2018,2018/425,Urs Helfenstein,SP,links,Matthias Wiesmann,GLP,mitte,Stadtrat
-287,06.02.2013,2013/38,Simone Brander,SP,links,Ann-Catherine Nabholz,GLP,mitte,
-288,12.11.2014,2014/365,Cordula Bieri,Grüne,links,Markus Baumann,GLP,mitte,Sozialdepartement (SD)
-289,21.08.2019,2019/346,Shaibal Roy,GLP,mitte,Marcel Bührig,Grüne,links,Stadtrat
-290,27.05.2015,2015/162,Eduard Guggenheim,AL,links,Marc Bourgeois,FDP,rechts,Geschäftsbericht Stadtrat
-291,18.8.2004,2004/403,Alecs Recher,AL,links,Robert Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
-292,21.11.2001,2001/591,Joe A. Manser,SP,links,Hans-Ulrich Meier,FDP,rechts,Hochbaudepartement (HBD)
-293,06.02.2019,2019/59,Pascal Lamprecht,SP,links,Sven Sobernheim,GLP,mitte,Gemeinderat
-294,22.08.2012,2012/308,Davy Graf,SP,links,Joachim Hagger,FDP,rechts,Finanzdepartement (FD)
-295,06.02.2019,2019/58,Pirmin Meyer,GLP,mitte,Marcel Tobler,SP,links,Stadtrat
-296,18.8.2004,2004/402,Alecs Recher,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-297,06.02.2013,2013/39,Alan David Sangines,SP,links,Mario Mariani,CVP,mitte,
-298,12.09.2018,2018/342,Balz Bürgisser,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Stadtrat
-299,07.11.2018,2018/424,Andri Silberschmidt,FDP,rechts,Jean-Daniel Strub,SP,links,Stadtrat
-300,26.08.2009,2002/40,Robert Kaeser,FDP,rechts,Peter Stähli-Barth,SP,links,
-301,17.01.2018,2018/18,Dorothea Frei,SP,links,Patrick Albrecht,FDP,rechts,
-302,11.01.2017,2017/2,Mario Mariani,CVP,mitte,Mathias Manz,SP,links,
-303,7.1.2004,2004/8,Marlène Butz,SP,links,Georg Schmid,CVP,mitte,Polizeidepartement (PD)
-304,06.10.2010,2010/422,Matthias Probst,Grüne,links,Gian von Planta,GLP,mitte,
-305,25.1.2006,2006/24,Balthasar Glättli,Grüne,links,Michael Baumer,FDP,rechts,Finanzdepartement (FD)
-306,08.01.20,1996/57,Kurt Tschopp,CVP,mitte,Monika Spring-Gross,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
-307,06.09.2017,2017/304,Ann-Catherine Nabholz,GLP,mitte,Balz Bürgisser,Grüne,links,Stadtrat
-308,29.3.2000,2000/146,Monika Spring-Gross,SP,links,Robert Schönbächler,CVP,mitte,Polizeidepartement (PD)
-311,25.5.2005,2005/205,Corine Mauch,SP,links,Ernst Danner,EVP,mitte,
-312,21.12.2016,2016/463,Eduard Guggenheim,AL,links,Mario Babini,Parteilos,mitte,Stadtrat
-313,17.12.2008,2008/583,Bernhard Piller,Grüne,links,Martin Mächler,EVP,mitte,
-314,17.04.2019,2019/155,Florian Blättler,SP,links,Christian Monn,GLP,mitte,Stadtrat
-315,18.11.2015,2015/365,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,Stadtrat
-316,17.4.2002,2002/127,Marcel Savarioud,SP,links,Gerold Lauber,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
-317,03.10.2018,2018/385,Eduard Guggenheim,AL,links,Sebastian Vogel,FDP,rechts,
-318,22.06.2011,2011/219,Gian von Planta,GLP,mitte,Markus Knauss,Grüne,links,
-319,20.4.2005,2005/166,Heinz Bögle,SP,links,Rosemarie Berthoud,FDP,rechts,Sozialdepartement (SD)
-321,17.12.2008,2008/582,Ueli Nagel,Grüne,links,Claudia Rabelbauer,EVP,mitte,Schul- und Sportdepartement (SSD)
-322,02.11.2011,2011/408,Fiammetta Jahreiss-Montagnani,SP,links,Christian Traber,CVP,mitte,Finanzdepartement (FD)
-323,18.06.2014,2014/203,Pawel Silberring,SP,links,Heinz F. Steger,FDP,rechts,
-324,7.4.2004,2004/203,Franziska Graf,SP,links,Georg Schmid,CVP,mitte,
-325,3.5.2006,2006/138,Marlène Butz,SP,links,Astrid Hirzel,CVP,mitte,
-326,25.1.2006,2006/23,Michael Baumer,FDP,rechts,Balthasar Glättli,Grüne,links,Finanzdepartement (FD)
-327,28.08.2013,2013/294,Simon Kälin-Werth,Grüne,links,Gerhard Bosshard,EVP,mitte,Hochbaudepartement (HBD)
-328,17.12.2008,2008/580,Peter Stähli-Barth,SP,links,Ernst Danner,EVP,mitte,
-329,07.11.2018,2018/423,Marco Denoth,SP,links,Albert Leiser,FDP,rechts,
-330,16.01.2013,2013/16,Peter Küng,SP,links,Michèle Halser-Furrer,EVP,mitte,
-331,15.05.2019,2019/195,Christine Seidler,SP,links,Isabel Garcia,GLP,mitte,
-334,10.04.2013,2013/135,Joachim Hagger,FDP,rechts,Bernhard Piller,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
-335,04.09.2019,2017/263,Albert Leiser,FDP,rechts,Andreas Kirstein,AL,links,
-336,06.02.2019,2019/62,Ernst Danner,EVP,mitte,Christina Schiller,AL,links,Gemeinderat
-337,03.06.2015,2015/171,Marcel Savarioud,SP,links,Karin Weyermann,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
-338,20.4.2005,2005/165,Anna Brändle Galliker,SP,links,Gerold Lauber,CVP,mitte,Sozialdepartement (SD)
-339,19.08.2009,2009/355,Albert Leiser,FDP,rechts,Daniel Leupi,Grüne,links,
-340,03.10.2018,2018/387,Marcel Bührig,Grüne,links,Isabel Garcia,GLP,mitte,Stadtrat
-341,16.01.2013,2013/17,Florian Utz,SP,links,Michèle Halser-Furrer,EVP,mitte,
-342,10.12.2003,2003/487,Daniel Leupi,Grüne,links,Ernst Danner,EVP,mitte,Polizeidepartement (PD)
-343,21.12.2016,2016/461,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,
-344,28.08.2013,2013/295,Simon Kälin-Werth,Grüne,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
-345,25.5.2005,2005/207,Hans Jörg Käppeli,SP,links,Heinz F. Steger,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
-346,16.1.2008,2008/33,Marlène Butz,SP,links,Astrid Hirzel,CVP,mitte,Polizeidepartement (PD)
-347,3.5.2006,2006/139,Marlène Butz,SP,links,Robert Schönbächler,CVP,mitte,Departement der Industriellen Betriebe (DIB)
-348,9.1.2008,2008/3,Joe A. Manser,SP,links,Mario Mariani,CVP,mitte,Präsidialdepartement (PRD)
+0,28.09.2011,2011/362,Alecs Recher,AL,links,Maleica Landolt,GLP,mitte,Finanzdepartement (FD)
+1,20.10.2004,2004/541,Niklaus Scherr,AL,links,Kurt Maeder,CVP,mitte,Hochbaudepartement (HBD)
+2,16.05.2013,2005/550,Mario Mariani,CVP,mitte,Muriel Herzig,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+3,06.01.2016,2016/16,Christina Schiller,AL,links,Mario Babini,Parteilos,mitte,Polizeidepartement (PD)
+4,1.12.2004,2004/637,Corine Mauch,SP,links,Albert Leiser,FDP,rechts,Finanzdepartement (FD)
+5,19.09.2018,2018/361,Matthias Probst,Grüne,links,Guido Hüni,GLP,mitte,Gesundheits- und Umweltdepartement (GUD)
+6,22.06.2016,2016/242,Christian Traber,CVP,mitte,Urs Helfenstein,SP,links,Schul- und Sportdepartement (SSD)
+7,7.4.2004,2004/192,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+8,12.07.2017,2017/247,Ursula Uttinger,FDP,rechts,Marco Denoth,SP,links,Finanzdepartement (FD)
+9,30.01.2019,2019/46,Markus Baumann,GLP,mitte,Marco Denoth,SP,links,Gesundheits- und Umweltdepartement (GUD)
+10,05.12.2012,2012/465,Michèle Halser-Furrer,EVP,mitte,Thomas Wyss,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+11,13.03.2019,2019/91,Balz Bürgisser,Grüne,links,Yasmine Bourgeois,FDP,rechts,Schul- und Sportdepartement (SSD)
+12,06.07.2016,2016/257,Jonas Steiner,SP,links,Ursula Uttinger,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+13,11.06.2014,2014/187,Peter Küng,SP,links,Gian von Planta,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+14,21.6.2006,2006/257,Heinz Jacobi,SP,links,Robert Schönbächler,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+15,22.6.2005,2003/306,Robert Schönbächler,CVP,mitte,Daniel Leupi,Grüne,links,Polizeidepartement (PD)
+16,16.12.2009,2009/601,Bruno Wohler,SVP,rechts,Thomas Wyss,Grüne,links,Hochbaudepartement (HBD)
+17,30.09.2009,2007/642,Daniel Leupi,Grüne,links,Roger Tognella,FDP,rechts,Hochbaudepartement (HBD)
+18,18.05.2011,2005/551,Bernhard Piller,Grüne,links,Mario Mariani,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+19,8.2.2005,2005/223,Corine Mauch,SP,links,Ernst Danner,EVP,mitte,Departement der Industriellen Betriebe (DIB)
+20,3.5.2006,2006/135,Judith Bucher,SP,links,Christian Traber,CVP,mitte,Sozialdepartement (SD)
+21,10.11.2004,2004/583,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
+22,20.04.2016,2016/135,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+23,13.05.2009,2009/205,Heinz F. Steger,FDP,rechts,Jacqueline Badran,SP,links,"Finanzdepartement (FD), Hochbaudepartement (HBD), Präsidialdepartement (PRD)"
+24,25.11.2009,2009/563,Pierino Cerliani,Grüne,links,Mario Mariani,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+25,08.01.20,2014/230,Marcel Schönbächler,CVP,mitte,Peter Küng,SP,links,Finanzdepartement (FD)
+26,25.11.2009,2009/549,Walter Angst,AL,links,Jean-Claude Virchaux,CVP,mitte,Finanzdepartement (FD)
+27,21.09.2011,2011/349,Dorothea Frei,SP,links,Roger Tognella,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+28,15.01.2020,2020/14,Marcel Müller,FDP,rechts,Pascal Lamprecht,SP,links,Sicherheitsdepartement (SID)
+29,04.02.2015,2015/44,Markus Knauss,Grüne,links,Guido Trevisan,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+30,20.04.2016,2016/137,Marcel Tobler,SP,links,Markus Hungerbühler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+31,29.09.2010,2010/416,Gabriele Kisker,Grüne,links,Samuel Dubno,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+32,9.2.2005,2005/41,Robert Schönbächler,CVP,mitte,Heinz Bögle,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+33,1.12.2004,2004/634,Maya Burri-Wenger,SP,links,Gerold Lauber,CVP,mitte,Finanzdepartement (FD)
+34,23.01.2013,2013/25,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,Sozialdepartement (SD)
+35,11.12.1996,2006/255,Bastien Girod,Grüne,links,Ernst Danner,EVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+36,12.07.2017,2017/244,Roger Liebi,SVP,rechts,Markus Knauss,Grüne,links,Präsidialdepartement (PRD)
+38,27.01.2010,2010/60,Myrtha Meuli,SP,links,Hans Bachmann,FDP,rechts,Hochbaudepartement (HBD)
+39,29.01.20,2002/300,Joe A. Manser,SP,links,Andreas J. Schlegel,FDP,rechts,Schul- und Sportdepartement (SSD)
+40,2.4.2008,2008/161,Ueli Nagel,Grüne,links,Claudia Rabelbauer,EVP,mitte,Schul- und Sportdepartement (SSD)
+41,15.06.2011,2011/214,Isabel Garcia,GLP,mitte,Fiammetta Jahreiss-Montagnani,SP,links,Schul- und Sportdepartement (SSD)
+42,26.10.2005,2005/426,Ueli Nagel,Grüne,links,Monjek Rosenheim,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+43,09.01.2019,2019/4,Marcel Müller,FDP,rechts,Pascal Lamprecht,SP,links,Hochbaudepartement (HBD)
+44,20.01.2016,2016/28,Hans Urs von Matt,SP,links,Christian Traber,CVP,mitte,Präsidialdepartement (PRD)
+46,06.06.2018,2018/217,Guido Hüni,GLP,mitte,Andreas Kirstein,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+47,21.12.2005,2005/552,Bernhard Piller,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+48,22.8.2007,2007/457,Robert Schönbächler,CVP,mitte,Heinz Jacobi,SP,links,Departement der Industriellen Betriebe (DIB)
+49,20.04.2016,2016/136,Jonas Steiner,SP,links,Shaibal Roy,GLP,mitte,Schul- und Sportdepartement (SSD)
+50,1.2.2006,2006/39,Mario Mariani,CVP,mitte,Daniel Leupi,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+51,10.6.1998,1998/187,Niklaus Scherr,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+53,28.09.2011,2011/360,Gian von Planta,GLP,mitte,Katrin Wüthrich,SP,links,Polizeidepartement (PD)
+54,10.7.2002,2002/258,Daniel Leupi,Grüne,links,Alexander Jäger,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+56,10.11.2004,2004/584,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
+57,21.09.2016,2016/318,Renate Fischer,SP,links,Isabel Garcia,GLP,mitte,Hochbaudepartement (HBD)
+58,23.8.2006,2006/330,Robert Schönbächler,CVP,mitte,Niklaus Scherr,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+59,29.06.2016,2016/250,Alan David Sangines,SP,links,Shaibal Roy,GLP,mitte,Sozialdepartement (SD)
+60,06.03.2019,2019/82,Roger Bartholdi,SVP,rechts,Pascal Lamprecht,SP,links,Schul- und Sportdepartement (SSD)
+61,09.04.2008,2008/171,Martin Sarbach,SP,links,Mario Mariani,CVP,mitte,Hochbaudepartement (HBD)
+62,26.3.2003,2003/117,Emil Seliner,SP,links,Robert Schönbächler,CVP,mitte,Finanzdepartement (FD)
+63,18.5.2005,2005/191,Beatrice Reimann,SP,links,Ernst Danner,EVP,mitte,Departement der Industriellen Betriebe (DIB)
+64,10.06.2015,2015/184,Matthias Probst,Grüne,links,Guido Trevisan,GLP,mitte,Polizeidepartement (PD)
+66,17.03.2010,2003/116,Emil Seliner,SP,links,Robert Schönbächler,CVP,mitte,Finanzdepartement (FD)
+67,23.08.2017,2017/268,Sven Sobernheim,GLP,mitte,Pascal Lamprecht,SP,links,Sicherheitsdepartement (SID)
+68,4.2.2009,2009/45,Ueli Nagel,Grüne,links,Claudia Simon,FDP,rechts,Schul- und Sportdepartement (SSD)
+69,24.10.2018,2018/399,Eduard Guggenheim,AL,links,Stefan Urech,SVP,rechts,Hochbaudepartement (HBD)
+70,17.12.2003,2003/499,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Schul- und Sportdepartement (SSD)
+71,9.2.2005,2005/51,Marianne Dubs Früh,SP,links,Kurt Maeder,CVP,mitte,Polizeidepartement (PD)
+72,28.10.1998,1998/343,Beat Badertscher,FDP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+73,21.09.2016,2016/319,Marcel Bührig,Grüne,links,Sven Sobernheim,GLP,mitte,Sicherheitsdepartement (SID)
+74,8.6.2005,2005/225,Marianne Dubs Früh,SP,links,Kurt Maeder,CVP,mitte,Polizeidepartement (PD)
+75,14.7.1999,1999/346,Niklaus Scherr,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+76,11.12.2009,2009/598,Christian Traber,CVP,mitte,Daniel Leupi,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+78,17.01.2018,2018/16,Katharina Prelicz-Huber,Grüne,links,Markus Baumann,GLP,mitte,Sozialdepartement (SD)
+79,8.7.1998,1998/221,Rolf Kuhn,SP,links,Kurt Tschopp,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+80,29.06.2016,2016/253,Ann-Catherine Nabholz,GLP,mitte,Jean-Daniel Strub,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+81,06.03.2019,2019/81,Nicole Giger,SP,links,Andri Silberschmidt,FDP,rechts,Sicherheitsdepartement (SID)
+84,18.09.2019,2017/243,Marco Denoth,SP,links,Sven Sobernheim,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+86,15.03.2017,2017/52,Roger-Paul Speck,SP,links,Markus Merki,GLP,mitte,Schul- und Sportdepartement (SSD)
+87,16.09.2009,2009/406,Alexander Jäger,FDP,rechts,Bernhard Piller,Grüne,links,Departement der Industriellen Betriebe (DIB)
+88,29.06.2016,2016/252,Christina Schiller,AL,links,Guy Krayenbühl,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+89,11.09.2013,2013/317,Peter Küng,SP,links,Michael Schmid,FDP,rechts,Schul- und Sportdepartement (SSD)
+90,31.08.2016,2016/291,Markus Merki,GLP,mitte,Pascal Lamprecht,SP,links,Präsidialdepartement (PRD)
+91,5.7.2006,2006/291,Robert Schönbächler,CVP,mitte,Niklaus Scherr,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+92,5.10.2005,2005/408,Christine Seidler,SP,links,Gerold Lauber,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+93,03.07.2013,2013/263,Alexander Jäger,FDP,rechts,Kyriakos Papageorgiou,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+94,1.11.2006,2006/468,Robert Schönbächler,CVP,mitte,Niklaus Scherr,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+95,14.7.1999,1999/345,Markus Bischoff,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+96,22.05.2019,2019/214,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,Schul- und Sportdepartement (SSD)
+98,20.12.2002,2002/567,Susann Birrer,FDP,rechts,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+99,06.12.2017,2017/436,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Sicherheitsdepartement (SID)
+100,4.6.2008,2008/262,Erika Bärtschi Hafner,FDP,rechts,Joe A. Manser,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+102,11.07.2018,2018/289,Corina Gredig,GLP,mitte,Marion Schmid,SP,links,Gesundheits- und Umweltdepartement (GUD)
+103,16.04.2014,2014/126,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,Sozialdepartement (SD)
+104,01.12.2010,2010/502,Fabienne Vocat,Grüne,links,Michael Baumer,FDP,rechts,Hochbaudepartement (HBD)
+106,5.11.2003,2003/416,Georg Schmid,CVP,mitte,Werner Sieg,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+107,06.02.2013,2013/45,Alan David Sangines,SP,links,Marcel Schönbächler,CVP,mitte,Polizeidepartement (PD)
+108,24.1.2007,2007/30,Karin Rykart Sutter,Grüne,links,Astrid Hirzel,CVP,mitte,Finanzdepartement (FD)
+109,20.05.2015,2015/137,Min Li Marti,SP,links,Samuel Dubno,GLP,mitte,Polizeidepartement (PD)
+110,03.07.2019,2019/313,Markus Merki,GLP,mitte,Heidi Egger,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+111,30.09.2009,2009/449,Christian Aeschbach,FDP,rechts,Christina Hug,Grüne,links,Departement der Industriellen Betriebe (DIB)
+112,25.2.2004,2004/75,Michael Baumer,FDP,rechts,Balthasar Glättli,Grüne,links,Präsidialdepartement (PRD)
+114,07.06.2006,2006/220,Richard Rabelbauer,EVP,mitte,Bastien Girod,Grüne,links,Präsidialdepartement (PRD)
+115,27.02.2013,2013/50,Ursula Uttinger,FDP,rechts,Jean-Daniel Strub,SP,links,Schul- und Sportdepartement (SSD)
+116,16.06.2010,2010/265,Florian Utz,SP,links,Guido Trevisan,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+117,16.04.2014,2014/127,Helen Glaser,SP,links,Alexander Jäger,FDP,rechts,Gesundheits- und Umweltdepartement (GUD)
+118,21.10.2015,2015/334,Pascal Lamprecht,SP,links,Ursula Uttinger,FDP,rechts,Gesundheits- und Umweltdepartement (GUD)
+119,19.06.2013,2013/239,Gerhard Bosshard,EVP,mitte,Esther Straub,SP,links,Präsidialdepartement (PRD)
+120,07.02.2018,2018/65,Michael Kraft,SP,links,Sven Sobernheim,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+121,5.12.2007,2007/635,Walter Angst,AL,links,Ernst Danner,EVP,mitte,Finanzdepartement (FD)
+122,19.08.2015,2015/268,Simone Brander,SP,links,Marc Bourgeois,FDP,rechts,Departement der Industriellen Betriebe (DIB)
+123,14.07.2010,2010/311,Dorothea Frei,SP,links,Severin Pflüger,FDP,rechts,Finanzdepartement (FD)
+124,11.4.2007,2007/184,Marcel Savarioud,SP,links,Josef Widler,CVP,mitte,Sozialdepartement (SD)
+125,1.3.2006,2006/65,Niklaus Scherr,AL,links,Alexander Jäger,FDP,rechts,Departement der Industriellen Betriebe (DIB)
+126,01.11.2017,2017/379,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Sicherheitsdepartement (SID)
+127,20.04.2016,2016/142,Sven Sobernheim,GLP,mitte,Markus Kunz,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+128,28.01.2015,2015/31,Marcel Bührig,Grüne,links,Markus Hungerbühler,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+129,20.12.2002,2002/566,Susann Birrer,FDP,rechts,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+130,07.12.2011,2011/466,Peter Küng,SP,links,Marcel Schönbächler,CVP,mitte,Schul- und Sportdepartement (SSD)
+131,20.11.2019,2019/500,Markus Merki,GLP,mitte,Andreas Kirstein,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+132,11.11.2009,2009/516,Heinz F. Steger,FDP,rechts,Uschi Heinrich,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+133,31.08.2011,2011/316,Markus Knauss,Grüne,links,Samuel Dubno,GLP,mitte,Polizeidepartement (PD)
+134,23.01.2008,2008/62,Christine Seidler,SP,links,Christian Traber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+135,11.7.2007,2007/409,Kyriakos Papageorgiou,SP,links,Alexander Jäger,FDP,rechts,Departement der Industriellen Betriebe (DIB)
+137,20.9.2006,2006/395,Myrtha Meuli,SP,links,Josef Widler,CVP,mitte,Sozialdepartement (SD)
+138,05.10.2016,2016/342,Marco Denoth,SP,links,Martin Luchsinger,GLP,mitte,Sicherheitsdepartement (SID)
+140,27.09.2006,2006/418,Matthias Probst,Grüne,links,Richard Rabelbauer,EVP,mitte,Präsidialdepartement (PRD)
+141,06.01.2016,2016/9,Markus Baumann,GLP,mitte,Alan David Sangines,SP,links,Präsidialdepartement (PRD)
+142,15.12.2010,2010/529,Christina Hug,Grüne,links,Claudia Rabelbauer,EVP,mitte,Schul- und Sportdepartement (SSD)
+143,18.04.2012,2012/174,Katrin Wüthrich,SP,links,Marcel Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
+144,7.6.2006,2006/222,Christine Seidler,SP,links,Mario Mariani,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+145,29.11.2006,2006/550,Markus Knauss,Grüne,links,Richard Rabelbauer,EVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+146,6.12.2006,2006/578,Marlène Butz,SP,links,Theresa G. Hensch-Stadelmann,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+147,31.10.2012,2012/389,Min Li Marti,SP,links,Isabel Garcia,GLP,mitte,Präsidialdepartement (PRD)
+148,2.10.2002,2002/404,Christoph Hug,Grüne,links,Gerold Lauber,CVP,mitte,Präsidialdepartement (PRD)
+149,05.07.2017,2017/227,Heidi Egger,SP,links,Reto Rudolf,CVP,mitte,Sicherheitsdepartement (SID)
+150,13.11.2019,2019/489,Pascal Lamprecht,SP,links,Marcel Müller,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+151,05.07.2017,2017/226,Christine Seidler,SP,links,Mario Mariani,CVP,mitte,Präsidialdepartement (PRD)
+152,03.07.2019,2019/311,Zilla Roose,SP,links,Markus Merki,GLP,mitte,Schul- und Sportdepartement (SSD)
+153,18.04.2012,2012/175,Daniel Meier,CVP,mitte,Florian Utz,SP,links,Finanzdepartement (FD)
+154,16.06.2010,2010/266,Florian Utz,SP,links,Guido Trevisan,GLP,mitte,Polizeidepartement (PD)
+155,07.02.2018,2018/66,Marcel Tobler,SP,links,Isabel Garcia,GLP,mitte,Präsidialdepartement (PRD)
+156,7.7.1999,1999/320,Kurt Tschopp,CVP,mitte,Rolf Kuhn,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+157,11.1.1995,1993/155,Peter Stähli-Barth,SP,links,Paul Kleger,FDP,rechts,Hochbaudepartement (HBD)
+158,6.2.2008,2008/88,Mirella Wepf,SP,links,Ernst Danner,EVP,mitte,Hochbaudepartement (HBD)
+159,10.1.2001,2001/6,Joe A. Manser,SP,links,Guido Wick,FDP,rechts,Polizeidepartement (PD)
+160,31.08.2011,2011/317,Monika Erfigen,SVP,rechts,Marianne Aubert,SP,links,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
+161,05.06.2019,2019/249,Balz Bürgisser,Grüne,links,Roger Bartholdi,SVP,rechts,Hochbaudepartement (HBD)
+162,17.5.2006,2006/192,Alecs Recher,AL,links,Josef Widler,CVP,mitte,Sozialdepartement (SD)
+163,07.12.2011,2011/475,Hans Jörg Käppeli,SP,links,Guido Trevisan,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+164,04.10.2017,2017/356,Mathias Egloff,SP,links,Ronny Siev,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+165,18.12.2002,2002/561,Robert Schönbächler,CVP,mitte,Claudia Nielsen,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+166,27.09.2017,2017/342,Pascal Lamprecht,SP,links,Mario Mariani,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+167,4.6.2008,2008/258,Myrtha Meuli,SP,links,Ernst Danner,EVP,mitte,Sozialdepartement (SD)
+168,08.07.2015,2015/247,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+169,11.6.2008,2008/270,Thomas Marthaler,SP,links,Christian Traber,CVP,mitte,Schul- und Sportdepartement (SSD)
+170,23.03.2011,2011/91,Marcel Schönbächler,CVP,mitte,Alecs Recher,AL,links,Hochbaudepartement (HBD)
+171,27.9.2006,2006/421,Robert Schönbächler,CVP,mitte,Pierino Cerliani,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+172,22.10.2008,2008/476,Marco V. Camin,FDP,rechts,Ueli Nagel,Grüne,links,Gesundheits- und Umweltdepartement (GUD)
+173,1.10.2008,2008/462,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+174,30.10.2019,2019/473,Olivia Romanelli,AL,links,Ernst Danner,EVP,mitte,Präsidialdepartement (PRD)
+175,30.10.2019,2019/467,Balz Bürgisser,Grüne,links,Roger Bartholdi,SVP,rechts,Schul- und Sportdepartement (SSD)
+176,08.02.2017,2017/27,Pawel Silberring,SP,links,Guy Krayenbühl,GLP,mitte,Sicherheitsdepartement (SID)
+177,2.10.2002,2002/401,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
+178,9.5.2007,2007/237,Daniel Leupi,Grüne,links,Doris Weber,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+179,22.10.1997,1997/428,Luzia Vieli-Hardegger,LdU,mitte,Simone Bertogg-Baudet,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+181,7.6.2006,2006/226,Mischa Morgenbesser,FDP,rechts,Daniel Leupi,Grüne,links,Gesundheits- und Umweltdepartement (GUD)
+182,6.12.2006,2006/568,Bastien Girod,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+183,28.11.2018,2018/463,Pablo Bünger,FDP,rechts,Helen Glaser,SP,links,Departement der Industriellen Betriebe (DIB)
+184,7.3.2001,2001/104,Emil Seliner,SP,links,Placidus Maissen,CVP,mitte,Hochbaudepartement (HBD)
+185,4.6.2008,2008/259,Josef Widler,CVP,mitte,Heinz Jacobi,SP,links,Sozialdepartement (SD)
+186,7.7.1999,1999/319,Rolf Kuhn,SP,links,Kurt Tschopp,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+187,4.3.2009,2000/129,Robert Schönbächler,CVP,mitte,Heinz Bögle,SP,links,"Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)"
+188,08.01.20,2006/387,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+189,02.03.2016,2016/64,Marcel Bührig,Grüne,links,Sven Sobernheim,GLP,mitte,Präsidialdepartement (PRD)
+190,13.7.2005,2005/293,Muriel Herzig,Grüne,links,Mario Mariani,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+191,03.04.2019,2019/128,Hans Jörg Käppeli,SP,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+192,23.06.2010,2010/275,Thomas Wyss,Grüne,links,Hanspeter Kunz,EVP,mitte,Finanzdepartement (FD)
+193,21.1.2009,2009/30,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+194,30.10.2019,2019/464,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Hochbaudepartement (HBD)
+196,06.07.2011,2011/264,Matthias Probst,Grüne,links,Marcel Schönbächler,CVP,mitte,Polizeidepartement (PD)
+197,30.10.2019,2019/465,Përparim Avdili,FDP,rechts,Pascal Lamprecht,SP,links,Sicherheitsdepartement (SID)
+198,04.04.2018,2018/138,Guido Hüni,GLP,mitte,Markus Kunz,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+199,22.11.2006,2006/543,Judith Bucher,SP,links,Doris Weber,FDP,rechts,Schul- und Sportdepartement (SSD)
+200,15.06.2016,2016/225,Barbara Wiesmann,SP,links,Guy Krayenbühl,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+201,12.03.2014,2014/74,Samuel Dubno,GLP,mitte,Walter Angst,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+202,05.03.2014,2014/60,Simone Brander,SP,links,Guido Trevisan,GLP,mitte,Polizeidepartement (PD)
+203,21.1.2009,2009/31,Bruno Sidler,SVP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+204,03.04.2019,2019/129,Markus Knauss,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+205,29.05.2013,2013/200,Samuel Dubno,GLP,mitte,Walter Angst,AL,links,Polizeidepartement (PD)
+206,02.11.2016,2016/379,Dorothea Frei,SP,links,Heinz Schatt,SVP,rechts,Sicherheitsdepartement (SID)
+207,01.12.2010,2010/499,Matthias Probst,Grüne,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+210,19.06.2019,2019/277,Balz Bürgisser,Grüne,links,Sebastian Vogel,FDP,rechts,Hochbaudepartement (HBD)
+211,27.11.2019,2019/508,Marion Schmid,SP,links,Maria del Carmen Señorán,SVP,rechts,Sozialdepartement (SD)
+213,26.06.2019,2019/291,Sebastian Vogel,FDP,rechts,Balz Bürgisser,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+214,08.01.20,1998/33,Johanna Tremp,SP,links,Kathy Riklin,CVP,mitte,Hochbaudepartement (HBD)
+215,14.07.2010,2010/319,Hans Jörg Käppeli,SP,links,Roger Tognella,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+217,23.11.2016,2016/406,Linda Bär,SP,links,Ann-Catherine Nabholz,GLP,mitte,Präsidialdepartement (PRD)
+218,21.11.2018,2018/451,Pirmin Meyer,GLP,mitte,Zilla Roose,SP,links,Finanzdepartement (FD)
+220,06.03.2013,2013/70,Hans Jörg Käppeli,SP,links,Marcel Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+221,21.1.2009,2009/28,Peter Stähli-Barth,SP,links,Bruno Sidler,SVP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+222,05.02.2014,2014/45,Jean-Daniel Strub,SP,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+223,15.06.2016,2016/228,Walter Angst,AL,links,Markus Merki,GLP,mitte,Schul- und Sportdepartement (SSD)
+225,29.01.20,2004/311,Marianne Dubs Früh,SP,links,Kurt Maeder,CVP,mitte,Schul- und Sportdepartement (SSD)
+226,31.10.2012,2012/397,Jean-Daniel Strub,SP,links,Samuel Dubno,GLP,mitte,Präsidialdepartement (PRD)
+227,9.5.2007,2007/238,Martin Sarbach,SP,links,Katrin Schönenberger-Meier,EVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+228,29.01.20,2001/296,Erika Bärtschi Hafner,FDP,rechts,Joe A. Manser,SP,links,Sozialdepartement (SD)
+229,26.2.2003,2003/60,Werner Sieg,SP,links,Claudia Rütsche,CVP,mitte,Präsidialdepartement (PRD)
+230,28.06.2017,2017/210,Walter Angst,AL,links,Isabel Garcia,GLP,mitte,Schul- und Sportdepartement (SSD)
+231,22.05.2013,2013/185,Renate Fischer,SP,links,Martin Bürki,FDP,rechts,Departement der Industriellen Betriebe (DIB)
+232,23.10.2019,2019/441,Mathias Egloff,SP,links,Guido Hüni,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+233,21.1.2009,2009/29,Bruno Sidler,SVP,rechts,Peter Stähli-Barth,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+234,30.08.2006,2006/349,Yvonne Müller,SP,links,Astrid Hirzel,CVP,mitte,Hochbaudepartement (HBD)
+235,08.07.2015,2015/249,Marianne Aubert,SP,links,Thomas Kleger,FDP,rechts,Polizeidepartement (PD)
+236,14.07.2010,2010/318,Roger Tognella,FDP,rechts,Hans Jörg Käppeli,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+237,22.3.2006,2006/93,Beatrice Reimann,SP,links,Robert Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
+239,23.03.2011,2011/89,Michael Baumer,FDP,rechts,Markus Knauss,Grüne,links,Schul- und Sportdepartement (SSD)
+240,11.06.2008,2008/268,Bernhard Piller,Grüne,links,Ernst Danner,EVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+241,3.3.2004,2004/104,Ueli Nagel,Grüne,links,Willy Furter,EVP,mitte,Hochbaudepartement (HBD)
+242,10.01.2007,2007/8,Pierino Cerliani,Grüne,links,Michael Baumer,FDP,rechts,Hochbaudepartement (HBD)
+243,23.6.1999,1999/274,Robert Schönbächler,CVP,mitte,Markus Bischoff,AL,links,Departement der Industriellen Betriebe (DIB)
+244,04.04.2018,2018/137,Markus Kunz,Grüne,links,Guido Hüni,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+245,05.02.2014,2014/47,Marco Denoth,SP,links,Heinz F. Steger,FDP,rechts,Hochbaudepartement (HBD)
+247,16.03.2016,2016/81,Marcel Savarioud,SP,links,Karin Weyermann,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+248,20.06.2018,2018/241,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,Schul- und Sportdepartement (SSD)
+249,02.09.2015,2015/276,Marcel Savarioud,SP,links,Roger Tognella,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+250,28.5.2008,2008/241,Marco V. Camin,FDP,rechts,Bernhard Piller,Grüne,links,Hochbaudepartement (HBD)
+252,05.06.2019,2019/250,Andrea Leitner Verhoeven,AL,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+253,05.06.2019,2019/244,Nadia Huberson,SP,links,Përparim Avdili,FDP,rechts,Präsidialdepartement (PRD)
+254,07.12.2011,2011/468,Michel Urben,SP,links,Marcel Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+255,8.3.2000,2000/109,Joe A. Manser,SP,links,Max Fritz,FDP,rechts,Departement der Industriellen Betriebe (DIB)
+256,2.6.2004,2004/288,Christina Bellin-Isele,SP,links,Thomas  Kappeler,CVP,mitte,Hochbaudepartement (HBD)
+257,24.11.2010,2010/486,Christina Hug,Grüne,links,Isabel Garcia,GLP,mitte,Präsidialdepartement (PRD)
+258,13.07.2011,2011/291,Marcel Schönbächler,CVP,mitte,Florian Utz,SP,links,Departement der Industriellen Betriebe (DIB)
+259,28.10.2009,2009/490,Fiammetta Jahreiss-Montagnani,SP,links,Christian Traber,CVP,mitte,Hochbaudepartement (HBD)
+262,4.6.2003,2003/183,Daniel Leupi,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+263,08.06.2016,2016/207,Marco Denoth,SP,links,Ann-Catherine Nabholz,GLP,mitte,Hochbaudepartement (HBD)
+264,27.11.2013,2013/424,Pascal Lamprecht,SP,links,Joachim Hagger,FDP,rechts,Zuteilung ausstehend
+265,13.11.2013,2013/395,Roger Tognella,FDP,rechts,Dorothea Frei,SP,links,Sozialdepartement (SD)
+266,1.11.2000,2000/524,Hans-Ulrich Meier,FDP,rechts,Werner Sieg,SP,links,Hochbaudepartement (HBD)
+267,29.08.2018,2018/318,Stefan Urech,SVP,rechts,Urs Helfenstein,SP,links,Sicherheitsdepartement (SID)
+268,30.03.2011,2011/99,Gabriele Kisker,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+269,18.05.2016,2016/171,Markus Knauss,Grüne,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
+270,8.2.2006,2006/56,Pierino Cerliani,Grüne,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+271,27.11.2019,2019/519,Nicole Giger,SP,links,Sven Sobernheim,GLP,mitte,Schul- und Sportdepartement (SSD)
+272,22.9.2004,2004/512,Franziska Graf,SP,links,Thomas  Kappeler,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+273,12.06.2019,2019/257,Sven Sobernheim,GLP,mitte,Res Marti,Grüne,links,Sicherheitsdepartement (SID)
+274,03.09.2014,2014/274,Eduard Guggenheim,AL,links,Adrian Gautschi,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+275,13.6.2007,2007/348,Albert Leiser,FDP,rechts,Niklaus Scherr,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+276,1.2.2006,2006/40,Salvatore Di Concilio,SP,links,Robert Schönbächler,CVP,mitte,Präsidialdepartement (PRD)
+277,08.01.20,2005/39,Maya Burri-Wenger,SP,links,Gerold Lauber,CVP,mitte,Finanzdepartement (FD)
+278,19.06.2013,2013/234,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+280,09.06.2010,2010/254,Sacha Walker,GLP,mitte,Rebekka Wyler,SP,links,Polizeidepartement (PD)
+281,15.12.2004,2004/670,Hans Jörg Käppeli,SP,links,Kurt Maeder,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+282,26.05.2010,2006/577,Pierino Cerliani,Grüne,links,Claudia Rabelbauer,EVP,mitte,Finanzdepartement (FD)
+283,08.06.2016,2016/205,Urs Egger,FDP,rechts,Anjushka Früh,SP,links,Schul- und Sportdepartement (SSD)
+284,23.6.2004,2004/328,Alexander Jäger,FDP,rechts,Pierino Cerliani,Grüne,links,Polizeidepartement (PD)
+285,9.6.2004,2004/300,Niklaus Scherr,AL,links,Albert Leiser,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+286,23.3.2005,2005/107,Maya Burri-Wenger,SP,links,Roger Tognella,FDP,rechts,Polizeidepartement (PD)
+288,13.01.2010,2010/24,Hans Jörg Käppeli,SP,links,Ruth Ackermann,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+289,17.04.2013,2013/156,Alan David Sangines,SP,links,Samuel Dubno,GLP,mitte,Sozialdepartement (SD)
+290,23.01.2019,2019/28,Markus Baumann,GLP,mitte,Marcel Tobler,SP,links,Sozialdepartement (SD)
+291,6.12.2006,2006/576,Pierino Cerliani,Grüne,links,Mario Mariani,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+292,1.10.2003,2003/369,Daniel Leupi,Grüne,links,Christian Traber,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+293,30.10.2013,2013/369,Marcel Schönbächler,CVP,mitte,Peter Küng,SP,links,Finanzdepartement (FD)
+294,23.11.2005,2005/489,Balthasar Glättli,Grüne,links,Gerold Lauber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+295,15.12.2004,2004/671,Hans Jörg Käppeli,SP,links,Kurt Maeder,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+296,08.01.20,2018/327,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Sicherheitsdepartement (SID)
+297,26.03.2014,2014/96,Eva-Maria Würth,SP,links,Karin Weyermann,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+298,20.03.2019,2019/108,Markus Baumann,GLP,mitte,Marco Geissbühler,SP,links,Sozialdepartement (SD)
+299,5.12.2007,2007/639,Walter Angst,AL,links,Jean-Claude Virchaux,CVP,mitte,Sozialdepartement (SD)
+300,05.06.2013,2013/209,Marco Denoth,SP,links,Markus Hungerbühler,CVP,mitte,Polizeidepartement (PD)
+301,14.06.2017,2017/188,Ann-Catherine Nabholz,GLP,mitte,Gabriele Kisker,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+302,19.6.2002,2002/218,Marcel Savarioud,SP,links,Gerold Lauber,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+303,04.12.2019,2019/524,Marion Schmid,SP,links,Corina Ursprung,FDP,rechts,Sozialdepartement (SD)
+304,27.11.2002,2002/519,Rolf Kuhn,SP,links,Anton Stäbler,CVP,mitte,Sozialdepartement (SD)
+305,21.11.2018,2015/405,Roger Tognella,FDP,rechts,Marco Denoth,SP,links,Sicherheitsdepartement (SID)
+306,07.11.2018,2018/426,Corina Gredig,GLP,mitte,Jean-Daniel Strub,SP,links,Präsidialdepartement (PRD)
+307,29.01.20,2004/158,Georg Schmid,CVP,mitte,Werner Sieg,SP,links,Hochbaudepartement (HBD)
+308,16.01.2013,2013/13,Gian von Planta,GLP,mitte,Patrick Hadi Huber,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+309,06.02.2019,2019/66,Andri Silberschmidt,FDP,rechts,Vera Ziswiler,SP,links,Finanzdepartement (FD)
+310,27.05.2015,2015/160,Roger-Paul Speck,SP,links,Sven Sobernheim,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+311,21.05.2014,2014/165,Andreas Kirstein,AL,links,Isabel Garcia,GLP,mitte,Schul- und Sportdepartement (SSD)
+312,12.09.2018,2018/341,Andri Silberschmidt,FDP,rechts,Gabriele Kisker,Grüne,links,Hochbaudepartement (HBD)
+313,27.01.2016,2016/36,Andrea Nüssli,SP,links,Christian Traber,CVP,mitte,Schul- und Sportdepartement (SSD)
+314,12.04.2017,2017/105,Andreas Kirstein,AL,links,Albert Leiser,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+315,01.02.2012,2012/46,Gerhard Bosshard,EVP,mitte,Bernhard Piller,Grüne,links,Hochbaudepartement (HBD)
+316,27.5.2009,2009/224,Jean-Claude Virchaux,CVP,mitte,Balthasar Glättli,Grüne,links,Finanzdepartement (FD)
+317,29.8.2001,2001/432,Joe A. Manser,SP,links,Urs Lauffer,FDP,rechts,Hochbaudepartement (HBD)
+318,20.12.2017,2017/463,Patrick Hadi Huber,SP,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+319,11.03.2015,2015/71,Felix Moser,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+320,12.7.2006,2006/314,Salvatore Di Concilio,SP,links,Robert Schönbächler,CVP,mitte,Präsidialdepartement (PRD)
+321,30.1.2002,2002/41,Beat Badertscher,FDP,rechts,Werner Sieg,SP,links,Präsidialdepartement (PRD)
+322,07.11.2018,2018/425,Urs Helfenstein,SP,links,Matthias Wiesmann,GLP,mitte,Präsidialdepartement (PRD)
+323,09.01.2013,2013/10,Marcel Savarioud,SP,links,Jean-Claude Virchaux,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+324,06.02.2013,2013/38,Simone Brander,SP,links,Ann-Catherine Nabholz,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+325,12.11.2014,2014/365,Cordula Bieri,Grüne,links,Markus Baumann,GLP,mitte,Sozialdepartement (SD)
+326,21.08.2019,2019/346,Shaibal Roy,GLP,mitte,Marcel Bührig,Grüne,links,Sicherheitsdepartement (SID)
+327,27.05.2015,2015/162,Eduard Guggenheim,AL,links,Marc Bourgeois,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+328,18.8.2004,2004/403,Alecs Recher,AL,links,Robert Schönbächler,CVP,mitte,Hochbaudepartement (HBD)
+329,21.11.2001,2001/591,Joe A. Manser,SP,links,Hans-Ulrich Meier,FDP,rechts,Hochbaudepartement (HBD)
+330,06.02.2019,2019/59,Pascal Lamprecht,SP,links,Sven Sobernheim,GLP,mitte,Sicherheitsdepartement (SID)
+331,22.08.2012,2012/308,Davy Graf,SP,links,Joachim Hagger,FDP,rechts,Finanzdepartement (FD)
+332,06.02.2019,2019/58,Pirmin Meyer,GLP,mitte,Marcel Tobler,SP,links,Präsidialdepartement (PRD)
+333,18.8.2004,2004/402,Alecs Recher,AL,links,Robert Schönbächler,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+334,06.02.2013,2013/39,Alan David Sangines,SP,links,Mario Mariani,CVP,mitte,Polizeidepartement (PD)
+335,12.09.2018,2018/342,Balz Bürgisser,Grüne,links,Ann-Catherine Nabholz,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+336,07.11.2018,2018/424,Andri Silberschmidt,FDP,rechts,Jean-Daniel Strub,SP,links,Hochbaudepartement (HBD)
+337,26.08.2009,2002/40,Robert Kaeser,FDP,rechts,Peter Stähli-Barth,SP,links,Präsidialdepartement (PRD)
+338,17.01.2018,2018/18,Dorothea Frei,SP,links,Patrick Albrecht,FDP,rechts,Sicherheitsdepartement (SID)
+339,11.01.2017,2017/2,Mario Mariani,CVP,mitte,Mathias Manz,SP,links,Departement der Industriellen Betriebe (DIB)
+340,7.1.2004,2004/8,Marlène Butz,SP,links,Georg Schmid,CVP,mitte,Polizeidepartement (PD)
+341,06.10.2010,2010/422,Matthias Probst,Grüne,links,Gian von Planta,GLP,mitte,Hochbaudepartement (HBD)
+342,25.1.2006,2006/24,Balthasar Glättli,Grüne,links,Michael Baumer,FDP,rechts,Finanzdepartement (FD)
+343,08.01.20,1996/57,Kurt Tschopp,CVP,mitte,Monika Spring-Gross,SP,links,Tiefbau- und Entsorgungsdepartement (TED)
+344,06.09.2017,2017/304,Ann-Catherine Nabholz,GLP,mitte,Balz Bürgisser,Grüne,links,Departement der Industriellen Betriebe (DIB)
+345,27.05.2009,2009/227,Thomas Marthaler,SP,links,Alexander Jäger,FDP,rechts,Schul- und Sportdepartement (SSD)
+346,29.3.2000,2000/146,Monika Spring-Gross,SP,links,Robert Schönbächler,CVP,mitte,Polizeidepartement (PD)
+347,04.07.2012,2012/286,Mark Richli,SP,links,Samuel Dubno,GLP,mitte,Präsidialdepartement (PRD)
+350,25.5.2005,2005/205,Corine Mauch,SP,links,Ernst Danner,EVP,mitte,Departement der Industriellen Betriebe (DIB)
+351,21.12.2016,2016/463,Eduard Guggenheim,AL,links,Mario Babini,Parteilos,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+352,17.12.2008,2008/583,Bernhard Piller,Grüne,links,Martin Mächler,EVP,mitte,Departement der Industriellen Betriebe (DIB)
+353,17.04.2019,2019/155,Florian Blättler,SP,links,Christian Monn,GLP,mitte,Hochbaudepartement (HBD)
+354,18.11.2015,2015/365,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+356,17.4.2002,2002/127,Marcel Savarioud,SP,links,Gerold Lauber,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+357,03.10.2018,2018/385,Eduard Guggenheim,AL,links,Sebastian Vogel,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+358,22.06.2011,2011/219,Gian von Planta,GLP,mitte,Markus Knauss,Grüne,links,Polizeidepartement (PD)
+359,20.4.2005,2005/166,Heinz Bögle,SP,links,Rosemarie Berthoud,FDP,rechts,Sozialdepartement (SD)
+360,19.12.2007,2007/671,Marco V. Camin,FDP,rechts,Joe A. Manser,SP,links,
+362,17.12.2008,2008/582,Ueli Nagel,Grüne,links,Claudia Rabelbauer,EVP,mitte,Schul- und Sportdepartement (SSD)
+363,25.05.2011,2011/185,Bernhard Piller,Grüne,links,Martin Luchsinger,GLP,mitte,Departement der Industriellen Betriebe (DIB)
+364,20.01.2016,2016/30,Elisabeth Schoch,FDP,rechts,Joe A. Manser,SP,links,Gesundheits- und Umweltdepartement (GUD)
+365,25.5.2005,2005/210,Joe A. Manser,SP,links,Peter Püntener,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+366,18.11.2009,2009/544,Simon Kälin-Werth,Grüne,links,Christian Traber,CVP,mitte,Polizeidepartement (PD)
+367,02.11.2011,2011/408,Fiammetta Jahreiss-Montagnani,SP,links,Christian Traber,CVP,mitte,Finanzdepartement (FD)
+368,18.06.2014,2014/203,Pawel Silberring,SP,links,Heinz F. Steger,FDP,rechts,Polizeidepartement (PD)
+369,7.4.2004,2004/203,Franziska Graf,SP,links,Georg Schmid,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+370,3.5.2006,2006/138,Marlène Butz,SP,links,Astrid Hirzel,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+371,25.1.2006,2006/23,Michael Baumer,FDP,rechts,Balthasar Glättli,Grüne,links,Finanzdepartement (FD)
+372,11.01.2017,2017/5,Pascal Lamprecht,SP,links,Markus Baumann,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+373,28.08.2013,2013/294,Simon Kälin-Werth,Grüne,links,Gerhard Bosshard,EVP,mitte,Hochbaudepartement (HBD)
+374,17.12.2008,2008/580,Peter Stähli-Barth,SP,links,Ernst Danner,EVP,mitte,Hochbaudepartement (HBD)
+375,07.11.2018,2018/423,Marco Denoth,SP,links,Albert Leiser,FDP,rechts,Hochbaudepartement (HBD)
+376,16.01.2013,2013/16,Peter Küng,SP,links,Michèle Halser-Furrer,EVP,mitte,Finanzdepartement (FD)
+377,15.05.2019,2019/195,Christine Seidler,SP,links,Isabel Garcia,GLP,mitte,Präsidialdepartement (PRD)
+380,10.04.2013,2013/135,Joachim Hagger,FDP,rechts,Bernhard Piller,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+381,04.09.2019,2017/263,Albert Leiser,FDP,rechts,Andreas Kirstein,AL,links,Tiefbau- und Entsorgungsdepartement (TED)
+382,18.09.2019,2019/396,Markus Baumann,GLP,mitte,Pascal Lamprecht,SP,links,Sicherheitsdepartement (SID)
+384,06.02.2019,2019/62,Ernst Danner,EVP,mitte,Christina Schiller,AL,links,Sozialdepartement (SD)
+385,03.06.2015,2015/171,Marcel Savarioud,SP,links,Karin Weyermann,CVP,mitte,Gesundheits- und Umweltdepartement (GUD)
+386,20.4.2005,2005/165,Anna Brändle Galliker,SP,links,Gerold Lauber,CVP,mitte,Sozialdepartement (SD)
+387,19.08.2009,2009/355,Albert Leiser,FDP,rechts,Daniel Leupi,Grüne,links,Tiefbau- und Entsorgungsdepartement (TED)
+388,03.10.2018,2018/387,Marcel Bührig,Grüne,links,Isabel Garcia,GLP,mitte,Gesundheits- und Umweltdepartement (GUD)
+389,16.01.2013,2013/17,Florian Utz,SP,links,Michèle Halser-Furrer,EVP,mitte,Finanzdepartement (FD)
+390,10.12.2003,2003/487,Daniel Leupi,Grüne,links,Ernst Danner,EVP,mitte,Polizeidepartement (PD)
+391,21.12.2016,2016/461,Pawel Silberring,SP,links,Christian Traber,CVP,mitte,Sicherheitsdepartement (SID)
+392,28.08.2013,2013/295,Simon Kälin-Werth,Grüne,links,Martin Luchsinger,GLP,mitte,Tiefbau- und Entsorgungsdepartement (TED)
+393,25.5.2005,2005/207,Hans Jörg Käppeli,SP,links,Heinz F. Steger,FDP,rechts,Tiefbau- und Entsorgungsdepartement (TED)
+394,16.1.2008,2008/33,Marlène Butz,SP,links,Astrid Hirzel,CVP,mitte,Polizeidepartement (PD)
+395,3.5.2006,2006/139,Marlène Butz,SP,links,Robert Schönbächler,CVP,mitte,Departement der Industriellen Betriebe (DIB)
+396,9.1.2008,2008/3,Joe A. Manser,SP,links,Mario Mariani,CVP,mitte,Präsidialdepartement (PRD)
