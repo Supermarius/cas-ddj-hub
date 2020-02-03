@@ -1,80 +1,85 @@
-# Senkrechtstarter in der Schweizer Hitparade
-Wie aus dem Nichts schoss Ava Max mit ihrem Hit «Sweet But Psycho» auf Platz 1 der Schweizer Single-Hitparade. Gab es das früher auch schon? Kommt das heutzutage häufiger vor als früher? Wie haben sich die Karrieren danach entwickelt?
+# Wie kooperationsfähig ist die linke Mehrheit im Zürcher Gemeinderat?
 
-### Der publizierte Artikel
-[https://www.watson.ch/!270726641](https://www.watson.ch/!270726641)
+Im Frühjahr 2018 ist eine linke Mehrheit ins Zürcher Stadtparlament gewählt worden. Seither ist vor allem von der unterlegenen Seite (aber nicht nur!) immer wieder zu hören, dass die Zusammenarbeit über Parteien und Blöcke hinweg gelitten habe, wie sie früher üblich gewesen sei. Dies macht sich vor allem an populären linken Vorhaben fest, die die Mehrheit nach eigenem Gutdünken realisiert, wie zum Beispiel am angekündigten Parkplatzabbau in der Innenstadt. Die Linke sagt, es sei genau umgekehrt: Man arbeite mehr zusammen als früher. 
+
+### Publizierter Artikel
+xxxxx - [XXXXXX](http://Link)
 
 ### Ausgangsthese
-Heute gibt es häufiger musikalische Senkrechtstarter, die nach sehr kurzer Zeit einen Nummer-1-Hit landen (wie z.B. kürzlich Ava Max)
+
+Zürichs Linke arbeitet entgegen ihrer Behauptungen weniger oft als früher mit Vertretern aus anderen Blöcken zusammen, seit sie die Mehrheit hat. Dies lässt sich anhand der eingereichten Vorstöse nachzeichnen.
 
 ### Idee
-Wie aus dem Nichts schoss Ava Max mit ihrem Hit «Sweet But Psycho» an die Spitze sämtlicher internationalen Charts. Ich frage mich, ob das ein «neumodisches Phänomen» ist, oder ob es solche Situationen auch vorher schon gab. 
 
-Bereits im Oktober 18 habe ich Code geschrieben, der die Daten von hitparade.ch ausliest. Ich wollte damals eine Schweizerkarte mit den erfolgreichsten Musikern nach Kanton zeichnen, habe die Idee jedoch verworfen. Auf die Entwürfe des Scrapers kann ich nun jedoch aufbauen und ihn so erweitern, dass ich mir eine gute Datengrundlage schaffen kann. 
+Die Idee entstand in der Klasse beim Experimentieren mit dem Netzwerkanalyse-Tool Network X: Da viele der Vorstösse im Zürcher Gemeinderat jeweils von zwei Politikern/Politikerinnen eingereicht werden – oft auch von solchen unterschiedlicher Parteien – müsste sich anhand solcher Paare ein Netzwerk für jede Legislatur zeichnen lassen. Wenn man diesen zeitlichen Verlauf dynamisch darstellt, lässt sich sehr anschaulich zeigen, wann und wie sich bestimmte Parteien aus diesem Netz verabschiedet haben. 
 
-1) Gibt es Künstler, die ebenfalls nach 4 oder weniger Wochen nach ihrem ersten Erscheinen in der Schweizer Charts einen Nummer-1-Hit landeten?
-2) Falls ja: Wann war das? Häufen sich diese Senkrechtstarter in den letzten Jahren?
-3) Wie ist die Karriere von Senkrechtstartern danach verlaufen? Evt. kann man eine ähnliche Grafik realisieren, wie wir sie [hier](https://public.tableau.com/profile/bo.mccready8742#!/vizhome/MostYearsChartingontheBillboardHot100/MostYearsCharting) haben, man müsste jedoch den Weg zur ersten Nummer 1 grafisch hervorheben.
+Ich habe die Idee auch bewusst so zurechtgelegt, dass ich dabei im Rahmen dieser Arbeit mehrere Techniken anwenden kann:
+1. Einen Scraper mit Selenium bauen
+2. Die gesprapten Daten auslesen und zu einem Pandas-Dataframe verarbeiten
+3. Die verarbeiteten Daten einer Netzwerkanalyse mit NetworkX unterziehen
 
-4) Zusatzoption 1: Eine Slideshow mit dem Karriereverlauf der erfolgreichsten Künstler. Beziehungsweise noch cooler: Eine interaktive Grafik, wo man den Karriereverlauf seines Lieblingskünstlers abrufen kann.
-5) Zusatzoption 2: Falls man mit den Daten etwas anfangen kann: Spotify API anzapfen und Infos wie z.B. Länge einzelner Stücke abrufen 
+Anhand dieser Daten erhoffte ich  folgende Fragen zu beantworten:
+1. Veränderungen der Anzahl partei- / blockübergreifender Vorstösse im zeitlichen Verlauf?
+2. Trends bei Paarbildungen: Vertreter welcher Parteien schliessen sich öfter /seltener zusammen?
+3. Analyse thematischer Schwerpunkte: Welche Departemente betreffen die partei- / blockübergreifenden Vorstösse?
+4. Netzwerkanalyse: Welche Personen spielen im Netz der "Brückenbauern" eine wichtige Rolle?
+5. Konfrontieren der Politiker/Politikerinnen mit den Resultaten: Wie reagieren sie darauf?
 
-### Einschätzung von Aufwand / Ertrag
-Den Scraper zu bauen und die Daten sinnvoll aufzubereiten, sollte gut möglich sein. Die Webseite ist gut strukturiert. Arbeit gibt wohl vor allem die Analyse in Pandas. Auch ins Visualisieren sollte genug Zeit investiert werden, damit man den Inhalt schnell erfassen kann.
-![Spider](https://github.com/leasennch/hitparade/blob/master/diverses/Spider.jpg "Spider")
+Die Ergebnisse wollte ich mit Datawrapper- und Gephi-Grafiken (für die NetworkX-Analyse) darstellen und in einem Online-Artikel erläutern. 
+
+### Abschätzen von Aufwand / Ertrag
+
+Ich ging davon aus, dass sich der Scraper mit überschaubarem Aufwand realsieren lassen sollte, da ich dabei auf bereits gemachte Erfahrungen mkt Selnium zurückgreifen konnte. Beim Auslesen und Strukturieren der Daten rechnete – ebenfalls aufgrund von Erfahrungen – bei über 7000 Filess mit mehr Schwierigkeiten, wegen Sonderfällen und dergleichen. Überhaupt nicht abschätzbar war der Aufwand, der bei der NetworkX-Analys anfällt. Die grundlegende Datenstruktur schien gegeben, aber wie leicht sich meine Idee mit Gephi in einem brauchbare Grafik übersetzen liess, war offen. Bei der Visualisierung für den Artikel rechnete ich mit überschaubarem Aufwand.
+
+### Knackpunkt
+
+Entscheidend würde erstens sein, ob sich anhand der Daten überhaupt eine brauchbare Aussage ablesen liesse. Und zweitens, ob es mir gelingen würde, die Netzwerke wie gewünscht darzustellen.
+
+### Briefing-Personen
+
+Ich habe mich des Themas vor einem Jahr schon einmal angenommen. Damals vertrat SP-Gemeinderat Jean-Daniel Strub den Standpunkt, dass seine Partei konsensorientierter sei als behauptet. Vor en Wahlen habe man namentlich mit der FDP in einigen relevanten Themen, etwa in Schulbereich, gemeinsame Positionen gefunden. Seitdem die Linke eine Mehrheit im Rat hat, habe sich dieser Trend nicht etwas abgeschwächt, im Gegenteil: «Wir haben noch nie so viel überparteilich zusammengearbeitet wie seit den Wahlen».
+
+Vertreter andere Parteien stützten diese Ansicht.  Es falle  auf, dass die SP sich mitunter selbst dann um Schulterschlüsse über die Mitte hinaus bemühe, wenn sie das rechnerisch gar nicht nötig hätte. 
+
+Im Vorfeld der Datenarbeit habe ich verschiedene Gemeinderäte darauf angesprochen, ob die Auswertung überparteilicher Vorstösse im Gemeinderat ein brauchbares Indiz sein könnte, um die Intensität solcher Kooperationen über die eigene Partei / den eigenen Block hinaus zu messen. Sie äuserten sich positiv: Auch wenn dies nicht die gesamte Arbeit des Gemeinderats abbilde, komme in den Vorstössen sicher eine Grundtendenz zum Ausdruck.
 
 
-### Knackpunkte
-Schön wäre es gewesen, wenn der Datensatz Verbindungen unter den Künstlern beinhalten würde, also zum Beispiel, dass «Remady & Manu-L» als zwei Einzelne Künstler gewertet werden, oder dass bei den Erfolgen von «Ritschi» auch die Erfolge seiner Band «Plüsch» mitgewertet würden. Das sprengt jedoch zeitlich den Rahmen, weil nicht nur die Datenbeschaffung aufwändiger wäre, sondern auch die logische Darstellungsform in den Grafiken.
+### Arbeitsprotokoll
 
-Eine interaktive Grafik wäre ein schönes Nice-To-Have. Ich habe mir D3.js bereits einmal für ein Projekt etwas angeschaut, es ist jedoch in meinen Augen ein ziemlich komplexes Tool und würde mich relativ viel Zeit kosten, damit eine interaktive Grafik zu bauen. 
+**1. Scraper für die Vorstösse bauen (ca. 1/2 Tag)**
 
-### Briefingpersonen
-Ich habe mit den Musikchefs von Radio 24 und Radio Argovia gesprochen. 
+Knackpunkte: 
+- Genügend Pausen einbauen, um Selenium gesteuerten Browser nicht zu überfordern
+- Nachträglich erfuhr ich, dass es inzwischen auch eine API-Schnittstelle gäbe. Lehre: Die Datenquelle erst einmal sauber explorieren, bevor man mit seinem Plan loslegt. (Wobei es mir in diesem Fall nichts ausmachte, weil ich mit Selenium üben wollte.)
 
-__Chris Jäckli, Radio 24:__
-1) Früher waren Bands mit mehreren Songs in den Charts vertreten, bis sie richtig erfolgreich waren. Heute stürmen Leute wie Ava Max innert Wochen die Charts. Teilst du diesen Eindruck auch oder hast du eine andere Ansicht?
-*«Teilweise. Auch früher gab es Bands und Künstler, welche vermeintlich aus dem Nichts mit einem Hit um die Ecke kamen. Nehmen wir die Band Fool’s Garden mit ihrem Song ‘Lemon Tree’ als Beispiel. Nach diesem Hit waren sie nie mehr in der Schweizer Hitparade. Was man aber gerne vergisst ist die Tatsache, dass die Künstler schon vor ihrem Hit Musik gemacht haben. Kaum jemand hat zum ersten Mal ein Instrument in die Hand genommen, als er seinen ersten Hit gelandet hat. Heute ist es aber sicher schnelllebiger geworden und die Künstler haben durch neue Technologien mehr Chancen in die Charts zu kommen.»*
- 
-2) Kannst du dir das Phänomen irgendwie erklären?
-*«Was heute sicher ein Vorteil gegenüber früher ist, sind die Technologien, welche den Musikern heute zur Verfügung stehen. Dank Plattformen wie Youtube oder Soundcloud kann ein Künstler seine Musik veröffentlichen, ohne Plattenfirma und umständliche Vertriebswege. So kann theoretisch eine Fangemeinde aufgebaut werden, ohne jemals den Proberaum oder das Haus verlassen zu müssen. Früher war es unerlässlich raus zu gehen, live zu spielen und sich zu zeigen. Heute braucht man auch viel weniger physische CD-Verkäufe, um in die Hitparade zu kommen. Dass Spotify Streams ebenfalls in die Hitparade eingerechnet werden hilft bei diesem Phänomen zusätzlich.»*
- 
-__Peter Stutz, Radio Argovia:__
-1)	Welche Faktoren spielen eine Rolle, damit man einen «Senkrechtstart» in der Schweizer Hitparade hinlegen kann? Am Beispiel Ava Max, aber auch bei anderen Künstlern?
+**2. Daten auslesen und zu Dataframe strukturieren (ca. 2-3 Tage)**
 
-In erster Linie braucht es einen guten Song mit einer Melodie, die, wie im Fall von «Sweet But Psycho», süchtig macht und das breite Publikum anspricht. Ava Max hat ausserdem das «gewissen Etwas», mit dem sie aus der Masse von Pop-Newcomern heraussticht: Eine starke Stimme, einen individualistischen Sinn für Fashion und eine gewisse Coolness. Ausserdem ist sie am Songwriting beteiligt und kann so ihren eigene Stil einbringen.
- 
-2)	Wie haben sich diese Faktoren verändert im Vergleich zu vor 50 Jahren? (z.B. Live-Auftritte oder Social Media Präsenz sind heute wichtiger geworden)
- 
-Für junge Künstler wie etwa Ava Max ist es ganz normal auf sozialen Netzwerken wie Facebook oder Instagram zu sein, da sie damit aufgewachsen sind. Diese Plattformen helfen enorm, den Bekanntheitsgrad zu steigern. Wenn man sich auf Social Media authentisch bewegt und auch mal das «ungeschminkte» Popstarleben zeigt, kann das neuen Musiker durchaus helfen, schnell bekannt zu werden und den Durchbruch zu schaffen. Früher hatte man diese Hilfsmittel nicht – da musste einzig und alleine der Song was taugen.
- 
-3)	Hast du das Gefühl, dass es heute tendenziell einfacher, schwieriger oder gleich schwer ist, schnell weit oben in die Charts einzusteigen?
- 
-*Mal abgesehen davon, dass es nur noch geringe Verkäufe für einen Charterfolg braucht, denke ich, dass es heute nicht einfacher geworden ist, schnell weit nach oben zu kommen, da man durch die zahlreichen Streamingdienste jederzeit Zugriff auf Millionen von Songs hat. Wenn man es da nicht schafft aus der Masse herauszustechen, hat man schon verloren.
-In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur Deutschrapper abwechseln, ist Ava Max praktisch die Einzige, die da mithalten kann und das ist schon sehr bemerkenswert.*
- 
-4)	Gibt es dabei entscheidende Unterschiede für Schweizer Künstler im Vergleich zu internationalen Stars?
- 
-*Wenn man eine gute Community auf Social Media aufbauen kann, ist die Chance gross, auch als Schweizer Act mit Streamings und Verkäufe wenigstens eine Woche vorne in den Charts mitzumischen und somit eine gewisse Aufmerksamkeit zu erreichen. Sobald die Community aber gut gefüttert ist und mit den Songs kaum weitere Menschen erreicht werden können, sieht’s für eine langlebige Chartkarriere eher düster aus. Kommt noch dazu, dass Musiker von hier, die in Mundart produzieren, auf dem internationalen Markt kaum Chancen haben, sich durchzusetzen. Zwar versuchen sich viele Künstler und Bands auch auf Englisch. Die meistens scheitern aber daran, dass sie sich in dieser Sprache weniger gut und treffend ausdrücken können und so ihre Performance schnell als «unprofessionell» abgestempelt wird.*
+Dies war aufwändiger, als erwartet, weil ich immer wieder neue Fehler in den Daten auftraten; nicht nur beim Auslesen, sondern auch danach, beim prüfen des Dataframes. Dazu musste ich immer wieder Loops bauen, die mir die fehlerhaften Files anzeigen, und diese dann öffnen, um die Probleme zu lokalisieren
+
+Knackpunkte:
+- Daten und Departemente liessen sich nicht in allen 7000 Files sauber lokalisieren, musste mühsam mit Regex nachhelfen.
+- Es stellte sich heraus, dass im Datenarchiv bei manchen Gemeinderäten keine Parteibezeichnung erfasst ist, obwohl sie einer angehörten. (Zum Beispiel, weil sie später einen Job im Ratsbüro übernommen haben.) Es kostete mich viel Zeit, die fehlenden Daten zu recherchieren und eine Reparatur-Funktion zu bauen, die sie in den Dataframe einbaut.
+- Aufgrund dieser Ergänzungen befanden sich nun plötzlich Paare in meinem Dataframe, die gar nicht unterschiedlichen Parteien angehörten. Um dies zu verhindern, musste ich einen Korrektur-Duchlauf bauen.
+- Es gab diverse Probleme dabei, einen Datetime-Timestamp als Index zu verwenden, weil die Ursprungsdaten in den Files zum Teil korrumpiert waren (Leerschläge, nur zwei Ziffern bei der Jahreszahl etc.)
+- Ich musste eine weitere Funktion bauen, die die Parteien nach Blöcken (Links / Mitte / Rechts) ordnet und Paare rausfiltert, die dem gleichen Block angehören
+
+**3. Daten mit NetworkX analysieren (ca. 2 Tage)**
+
+Dies war aufgrund mangelnder Erfahrung wie erwartet ein ziemlicher Knochenjob, wobwohl das Netz mit NetworkX relativ schnell gebaut war.
+
+Knackpunkte:
+- Beim Import der gefx-Dateien in Gephi wurden zunächst weder die Departemente noch die Parteien noch die Timestamps eingelesen. Dies klappte später wundersamerweise beim x-ten Anlauf plötzlich
+- Gephi verweigerte mir, wie gewünscht ein dynamisches Netzwerk im mehrjährigen Vergleich darzustellen. Ich musste deshalb einen Plan B entwickeln: Separate Netzwerke für jede Legislatur bauen und diese miteinander vergleichen.
+- Beim Experimentieren mit den Visualisierungsmöglichkeiten von Gephi ergab sich die Frage, welche Daten für den Leser überhaupt vermittelbar sind (Network Centrality?) und was ich grafisch überhaupt darstellen kann, so dass das Netz noch lesbar bleibt. Dabei reduzierte ich meine anfänglichen Ideen zusehends und entschied mich am Ende sogar, nur ein Netz zu zeigen.
+
+**Recherche und Schreiben (ca. 1 Tag)**
+Knackpunkt:
+- Das Problem bestand hier vor allem darin, dass die Gephi-Grafiken sich nicht sauber integrieren liessen; ich musste Hilfe von einem Inforgrafiker organisieren. 
+
 
 ### Datensatz / Programmiercode
 - [Hitparadenscraper](https://github.com/leasennch/hitparade/blob/master/Hitparade_Scraper.ipynb)
 - [Ergebnisse als CSV und Outputs matplotlib](https://github.com/leasennch/hitparade/tree/master/python_outputs)
 - [Ergebnisse als Grafiken in Illustrator aufbereitet](https://github.com/leasennch/hitparade/tree/master/finished_graphics)
 - [D3.js-Code für die interaktive Grafik](https://github.com/leasennch/hitparade/tree/master/interactive)
-
-### Arbeitsprotokoll
-
-| Datum | Aufwand | Tätigkeit |
-| -------- | ---- | ------------- |
-| 23.10.18 | 8 h | Scraper für Hitparade schreiben |
-| 18.02.19 | 4 h | Idee weiterentwickeln, These prüfen mit Briefingperson |
-| 19.02.19 | 8 h | Scraper mit Selenium weiterentwickeln, erste Auswertungen machen |
-| 20.02.19 | 4 h | Erste Visualisierungen machen, Struktur der Geschichte bestimmen, Story im Team besprechen  |
-| 22.02.19 | 8 h | Interaktive Grafik mit D3.js bauen, Spotify-API testen |
-| 23.02.19 | 3 h | Erkenntnisse visualisieren |
-| 25.02.19 | 4 h | Interaktive Grafik weiterentwickeln, Projektdokumentation anlegen |
-| 26.02.19 | 8 h | Interviews mit Briefingperson in Text einbauen, Design interaktive Grafik anpassen für Mobile |
-| 27.02.19 | 4 h | Timeline-Grafik erstellen, Text formulieren, Dokumentation  |
-| 28.02.19 | 2 h | Geschichte veröffentlichen, Social Media, Kommentarspalte verwalten |
 
