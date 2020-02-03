@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
-  <meta lastmodifieddate="2020-01-27">
+  <meta lastmodifieddate="2020-02-03">
     <creator>NetworkX 2.4</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <nodes>
       <node id="Kurt Hüssy, SVP" label="Kurt Hüssy, SVP" />
       <node id="Peter Anderegg, EVP" label="Peter Anderegg, EVP" />
+      <node id="Alecs Recher, AL" label="Alecs Recher, AL" />
+      <node id="Maleica Landolt, GLP" label="Maleica Landolt, GLP" />
+      <node id="Niklaus Scherr, AL" label="Niklaus Scherr, AL" />
+      <node id="Kurt Maeder, CVP" label="Kurt Maeder, CVP" />
       <node id="Mario Mariani, CVP" label="Mario Mariani, CVP" />
       <node id="Muriel Herzig, Grüne" label="Muriel Herzig, Grüne" />
+      <node id="Christina Schiller, AL" label="Christina Schiller, AL" />
+      <node id="Mario Babini, Parteilos" label="Mario Babini, Parteilos" />
       <node id="Ernst Danner, EVP" label="Ernst Danner, EVP" />
       <node id="Raphael Kobler, FDP" label="Raphael Kobler, FDP" />
       <node id="Corine Mauch, SP" label="Corine Mauch, SP" />
@@ -19,13 +25,19 @@
       <node id="Hansruedi Bär, SVP" label="Hansruedi Bär, SVP" />
       <node id="Cäcilia Hänni-Etter, FDP" label="Cäcilia Hänni-Etter, FDP" />
       <node id="Markus Hungerbühler, CVP" label="Markus Hungerbühler, CVP" />
-      <node id="Daniel Leupi, Grüne" label="Daniel Leupi, Grüne" />
       <node id="Christian Traber, CVP" label="Christian Traber, CVP" />
+      <node id="Urs Helfenstein, SP" label="Urs Helfenstein, SP" />
+      <node id="Daniel Leupi, Grüne" label="Daniel Leupi, Grüne" />
       <node id="Ursula Uttinger, FDP" label="Ursula Uttinger, FDP" />
       <node id="Marco Denoth, SP" label="Marco Denoth, SP" />
+      <node id="Irene Bernhard, GLP" label="Irene Bernhard, GLP" />
       <node id="Markus Baumann, GLP" label="Markus Baumann, GLP" />
+      <node id="Michèle Halser-Furrer, EVP" label="Michèle Halser-Furrer, EVP" />
+      <node id="Thomas Wyss, Grüne" label="Thomas Wyss, Grüne" />
       <node id="Balz Bürgisser, Grüne" label="Balz Bürgisser, Grüne" />
       <node id="Yasmine Bourgeois, FDP" label="Yasmine Bourgeois, FDP" />
+      <node id="Elisabeth Schoch, FDP" label="Elisabeth Schoch, FDP" />
+      <node id="Guy Krayenbühl, GLP" label="Guy Krayenbühl, GLP" />
       <node id="Jonas Steiner, SP" label="Jonas Steiner, SP" />
       <node id="Peter Küng, SP" label="Peter Küng, SP" />
       <node id="Gian von Planta, GLP" label="Gian von Planta, GLP" />
@@ -37,18 +49,20 @@
       <node id="Hans Marolf, SVP" label="Hans Marolf, SVP" />
       <node id="Peter Püntener, GLP" label="Peter Püntener, GLP" />
       <node id="Bruno Wohler, SVP" label="Bruno Wohler, SVP" />
-      <node id="Thomas Wyss, Grüne" label="Thomas Wyss, Grüne" />
       <node id="Roger Tognella, FDP" label="Roger Tognella, FDP" />
       <node id="Heinz F. Steger, FDP" label="Heinz F. Steger, FDP" />
       <node id="Bernhard Piller, Grüne" label="Bernhard Piller, Grüne" />
       <node id="Judith Bucher, SP" label="Judith Bucher, SP" />
       <node id="Thomas Marthaler, SP" label="Thomas Marthaler, SP" />
       <node id="Pascal Lamprecht, SP" label="Pascal Lamprecht, SP" />
+      <node id="Jacqueline Badran, SP" label="Jacqueline Badran, SP" />
+      <node id="Pierino Cerliani, Grüne" label="Pierino Cerliani, Grüne" />
       <node id="Marcel Schönbächler, CVP" label="Marcel Schönbächler, CVP" />
       <node id="Daniel Regli, SVP" label="Daniel Regli, SVP" />
       <node id="Walter Angst, AL" label="Walter Angst, AL" />
       <node id="Jean-Claude Virchaux, CVP" label="Jean-Claude Virchaux, CVP" />
       <node id="Dorothea Frei, SP" label="Dorothea Frei, SP" />
+      <node id="Marcel Müller, FDP" label="Marcel Müller, FDP" />
       <node id="Markus Knauss, Grüne" label="Markus Knauss, Grüne" />
       <node id="Guido Trevisan, GLP" label="Guido Trevisan, GLP" />
       <node id="Marcel Tobler, SP" label="Marcel Tobler, SP" />
@@ -61,44 +75,45 @@
       <node id="Ann-Catherine Nabholz, GLP" label="Ann-Catherine Nabholz, GLP" />
       <node id="Maya Burri-Wenger, SP" label="Maya Burri-Wenger, SP" />
       <node id="Oliver B. Meier, SVP" label="Oliver B. Meier, SVP" />
+      <node id="Pawel Silberring, SP" label="Pawel Silberring, SP" />
       <node id="Bastien Girod, Grüne" label="Bastien Girod, Grüne" />
       <node id="Jürg R. Schüepp, FDP" label="Jürg R. Schüepp, FDP" />
       <node id="Willy Furter, EVP" label="Willy Furter, EVP" />
       <node id="Sven Sobernheim, GLP" label="Sven Sobernheim, GLP" />
       <node id="Andri Silberschmidt, FDP" label="Andri Silberschmidt, FDP" />
       <node id="Roger Liebi, SVP" label="Roger Liebi, SVP" />
-      <node id="Monika Bloch Süss, CSP" label="Monika Bloch Süss, CSP" />
       <node id="Myrtha Meuli, SP" label="Myrtha Meuli, SP" />
       <node id="Hans Bachmann, FDP" label="Hans Bachmann, FDP" />
-      <node id="Bernhard Jüsi, SP" label="Bernhard Jüsi, SP" />
-      <node id="Hans Urs von Matt, SP" label="Hans Urs von Matt, SP" />
+      <node id="Joe A. Manser, SP" label="Joe A. Manser, SP" />
+      <node id="Andreas J. Schlegel, FDP" label="Andreas J. Schlegel, FDP" />
       <node id="Ueli Nagel, Grüne" label="Ueli Nagel, Grüne" />
       <node id="Claudia Rabelbauer, EVP" label="Claudia Rabelbauer, EVP" />
       <node id="Ruth Ackermann, CVP" label="Ruth Ackermann, CVP" />
-      <node id="Beat Bloch, CSP" label="Beat Bloch, CSP" />
+      <node id="Fiammetta Jahreiss-Montagnani, SP" label="Fiammetta Jahreiss-Montagnani, SP" />
       <node id="Monjek Rosenheim, FDP" label="Monjek Rosenheim, FDP" />
-      <node id="Marcel Müller, FDP" label="Marcel Müller, FDP" />
-      <node id="Niklaus Scherr, AL" label="Niklaus Scherr, AL" />
+      <node id="Hans Urs von Matt, SP" label="Hans Urs von Matt, SP" />
+      <node id="Andreas Kirstein, AL" label="Andreas Kirstein, AL" />
+      <node id="Urs Fehr, SVP" label="Urs Fehr, SVP" />
       <node id="Katrin Wüthrich, SP" label="Katrin Wüthrich, SP" />
       <node id="Jürg Casparis, SVP" label="Jürg Casparis, SVP" />
       <node id="Alexander Jäger, FDP" label="Alexander Jäger, FDP" />
       <node id="Gregor Bucher, Grüne" label="Gregor Bucher, Grüne" />
       <node id="Theo Hauri, SVP" label="Theo Hauri, SVP" />
       <node id="Renate Fischer, SP" label="Renate Fischer, SP" />
+      <node id="Michael Schmid, FDP" label="Michael Schmid, FDP" />
       <node id="Susi Gut, PFZ" label="Susi Gut, PFZ" />
       <node id="Reto Vogelbacher, CVP" label="Reto Vogelbacher, CVP" />
-      <node id="Elisabeth Schoch, FDP" label="Elisabeth Schoch, FDP" />
       <node id="Alan David Sangines, SP" label="Alan David Sangines, SP" />
       <node id="Roger Bartholdi, SVP" label="Roger Bartholdi, SVP" />
       <node id="Martin Sarbach, SP" label="Martin Sarbach, SP" />
       <node id="Andres Türler, FDP" label="Andres Türler, FDP" />
+      <node id="Përparim Avdili, FDP" label="Përparim Avdili, FDP" />
       <node id="Emil Seliner, SP" label="Emil Seliner, SP" />
       <node id="Beatrice Reimann, SP" label="Beatrice Reimann, SP" />
       <node id="Claudia Simon, FDP" label="Claudia Simon, FDP" />
       <node id="Eduard Guggenheim, AL" label="Eduard Guggenheim, AL" />
       <node id="Stefan Urech, SVP" label="Stefan Urech, SVP" />
       <node id="Marianne Dubs Früh, SP" label="Marianne Dubs Früh, SP" />
-      <node id="Kurt Maeder, CVP" label="Kurt Maeder, CVP" />
       <node id="Beat Badertscher, FDP" label="Beat Badertscher, FDP" />
       <node id="Peter Stähli-Barth, SP" label="Peter Stähli-Barth, SP" />
       <node id="Marcel Bührig, Grüne" label="Marcel Bührig, Grüne" />
@@ -108,23 +123,21 @@
       <node id="Katharina Prelicz-Huber, Grüne" label="Katharina Prelicz-Huber, Grüne" />
       <node id="Rolf Kuhn, SP" label="Rolf Kuhn, SP" />
       <node id="Kurt Tschopp, CVP" label="Kurt Tschopp, CVP" />
+      <node id="Jean-Daniel Strub, SP" label="Jean-Daniel Strub, SP" />
       <node id="Nicole Giger, SP" label="Nicole Giger, SP" />
       <node id="Roger-Paul Speck, SP" label="Roger-Paul Speck, SP" />
       <node id="Markus Merki, GLP" label="Markus Merki, GLP" />
       <node id="Andreas Ammann, SP" label="Andreas Ammann, SP" />
-      <node id="Christina Schiller, AL" label="Christina Schiller, AL" />
-      <node id="Guy Krayenbühl, GLP" label="Guy Krayenbühl, GLP" />
-      <node id="Michael Schmid, FDP" label="Michael Schmid, FDP" />
       <node id="Christine Seidler, SP" label="Christine Seidler, SP" />
+      <node id="Kyriakos Papageorgiou, SP" label="Kyriakos Papageorgiou, SP" />
       <node id="Markus Bischoff, AL" label="Markus Bischoff, AL" />
-      <node id="Martin Abele, Grüne" label="Martin Abele, Grüne" />
       <node id="Urs Egger, FDP" label="Urs Egger, FDP" />
       <node id="Anjushka Früh, SP" label="Anjushka Früh, SP" />
       <node id="Susann Birrer, FDP" label="Susann Birrer, FDP" />
       <node id="Claudia Nielsen, SP" label="Claudia Nielsen, SP" />
+      <node id="Erika Bärtschi Hafner, FDP" label="Erika Bärtschi Hafner, FDP" />
       <node id="Corina Gredig, GLP" label="Corina Gredig, GLP" />
       <node id="Marion Schmid, SP" label="Marion Schmid, SP" />
-      <node id="Pawel Silberring, SP" label="Pawel Silberring, SP" />
       <node id="Fabienne Vocat, Grüne" label="Fabienne Vocat, Grüne" />
       <node id="Michael Baumer, FDP" label="Michael Baumer, FDP" />
       <node id="Georg Schmid, CVP" label="Georg Schmid, CVP" />
@@ -139,27 +152,27 @@
       <node id="Nina Fehr Düsel, SVP" label="Nina Fehr Düsel, SVP" />
       <node id="Karin Weyermann, CVP" label="Karin Weyermann, CVP" />
       <node id="Richard Rabelbauer, EVP" label="Richard Rabelbauer, EVP" />
-      <node id="Jean-Daniel Strub, SP" label="Jean-Daniel Strub, SP" />
       <node id="Florian Utz, SP" label="Florian Utz, SP" />
+      <node id="Helen Glaser, SP" label="Helen Glaser, SP" />
+      <node id="Gerhard Bosshard, EVP" label="Gerhard Bosshard, EVP" />
+      <node id="Esther Straub, SP" label="Esther Straub, SP" />
+      <node id="Michael Kraft, SP" label="Michael Kraft, SP" />
+      <node id="Simone Brander, SP" label="Simone Brander, SP" />
+      <node id="Marc Bourgeois, FDP" label="Marc Bourgeois, FDP" />
       <node id="Severin Pflüger, FDP" label="Severin Pflüger, FDP" />
       <node id="Marcel Savarioud, SP" label="Marcel Savarioud, SP" />
       <node id="Josef Widler, CVP" label="Josef Widler, CVP" />
       <node id="Markus Kunz, Grüne" label="Markus Kunz, Grüne" />
-      <node id="Andreas Kirstein, AL" label="Andreas Kirstein, AL" />
       <node id="Uschi Heinrich, SP" label="Uschi Heinrich, SP" />
-      <node id="Marlène Butz, SP" label="Marlène Butz, SP" />
-      <node id="Kyriakos Papageorgiou, SP" label="Kyriakos Papageorgiou, SP" />
       <node id="Martin Luchsinger, GLP" label="Martin Luchsinger, GLP" />
+      <node id="Marlène Butz, SP" label="Marlène Butz, SP" />
       <node id="Theresa G. Hensch-Stadelmann, FDP" label="Theresa G. Hensch-Stadelmann, FDP" />
       <node id="Christoph Hug, Grüne" label="Christoph Hug, Grüne" />
       <node id="Reto Rudolf, CVP" label="Reto Rudolf, CVP" />
       <node id="Zilla Roose, SP" label="Zilla Roose, SP" />
-      <node id="Marc Bourgeois, FDP" label="Marc Bourgeois, FDP" />
       <node id="Luzi Rüegg, SVP" label="Luzi Rüegg, SVP" />
-      <node id="Urs Fehr, SVP" label="Urs Fehr, SVP" />
       <node id="Paul Kleger, FDP" label="Paul Kleger, FDP" />
       <node id="Mirella Wepf, SP" label="Mirella Wepf, SP" />
-      <node id="Joe A. Manser, SP" label="Joe A. Manser, SP" />
       <node id="Guido Wick, FDP" label="Guido Wick, FDP" />
       <node id="Monika Erfigen, SVP" label="Monika Erfigen, SVP" />
       <node id="Marianne Aubert, SP" label="Marianne Aubert, SP" />
@@ -167,24 +180,21 @@
       <node id="Hans Jörg Käppeli, SP" label="Hans Jörg Käppeli, SP" />
       <node id="Mathias Egloff, SP" label="Mathias Egloff, SP" />
       <node id="Ronny Siev, GLP" label="Ronny Siev, GLP" />
-      <node id="Pierino Cerliani, Grüne" label="Pierino Cerliani, Grüne" />
       <node id="Marco V. Camin, FDP" label="Marco V. Camin, FDP" />
       <node id="Olivia Romanelli, AL" label="Olivia Romanelli, AL" />
       <node id="Doris Weber, FDP" label="Doris Weber, FDP" />
       <node id="Luzia Vieli-Hardegger, LdU" label="Luzia Vieli-Hardegger, LdU" />
       <node id="Simone Bertogg-Baudet, Grüne" label="Simone Bertogg-Baudet, Grüne" />
+      <node id="Mischa Morgenbesser, FDP" label="Mischa Morgenbesser, FDP" />
       <node id="Pablo Bünger, FDP" label="Pablo Bünger, FDP" />
-      <node id="Helen Glaser, SP" label="Helen Glaser, SP" />
       <node id="Placidus Maissen, CVP" label="Placidus Maissen, CVP" />
       <node id="Max Müller, SVP" label="Max Müller, SVP" />
       <node id="Armin W. Zenger, LdU" label="Armin W. Zenger, LdU" />
       <node id="Sebastian Vogel, FDP" label="Sebastian Vogel, FDP" />
       <node id="Hanspeter Kunz, EVP" label="Hanspeter Kunz, EVP" />
-      <node id="Karin Meier-Bohrer, Grüne" label="Karin Meier-Bohrer, Grüne" />
-      <node id="Përparim Avdili, FDP" label="Përparim Avdili, FDP" />
       <node id="Barbara Wiesmann, SP" label="Barbara Wiesmann, SP" />
-      <node id="Simone Brander, SP" label="Simone Brander, SP" />
       <node id="Heinz Schatt, SVP" label="Heinz Schatt, SVP" />
+      <node id="Martin Burger, SVP" label="Martin Burger, SVP" />
       <node id="Maria del Carmen Señorán, SVP" label="Maria del Carmen Señorán, SVP" />
       <node id="Johanna Tremp, SP" label="Johanna Tremp, SP" />
       <node id="Kathy Riklin, CVP" label="Kathy Riklin, CVP" />
@@ -196,9 +206,11 @@
       <node id="Yvonne Müller, SP" label="Yvonne Müller, SP" />
       <node id="Romeo Steiner, CVP" label="Romeo Steiner, CVP" />
       <node id="Armin Schilter, SVP" label="Armin Schilter, SVP" />
+      <node id="Thomas Kleger, FDP" label="Thomas Kleger, FDP" />
       <node id="Mauro Tuena, SVP" label="Mauro Tuena, SVP" />
       <node id="Hansueli Züllig, SVP" label="Hansueli Züllig, SVP" />
       <node id="Bruno Garzotto, SVP" label="Bruno Garzotto, SVP" />
+      <node id="Patrick Albrecht, FDP" label="Patrick Albrecht, FDP" />
       <node id="Andrea Leitner Verhoeven, AL" label="Andrea Leitner Verhoeven, AL" />
       <node id="Nadia Huberson, SP" label="Nadia Huberson, SP" />
       <node id="Michel Urben, SP" label="Michel Urben, SP" />
@@ -206,379 +218,423 @@
       <node id="Christina Bellin-Isele, SP" label="Christina Bellin-Isele, SP" />
       <node id="Thomas  Kappeler, CVP" label="Thomas  Kappeler, CVP" />
       <node id="Werner Furrer, SVP" label="Werner Furrer, SVP" />
+      <node id="Joachim Hagger, FDP" label="Joachim Hagger, FDP" />
       <node id="Hans-Ulrich Meier, FDP" label="Hans-Ulrich Meier, FDP" />
-      <node id="Urs Helfenstein, SP" label="Urs Helfenstein, SP" />
-      <node id="Mischa Morgenbesser, FDP" label="Mischa Morgenbesser, FDP" />
       <node id="Franziska Graf, SP" label="Franziska Graf, SP" />
       <node id="Res Marti, Grüne" label="Res Marti, Grüne" />
       <node id="Adrian Gautschi, GLP" label="Adrian Gautschi, GLP" />
       <node id="Salvatore Di Concilio, SP" label="Salvatore Di Concilio, SP" />
       <node id="Sacha Walker, GLP" label="Sacha Walker, GLP" />
       <node id="Rebekka Wyler, SP" label="Rebekka Wyler, SP" />
-      <node id="Marianne Spieler Frauenfelder, SP" label="Marianne Spieler Frauenfelder, SP" />
       <node id="Eva-Maria Würth, SP" label="Eva-Maria Würth, SP" />
       <node id="Marco Geissbühler, SP" label="Marco Geissbühler, SP" />
       <node id="Corina Ursprung, FDP" label="Corina Ursprung, FDP" />
       <node id="Anton Stäbler, CVP" label="Anton Stäbler, CVP" />
+      <node id="Christoph Luchsinger, FDP" label="Christoph Luchsinger, FDP" />
       <node id="Patrick Hadi Huber, SP" label="Patrick Hadi Huber, SP" />
+      <node id="Vera Ziswiler, SP" label="Vera Ziswiler, SP" />
       <node id="Andreas Egli, FDP" label="Andreas Egli, FDP" />
       <node id="Andrea Nüssli, SP" label="Andrea Nüssli, SP" />
-      <node id="Gerhard Bosshard, EVP" label="Gerhard Bosshard, EVP" />
       <node id="Urs Lauffer, FDP" label="Urs Lauffer, FDP" />
       <node id="Felix Moser, Grüne" label="Felix Moser, Grüne" />
       <node id="Matthias Wiesmann, GLP" label="Matthias Wiesmann, GLP" />
       <node id="Cordula Bieri, Grüne" label="Cordula Bieri, Grüne" />
-      <node id="Alecs Recher, AL" label="Alecs Recher, AL" />
       <node id="Davy Graf, SP" label="Davy Graf, SP" />
-      <node id="Joachim Hagger, FDP" label="Joachim Hagger, FDP" />
       <node id="Hans Diem, CVP" label="Hans Diem, CVP" />
-      <node id="Erika Bärtschi Hafner, FDP" label="Erika Bärtschi Hafner, FDP" />
+      <node id="Ruth Anhorn, SVP" label="Ruth Anhorn, SVP" />
       <node id="Robert Kaeser, FDP" label="Robert Kaeser, FDP" />
-      <node id="Patrick Albrecht, FDP" label="Patrick Albrecht, FDP" />
       <node id="Mathias Manz, SP" label="Mathias Manz, SP" />
       <node id="Monika Spring-Gross, SP" label="Monika Spring-Gross, SP" />
-      <node id="Mario Babini, Parteilos" label="Mario Babini, Parteilos" />
+      <node id="Mark Richli, SP" label="Mark Richli, SP" />
       <node id="Martin Mächler, EVP" label="Martin Mächler, EVP" />
       <node id="Florian Blättler, SP" label="Florian Blättler, SP" />
       <node id="Christian Monn, GLP" label="Christian Monn, GLP" />
-      <node id="Irene Bernhard, GLP" label="Irene Bernhard, GLP" />
       <node id="Rosemarie Berthoud, FDP" label="Rosemarie Berthoud, FDP" />
-      <node id="Fiammetta Jahreiss-Montagnani, SP" label="Fiammetta Jahreiss-Montagnani, SP" />
       <node id="Simon Kälin-Werth, Grüne" label="Simon Kälin-Werth, Grüne" />
-      <node id="Michèle Halser-Furrer, EVP" label="Michèle Halser-Furrer, EVP" />
       <node id="Anna Brändle Galliker, SP" label="Anna Brändle Galliker, SP" />
     </nodes>
     <edges>
       <edge id="0" source="Kurt Hüssy, SVP" target="Peter Anderegg, EVP" />
       <edge id="1" source="Peter Anderegg, EVP" target="Daniel Regli, SVP" />
-      <edge id="2" source="Peter Anderegg, EVP" target="Hans Bachmann, FDP" />
-      <edge id="3" source="Mario Mariani, CVP" target="Muriel Herzig, Grüne" />
-      <edge id="4" source="Mario Mariani, CVP" target="Heinz F. Steger, FDP" />
-      <edge id="5" source="Mario Mariani, CVP" target="Bernhard Piller, Grüne" />
-      <edge id="6" source="Mario Mariani, CVP" target="Daniel Leupi, Grüne" />
-      <edge id="7" source="Mario Mariani, CVP" target="Martin Sarbach, SP" />
-      <edge id="8" source="Mario Mariani, CVP" target="Bruno Wohler, SVP" />
-      <edge id="9" source="Mario Mariani, CVP" target="Christine Seidler, SP" />
-      <edge id="10" source="Mario Mariani, CVP" target="Pascal Lamprecht, SP" />
-      <edge id="11" source="Mario Mariani, CVP" target="Albert Leiser, FDP" />
-      <edge id="12" source="Mario Mariani, CVP" target="Pierino Cerliani, Grüne" />
-      <edge id="13" source="Mario Mariani, CVP" target="Urs Fehr, SVP" />
-      <edge id="14" source="Mario Mariani, CVP" target="Alan David Sangines, SP" />
-      <edge id="15" source="Mario Mariani, CVP" target="Mathias Manz, SP" />
-      <edge id="16" source="Ernst Danner, EVP" target="Raphael Kobler, FDP" />
-      <edge id="17" source="Ernst Danner, EVP" target="Albert Leiser, FDP" />
-      <edge id="18" source="Ernst Danner, EVP" target="Corine Mauch, SP" />
-      <edge id="19" source="Ernst Danner, EVP" target="Bastien Girod, Grüne" />
-      <edge id="20" source="Ernst Danner, EVP" target="Gregor Bucher, Grüne" />
-      <edge id="21" source="Ernst Danner, EVP" target="Susi Gut, PFZ" />
-      <edge id="22" source="Ernst Danner, EVP" target="Beatrice Reimann, SP" />
-      <edge id="23" source="Ernst Danner, EVP" target="Walter Angst, AL" />
-      <edge id="24" source="Ernst Danner, EVP" target="Mirella Wepf, SP" />
-      <edge id="25" source="Ernst Danner, EVP" target="Myrtha Meuli, SP" />
-      <edge id="26" source="Ernst Danner, EVP" target="Olivia Romanelli, AL" />
-      <edge id="27" source="Ernst Danner, EVP" target="Bernhard Piller, Grüne" />
-      <edge id="28" source="Ernst Danner, EVP" target="Peter Stähli-Barth, SP" />
-      <edge id="29" source="Ernst Danner, EVP" target="Christina Schiller, AL" />
-      <edge id="30" source="Ernst Danner, EVP" target="Daniel Leupi, Grüne" />
-      <edge id="31" source="Raphael Kobler, FDP" target="Markus Hungerbühler, CVP" />
-      <edge id="32" source="Corine Mauch, SP" target="Albert Leiser, FDP" />
-      <edge id="33" source="Albert Leiser, FDP" target="Daniel Meier, CVP" />
-      <edge id="34" source="Albert Leiser, FDP" target="Peter Püntener, GLP" />
-      <edge id="35" source="Albert Leiser, FDP" target="Niklaus Scherr, AL" />
-      <edge id="36" source="Albert Leiser, FDP" target="Gerold Lauber, CVP" />
-      <edge id="37" source="Albert Leiser, FDP" target="Andreas Kirstein, AL" />
-      <edge id="38" source="Albert Leiser, FDP" target="Robert Schönbächler, CVP" />
-      <edge id="39" source="Albert Leiser, FDP" target="Marco Denoth, SP" />
-      <edge id="40" source="Albert Leiser, FDP" target="Daniel Leupi, Grüne" />
-      <edge id="41" source="Matthias Probst, Grüne" target="Guido Hüni, GLP" />
-      <edge id="42" source="Matthias Probst, Grüne" target="Guido Trevisan, GLP" />
-      <edge id="43" source="Matthias Probst, Grüne" target="Richard Rabelbauer, EVP" />
-      <edge id="44" source="Matthias Probst, Grüne" target="Marcel Schönbächler, CVP" />
-      <edge id="45" source="Matthias Probst, Grüne" target="Martin Luchsinger, GLP" />
-      <edge id="46" source="Matthias Probst, Grüne" target="Gian von Planta, GLP" />
-      <edge id="47" source="Guido Hüni, GLP" target="Sebastian Vogel, FDP" />
-      <edge id="48" source="Guido Hüni, GLP" target="Markus Kunz, Grüne" />
-      <edge id="49" source="Guido Hüni, GLP" target="Mathias Egloff, SP" />
-      <edge id="50" source="Köbi Möri, Parteilos" target="Hansruedi Bär, SVP" />
-      <edge id="51" source="Köbi Möri, Parteilos" target="Jürg Casparis, SVP" />
-      <edge id="52" source="Köbi Möri, Parteilos" target="Theo Hauri, SVP" />
-      <edge id="53" source="Köbi Möri, Parteilos" target="Bruno Sidler, SVP" />
-      <edge id="54" source="Köbi Möri, Parteilos" target="Lorenz Habicher, SVP" />
-      <edge id="55" source="Köbi Möri, Parteilos" target="Luzi Rüegg, SVP" />
-      <edge id="56" source="Köbi Möri, Parteilos" target="Mauro Tuena, SVP" />
-      <edge id="57" source="Köbi Möri, Parteilos" target="Hans Marolf, SVP" />
-      <edge id="58" source="Köbi Möri, Parteilos" target="Werner Furrer, SVP" />
-      <edge id="59" source="Cäcilia Hänni-Etter, FDP" target="Markus Hungerbühler, CVP" />
-      <edge id="60" source="Cäcilia Hänni-Etter, FDP" target="Isabel Garcia, GLP" />
-      <edge id="61" source="Markus Hungerbühler, CVP" target="Marcel Tobler, SP" />
-      <edge id="62" source="Markus Hungerbühler, CVP" target="Marcel Bührig, Grüne" />
-      <edge id="63" source="Markus Hungerbühler, CVP" target="Urs Fehr, SVP" />
-      <edge id="64" source="Markus Hungerbühler, CVP" target="Andreas Egli, FDP" />
-      <edge id="65" source="Markus Hungerbühler, CVP" target="Marcel Müller, FDP" />
-      <edge id="66" source="Daniel Leupi, Grüne" target="Christian Traber, CVP" />
-      <edge id="67" source="Daniel Leupi, Grüne" target="Robert Schönbächler, CVP" />
-      <edge id="68" source="Daniel Leupi, Grüne" target="Roger Tognella, FDP" />
-      <edge id="69" source="Daniel Leupi, Grüne" target="Alexander Jäger, FDP" />
-      <edge id="70" source="Daniel Leupi, Grüne" target="Doris Weber, FDP" />
-      <edge id="71" source="Christian Traber, CVP" target="Judith Bucher, SP" />
-      <edge id="72" source="Christian Traber, CVP" target="Thomas Marthaler, SP" />
-      <edge id="73" source="Christian Traber, CVP" target="Hans Urs von Matt, SP" />
-      <edge id="74" source="Christian Traber, CVP" target="Pawel Silberring, SP" />
-      <edge id="75" source="Christian Traber, CVP" target="Christine Seidler, SP" />
-      <edge id="76" source="Christian Traber, CVP" target="Bruno Amacker, SVP" />
-      <edge id="77" source="Christian Traber, CVP" target="Susi Gut, PFZ" />
-      <edge id="78" source="Christian Traber, CVP" target="Markus Knauss, Grüne" />
-      <edge id="79" source="Christian Traber, CVP" target="Andrea Nüssli, SP" />
-      <edge id="80" source="Christian Traber, CVP" target="Fiammetta Jahreiss-Montagnani, SP" />
-      <edge id="81" source="Ursula Uttinger, FDP" target="Marco Denoth, SP" />
-      <edge id="82" source="Ursula Uttinger, FDP" target="Jonas Steiner, SP" />
-      <edge id="83" source="Ursula Uttinger, FDP" target="Markus Baumann, GLP" />
-      <edge id="84" source="Ursula Uttinger, FDP" target="Jean-Daniel Strub, SP" />
-      <edge id="85" source="Ursula Uttinger, FDP" target="Pascal Lamprecht, SP" />
-      <edge id="86" source="Ursula Uttinger, FDP" target="Guido Trevisan, GLP" />
-      <edge id="87" source="Ursula Uttinger, FDP" target="Irene Bernhard, GLP" />
-      <edge id="88" source="Marco Denoth, SP" target="Markus Baumann, GLP" />
-      <edge id="89" source="Marco Denoth, SP" target="Sven Sobernheim, GLP" />
-      <edge id="90" source="Marco Denoth, SP" target="Martin Luchsinger, GLP" />
-      <edge id="91" source="Marco Denoth, SP" target="Ann-Catherine Nabholz, GLP" />
-      <edge id="92" source="Marco Denoth, SP" target="Roger Tognella, FDP" />
-      <edge id="93" source="Markus Baumann, GLP" target="Pascal Lamprecht, SP" />
-      <edge id="94" source="Markus Baumann, GLP" target="Katharina Prelicz-Huber, Grüne" />
-      <edge id="95" source="Markus Baumann, GLP" target="Alan David Sangines, SP" />
-      <edge id="96" source="Markus Baumann, GLP" target="Marcel Tobler, SP" />
-      <edge id="97" source="Markus Baumann, GLP" target="Marco Geissbühler, SP" />
-      <edge id="98" source="Markus Baumann, GLP" target="Alexander Brunner, FDP" />
-      <edge id="99" source="Markus Baumann, GLP" target="Marcel Müller, FDP" />
-      <edge id="100" source="Markus Baumann, GLP" target="Cordula Bieri, Grüne" />
-      <edge id="101" source="Balz Bürgisser, Grüne" target="Yasmine Bourgeois, FDP" />
-      <edge id="102" source="Balz Bürgisser, Grüne" target="Roger Bartholdi, SVP" />
-      <edge id="103" source="Balz Bürgisser, Grüne" target="Sebastian Vogel, FDP" />
-      <edge id="104" source="Balz Bürgisser, Grüne" target="Ann-Catherine Nabholz, GLP" />
-      <edge id="105" source="Jonas Steiner, SP" target="Shaibal Roy, GLP" />
-      <edge id="106" source="Peter Küng, SP" target="Gian von Planta, GLP" />
-      <edge id="107" source="Peter Küng, SP" target="Marcel Schönbächler, CVP" />
-      <edge id="108" source="Peter Küng, SP" target="Michael Schmid, FDP" />
-      <edge id="109" source="Peter Küng, SP" target="Michèle Halser-Furrer, EVP" />
-      <edge id="110" source="Gian von Planta, GLP" target="Katrin Wüthrich, SP" />
-      <edge id="111" source="Gian von Planta, GLP" target="Patrick Hadi Huber, SP" />
-      <edge id="112" source="Gian von Planta, GLP" target="Markus Knauss, Grüne" />
-      <edge id="113" source="Daniel Meier, CVP" target="Heinz F. Steger, FDP" />
-      <edge id="114" source="Daniel Meier, CVP" target="Florian Utz, SP" />
-      <edge id="115" source="Daniel Meier, CVP" target="Severin Pflüger, FDP" />
-      <edge id="116" source="Heinz Jacobi, SP" target="Robert Schönbächler, CVP" />
-      <edge id="117" source="Heinz Jacobi, SP" target="Josef Widler, CVP" />
-      <edge id="118" source="Robert Schönbächler, CVP" target="Heinz Bögle, SP" />
-      <edge id="119" source="Robert Schönbächler, CVP" target="Bernhard Piller, Grüne" />
-      <edge id="120" source="Robert Schönbächler, CVP" target="Niklaus Scherr, AL" />
-      <edge id="121" source="Robert Schönbächler, CVP" target="Andres Türler, FDP" />
-      <edge id="122" source="Robert Schönbächler, CVP" target="Emil Seliner, SP" />
-      <edge id="123" source="Robert Schönbächler, CVP" target="Andreas Ammann, SP" />
-      <edge id="124" source="Robert Schönbächler, CVP" target="Markus Bischoff, AL" />
-      <edge id="125" source="Robert Schönbächler, CVP" target="Claudia Nielsen, SP" />
-      <edge id="126" source="Robert Schönbächler, CVP" target="Pierino Cerliani, Grüne" />
-      <edge id="127" source="Robert Schönbächler, CVP" target="Bastien Girod, Grüne" />
-      <edge id="128" source="Robert Schönbächler, CVP" target="Beatrice Reimann, SP" />
-      <edge id="129" source="Robert Schönbächler, CVP" target="Hansueli Züllig, SVP" />
-      <edge id="130" source="Robert Schönbächler, CVP" target="Bruno Garzotto, SVP" />
-      <edge id="131" source="Robert Schönbächler, CVP" target="Salvatore Di Concilio, SP" />
-      <edge id="132" source="Robert Schönbächler, CVP" target="Alecs Recher, AL" />
-      <edge id="133" source="Robert Schönbächler, CVP" target="Monika Spring-Gross, SP" />
-      <edge id="134" source="Robert Schönbächler, CVP" target="Marlène Butz, SP" />
-      <edge id="135" source="Isabel Garcia, GLP" target="Renate Fischer, SP" />
-      <edge id="136" source="Isabel Garcia, GLP" target="Michael Schmid, FDP" />
-      <edge id="137" source="Isabel Garcia, GLP" target="Min Li Marti, SP" />
-      <edge id="138" source="Isabel Garcia, GLP" target="Claudia Simon, FDP" />
-      <edge id="139" source="Isabel Garcia, GLP" target="Walter Angst, AL" />
-      <edge id="140" source="Isabel Garcia, GLP" target="Christina Hug, Grüne" />
-      <edge id="141" source="Isabel Garcia, GLP" target="Andreas Kirstein, AL" />
-      <edge id="142" source="Isabel Garcia, GLP" target="Christine Seidler, SP" />
-      <edge id="143" source="Isabel Garcia, GLP" target="Marcel Bührig, Grüne" />
-      <edge id="144" source="Hermann Aebi, Parteilos" target="Hans Marolf, SVP" />
-      <edge id="145" source="Hermann Aebi, Parteilos" target="Marcel Knörr, FDP" />
-      <edge id="146" source="Bruno Wohler, SVP" target="Thomas Wyss, Grüne" />
-      <edge id="147" source="Thomas Wyss, Grüne" target="Beat Bloch, CSP" />
-      <edge id="148" source="Thomas Wyss, Grüne" target="Monika Bloch Süss, CSP" />
-      <edge id="149" source="Thomas Wyss, Grüne" target="Hanspeter Kunz, EVP" />
-      <edge id="150" source="Roger Tognella, FDP" target="Dorothea Frei, SP" />
-      <edge id="151" source="Roger Tognella, FDP" target="Gerold Lauber, CVP" />
-      <edge id="152" source="Roger Tognella, FDP" target="Hans Jörg Käppeli, SP" />
-      <edge id="153" source="Roger Tognella, FDP" target="Marcel Savarioud, SP" />
-      <edge id="154" source="Roger Tognella, FDP" target="Maya Burri-Wenger, SP" />
-      <edge id="155" source="Heinz F. Steger, FDP" target="Ann-Catherine Nabholz, GLP" />
-      <edge id="156" source="Heinz F. Steger, FDP" target="Ruth Ackermann, CVP" />
-      <edge id="157" source="Heinz F. Steger, FDP" target="Uschi Heinrich, SP" />
-      <edge id="158" source="Heinz F. Steger, FDP" target="Josef Widler, CVP" />
-      <edge id="159" source="Heinz F. Steger, FDP" target="Pawel Silberring, SP" />
-      <edge id="160" source="Heinz F. Steger, FDP" target="Hans Jörg Käppeli, SP" />
-      <edge id="161" source="Bernhard Piller, Grüne" target="Monika Bloch Süss, CSP" />
-      <edge id="162" source="Bernhard Piller, Grüne" target="Alexander Jäger, FDP" />
-      <edge id="163" source="Bernhard Piller, Grüne" target="Gerhard Bosshard, EVP" />
-      <edge id="164" source="Bernhard Piller, Grüne" target="Martin Mächler, EVP" />
-      <edge id="165" source="Bernhard Piller, Grüne" target="Joachim Hagger, FDP" />
-      <edge id="166" source="Judith Bucher, SP" target="Doris Weber, FDP" />
-      <edge id="167" source="Pascal Lamprecht, SP" target="Marcel Müller, FDP" />
-      <edge id="168" source="Pascal Lamprecht, SP" target="Roger Bartholdi, SVP" />
-      <edge id="169" source="Pascal Lamprecht, SP" target="Sven Sobernheim, GLP" />
-      <edge id="170" source="Pascal Lamprecht, SP" target="Përparim Avdili, FDP" />
-      <edge id="171" source="Marcel Schönbächler, CVP" target="Katrin Wüthrich, SP" />
-      <edge id="172" source="Marcel Schönbächler, CVP" target="Hans Jörg Käppeli, SP" />
-      <edge id="173" source="Marcel Schönbächler, CVP" target="Michel Urben, SP" />
-      <edge id="174" source="Walter Angst, AL" target="Jean-Claude Virchaux, CVP" />
-      <edge id="175" source="Walter Angst, AL" target="Markus Merki, GLP" />
-      <edge id="176" source="Jean-Claude Virchaux, CVP" target="Balthasar Glättli, Grüne" />
-      <edge id="177" source="Dorothea Frei, SP" target="Severin Pflüger, FDP" />
-      <edge id="178" source="Dorothea Frei, SP" target="Heinz Schatt, SVP" />
-      <edge id="179" source="Dorothea Frei, SP" target="Patrick Albrecht, FDP" />
-      <edge id="180" source="Markus Knauss, Grüne" target="Guido Trevisan, GLP" />
-      <edge id="181" source="Markus Knauss, Grüne" target="Roger Liebi, SVP" />
-      <edge id="182" source="Markus Knauss, Grüne" target="Samuel Dubno, GLP" />
-      <edge id="183" source="Markus Knauss, Grüne" target="Ann-Catherine Nabholz, GLP" />
-      <edge id="184" source="Markus Knauss, Grüne" target="Michael Baumer, FDP" />
-      <edge id="185" source="Guido Trevisan, GLP" target="Alexander Jäger, FDP" />
-      <edge id="186" source="Guido Trevisan, GLP" target="Florian Utz, SP" />
-      <edge id="187" source="Guido Trevisan, GLP" target="Hans Jörg Käppeli, SP" />
-      <edge id="188" source="Guido Trevisan, GLP" target="Simone Brander, SP" />
-      <edge id="189" source="Guido Trevisan, GLP" target="Marc Bourgeois, FDP" />
-      <edge id="190" source="Marcel Tobler, SP" target="Pirmin Meyer, GLP" />
-      <edge id="191" source="Gerold Lauber, CVP" target="Maya Burri-Wenger, SP" />
-      <edge id="192" source="Gerold Lauber, CVP" target="Oliver B. Meier, SVP" />
-      <edge id="193" source="Gerold Lauber, CVP" target="Christine Seidler, SP" />
-      <edge id="194" source="Gerold Lauber, CVP" target="Christoph Hug, Grüne" />
-      <edge id="195" source="Gerold Lauber, CVP" target="Balthasar Glättli, Grüne" />
-      <edge id="196" source="Gerold Lauber, CVP" target="Marcel Savarioud, SP" />
-      <edge id="197" source="Gerold Lauber, CVP" target="Anna Brändle Galliker, SP" />
-      <edge id="198" source="Gabriele Kisker, Grüne" target="Samuel Dubno, GLP" />
-      <edge id="199" source="Gabriele Kisker, Grüne" target="Monika Bloch Süss, CSP" />
-      <edge id="200" source="Gabriele Kisker, Grüne" target="Ann-Catherine Nabholz, GLP" />
-      <edge id="201" source="Gabriele Kisker, Grüne" target="Andri Silberschmidt, FDP" />
-      <edge id="202" source="Samuel Dubno, GLP" target="Min Li Marti, SP" />
-      <edge id="203" source="Samuel Dubno, GLP" target="Marc Bourgeois, FDP" />
-      <edge id="204" source="Samuel Dubno, GLP" target="Alan David Sangines, SP" />
-      <edge id="205" source="Samuel Dubno, GLP" target="Urs Egger, FDP" />
-      <edge id="206" source="Heinz Bögle, SP" target="Rosemarie Berthoud, FDP" />
-      <edge id="207" source="Alexander Brunner, FDP" target="Shaibal Roy, GLP" />
-      <edge id="208" source="Alexander Brunner, FDP" target="Pirmin Meyer, GLP" />
-      <edge id="209" source="Shaibal Roy, GLP" target="Alan David Sangines, SP" />
-      <edge id="210" source="Shaibal Roy, GLP" target="Marcel Bührig, Grüne" />
-      <edge id="211" source="Ann-Catherine Nabholz, GLP" target="Hans Jörg Käppeli, SP" />
-      <edge id="212" source="Ann-Catherine Nabholz, GLP" target="Linda Bär, SP" />
-      <edge id="213" source="Ann-Catherine Nabholz, GLP" target="Andrea Leitner Verhoeven, AL" />
-      <edge id="214" source="Ann-Catherine Nabholz, GLP" target="Patrick Hadi Huber, SP" />
-      <edge id="215" source="Ann-Catherine Nabholz, GLP" target="Felix Moser, Grüne" />
-      <edge id="216" source="Ann-Catherine Nabholz, GLP" target="Simone Brander, SP" />
-      <edge id="217" source="Bastien Girod, Grüne" target="Richard Rabelbauer, EVP" />
-      <edge id="218" source="Jürg R. Schüepp, FDP" target="Willy Furter, EVP" />
-      <edge id="219" source="Willy Furter, EVP" target="Alexander Jäger, FDP" />
-      <edge id="220" source="Willy Furter, EVP" target="Ueli Nagel, Grüne" />
-      <edge id="221" source="Willy Furter, EVP" target="Theresa G. Hensch-Stadelmann, FDP" />
-      <edge id="222" source="Sven Sobernheim, GLP" target="Andri Silberschmidt, FDP" />
-      <edge id="223" source="Sven Sobernheim, GLP" target="Marcel Bührig, Grüne" />
-      <edge id="224" source="Sven Sobernheim, GLP" target="Markus Kunz, Grüne" />
-      <edge id="225" source="Sven Sobernheim, GLP" target="Nicole Giger, SP" />
-      <edge id="226" source="Sven Sobernheim, GLP" target="Res Marti, Grüne" />
-      <edge id="227" source="Sven Sobernheim, GLP" target="Roger-Paul Speck, SP" />
-      <edge id="228" source="Andri Silberschmidt, FDP" target="Nicole Giger, SP" />
-      <edge id="229" source="Andri Silberschmidt, FDP" target="Jean-Daniel Strub, SP" />
-      <edge id="230" source="Monika Bloch Süss, CSP" target="Bernhard Jüsi, SP" />
-      <edge id="231" source="Monika Bloch Süss, CSP" target="Hans Urs von Matt, SP" />
-      <edge id="232" source="Monika Bloch Süss, CSP" target="Martin Abele, Grüne" />
-      <edge id="233" source="Monika Bloch Süss, CSP" target="Marlène Butz, SP" />
-      <edge id="234" source="Monika Bloch Süss, CSP" target="Karin Meier-Bohrer, Grüne" />
-      <edge id="235" source="Monika Bloch Süss, CSP" target="Marianne Spieler Frauenfelder, SP" />
-      <edge id="236" source="Myrtha Meuli, SP" target="Hans Bachmann, FDP" />
-      <edge id="237" source="Myrtha Meuli, SP" target="Josef Widler, CVP" />
-      <edge id="238" source="Ueli Nagel, Grüne" target="Claudia Rabelbauer, EVP" />
-      <edge id="239" source="Ueli Nagel, Grüne" target="Monjek Rosenheim, FDP" />
-      <edge id="240" source="Ueli Nagel, Grüne" target="Claudia Simon, FDP" />
-      <edge id="241" source="Ueli Nagel, Grüne" target="Marco V. Camin, FDP" />
-      <edge id="242" source="Claudia Rabelbauer, EVP" target="Christina Hug, Grüne" />
-      <edge id="243" source="Claudia Rabelbauer, EVP" target="Pierino Cerliani, Grüne" />
-      <edge id="244" source="Claudia Rabelbauer, EVP" target="Michael Baumer, FDP" />
-      <edge id="245" source="Ruth Ackermann, CVP" target="Hans Jörg Käppeli, SP" />
-      <edge id="246" source="Niklaus Scherr, AL" target="Alexander Jäger, FDP" />
-      <edge id="247" source="Alexander Jäger, FDP" target="Kyriakos Papageorgiou, SP" />
-      <edge id="248" source="Alexander Jäger, FDP" target="Richard Rabelbauer, EVP" />
-      <edge id="249" source="Alexander Jäger, FDP" target="Pierino Cerliani, Grüne" />
-      <edge id="250" source="Renate Fischer, SP" target="Martin Bürki, FDP" />
-      <edge id="251" source="Reto Vogelbacher, CVP" target="Elisabeth Schoch, FDP" />
-      <edge id="252" source="Martin Sarbach, SP" target="Katrin Schönenberger-Meier, EVP" />
-      <edge id="253" source="Emil Seliner, SP" target="Placidus Maissen, CVP" />
-      <edge id="254" source="Eduard Guggenheim, AL" target="Stefan Urech, SVP" />
-      <edge id="255" source="Eduard Guggenheim, AL" target="Adrian Gautschi, GLP" />
-      <edge id="256" source="Eduard Guggenheim, AL" target="Marc Bourgeois, FDP" />
-      <edge id="257" source="Eduard Guggenheim, AL" target="Mario Babini, Parteilos" />
-      <edge id="258" source="Eduard Guggenheim, AL" target="Sebastian Vogel, FDP" />
-      <edge id="259" source="Stefan Urech, SVP" target="Urs Helfenstein, SP" />
-      <edge id="260" source="Stefan Urech, SVP" target="Markus Merki, GLP" />
-      <edge id="261" source="Marianne Dubs Früh, SP" target="Kurt Maeder, CVP" />
-      <edge id="262" source="Kurt Maeder, CVP" target="Hans Jörg Käppeli, SP" />
-      <edge id="263" source="Beat Badertscher, FDP" target="Peter Stähli-Barth, SP" />
-      <edge id="264" source="Beat Badertscher, FDP" target="Werner Sieg, SP" />
-      <edge id="265" source="Peter Stähli-Barth, SP" target="Paul Kleger, FDP" />
-      <edge id="266" source="Peter Stähli-Barth, SP" target="Bruno Sidler, SVP" />
-      <edge id="267" source="Peter Stähli-Barth, SP" target="Robert Kaeser, FDP" />
-      <edge id="268" source="Marcel Knörr, FDP" target="Hans Diem, CVP" />
-      <edge id="269" source="Rolf Kuhn, SP" target="Kurt Tschopp, CVP" />
-      <edge id="270" source="Rolf Kuhn, SP" target="Anton Stäbler, CVP" />
-      <edge id="271" source="Kurt Tschopp, CVP" target="Monika Spring-Gross, SP" />
-      <edge id="272" source="Roger-Paul Speck, SP" target="Markus Merki, GLP" />
-      <edge id="273" source="Markus Merki, GLP" target="Heidi Egger, SP" />
-      <edge id="274" source="Markus Merki, GLP" target="Andreas Kirstein, AL" />
-      <edge id="275" source="Markus Merki, GLP" target="Zilla Roose, SP" />
-      <edge id="276" source="Christina Schiller, AL" target="Guy Krayenbühl, GLP" />
-      <edge id="277" source="Guy Krayenbühl, GLP" target="Pawel Silberring, SP" />
-      <edge id="278" source="Guy Krayenbühl, GLP" target="Barbara Wiesmann, SP" />
-      <edge id="279" source="Urs Egger, FDP" target="Anjushka Früh, SP" />
-      <edge id="280" source="Susann Birrer, FDP" target="Claudia Nielsen, SP" />
-      <edge id="281" source="Corina Gredig, GLP" target="Marion Schmid, SP" />
-      <edge id="282" source="Corina Gredig, GLP" target="Jean-Daniel Strub, SP" />
-      <edge id="283" source="Marion Schmid, SP" target="Maria del Carmen Señorán, SVP" />
-      <edge id="284" source="Marion Schmid, SP" target="Corina Ursprung, FDP" />
-      <edge id="285" source="Fabienne Vocat, Grüne" target="Michael Baumer, FDP" />
-      <edge id="286" source="Michael Baumer, FDP" target="Balthasar Glättli, Grüne" />
-      <edge id="287" source="Michael Baumer, FDP" target="Pierino Cerliani, Grüne" />
-      <edge id="288" source="Michael Baumer, FDP" target="Thomas  Kappeler, CVP" />
-      <edge id="289" source="Georg Schmid, CVP" target="Werner Sieg, SP" />
-      <edge id="290" source="Georg Schmid, CVP" target="Marlène Butz, SP" />
-      <edge id="291" source="Georg Schmid, CVP" target="Franziska Graf, SP" />
-      <edge id="292" source="Werner Sieg, SP" target="Claudia Rütsche, CVP" />
-      <edge id="293" source="Werner Sieg, SP" target="Hans-Ulrich Meier, FDP" />
-      <edge id="294" source="Karin Rykart Sutter, Grüne" target="Astrid Hirzel, CVP" />
-      <edge id="295" source="Astrid Hirzel, CVP" target="Yvonne Müller, SP" />
-      <edge id="296" source="Astrid Hirzel, CVP" target="Marlène Butz, SP" />
-      <edge id="297" source="Heidi Egger, SP" target="Reto Rudolf, CVP" />
-      <edge id="298" source="Christian Aeschbach, FDP" target="Christina Hug, Grüne" />
-      <edge id="299" source="Nina Fehr Düsel, SVP" target="Karin Weyermann, CVP" />
-      <edge id="300" source="Karin Weyermann, CVP" target="Marcel Savarioud, SP" />
-      <edge id="301" source="Karin Weyermann, CVP" target="Eva-Maria Würth, SP" />
-      <edge id="302" source="Richard Rabelbauer, EVP" target="Mischa Morgenbesser, FDP" />
-      <edge id="303" source="Jean-Daniel Strub, SP" target="Martin Luchsinger, GLP" />
-      <edge id="304" source="Florian Utz, SP" target="Michèle Halser-Furrer, EVP" />
-      <edge id="305" source="Marcel Savarioud, SP" target="Josef Widler, CVP" />
-      <edge id="306" source="Marlène Butz, SP" target="Theresa G. Hensch-Stadelmann, FDP" />
-      <edge id="307" source="Martin Luchsinger, GLP" target="Simon Kälin-Werth, Grüne" />
-      <edge id="308" source="Zilla Roose, SP" target="Pirmin Meyer, GLP" />
-      <edge id="309" source="Joe A. Manser, SP" target="Guido Wick, FDP" />
-      <edge id="310" source="Joe A. Manser, SP" target="Max Fritz, FDP" />
-      <edge id="311" source="Joe A. Manser, SP" target="Urs Lauffer, FDP" />
-      <edge id="312" source="Joe A. Manser, SP" target="Hans-Ulrich Meier, FDP" />
-      <edge id="313" source="Monika Erfigen, SVP" target="Marianne Aubert, SP" />
-      <edge id="314" source="Mathias Egloff, SP" target="Ronny Siev, GLP" />
-      <edge id="315" source="Luzia Vieli-Hardegger, LdU" target="Simone Bertogg-Baudet, Grüne" />
-      <edge id="316" source="Pablo Bünger, FDP" target="Helen Glaser, SP" />
-      <edge id="317" source="Max Müller, SVP" target="Armin W. Zenger, LdU" />
-      <edge id="318" source="Përparim Avdili, FDP" target="Nadia Huberson, SP" />
-      <edge id="319" source="Johanna Tremp, SP" target="Kathy Riklin, CVP" />
-      <edge id="320" source="Romeo Steiner, CVP" target="Armin Schilter, SVP" />
-      <edge id="321" source="Romeo Steiner, CVP" target="Hans-Ulrich Meier, FDP" />
-      <edge id="322" source="Christina Bellin-Isele, SP" target="Thomas  Kappeler, CVP" />
-      <edge id="323" source="Thomas  Kappeler, CVP" target="Franziska Graf, SP" />
-      <edge id="324" source="Urs Helfenstein, SP" target="Matthias Wiesmann, GLP" />
-      <edge id="325" source="Sacha Walker, GLP" target="Rebekka Wyler, SP" />
-      <edge id="326" source="Gerhard Bosshard, EVP" target="Simon Kälin-Werth, Grüne" />
-      <edge id="327" source="Davy Graf, SP" target="Joachim Hagger, FDP" />
-      <edge id="328" source="Hans Diem, CVP" target="Erika Bärtschi Hafner, FDP" />
-      <edge id="329" source="Florian Blättler, SP" target="Christian Monn, GLP" />
+      <edge id="2" source="Peter Anderegg, EVP" target="Heinz F. Steger, FDP" />
+      <edge id="3" source="Peter Anderegg, EVP" target="Hans Bachmann, FDP" />
+      <edge id="4" source="Alecs Recher, AL" target="Maleica Landolt, GLP" />
+      <edge id="5" source="Alecs Recher, AL" target="Josef Widler, CVP" />
+      <edge id="6" source="Alecs Recher, AL" target="Marcel Schönbächler, CVP" />
+      <edge id="7" source="Alecs Recher, AL" target="Robert Schönbächler, CVP" />
+      <edge id="8" source="Niklaus Scherr, AL" target="Kurt Maeder, CVP" />
+      <edge id="9" source="Niklaus Scherr, AL" target="Robert Schönbächler, CVP" />
+      <edge id="10" source="Niklaus Scherr, AL" target="Alexander Jäger, FDP" />
+      <edge id="11" source="Niklaus Scherr, AL" target="Albert Leiser, FDP" />
+      <edge id="12" source="Kurt Maeder, CVP" target="Marianne Dubs Früh, SP" />
+      <edge id="13" source="Kurt Maeder, CVP" target="Hans Jörg Käppeli, SP" />
+      <edge id="14" source="Mario Mariani, CVP" target="Muriel Herzig, Grüne" />
+      <edge id="15" source="Mario Mariani, CVP" target="Heinz F. Steger, FDP" />
+      <edge id="16" source="Mario Mariani, CVP" target="Bernhard Piller, Grüne" />
+      <edge id="17" source="Mario Mariani, CVP" target="Pierino Cerliani, Grüne" />
+      <edge id="18" source="Mario Mariani, CVP" target="Daniel Leupi, Grüne" />
+      <edge id="19" source="Mario Mariani, CVP" target="Martin Sarbach, SP" />
+      <edge id="20" source="Mario Mariani, CVP" target="Bruno Wohler, SVP" />
+      <edge id="21" source="Mario Mariani, CVP" target="Christine Seidler, SP" />
+      <edge id="22" source="Mario Mariani, CVP" target="Pascal Lamprecht, SP" />
+      <edge id="23" source="Mario Mariani, CVP" target="Albert Leiser, FDP" />
+      <edge id="24" source="Mario Mariani, CVP" target="Urs Fehr, SVP" />
+      <edge id="25" source="Mario Mariani, CVP" target="Alan David Sangines, SP" />
+      <edge id="26" source="Mario Mariani, CVP" target="Mathias Manz, SP" />
+      <edge id="27" source="Mario Mariani, CVP" target="Marcel Müller, FDP" />
+      <edge id="28" source="Mario Mariani, CVP" target="Joe A. Manser, SP" />
+      <edge id="29" source="Christina Schiller, AL" target="Mario Babini, Parteilos" />
+      <edge id="30" source="Christina Schiller, AL" target="Guy Krayenbühl, GLP" />
+      <edge id="31" source="Christina Schiller, AL" target="Ernst Danner, EVP" />
+      <edge id="32" source="Mario Babini, Parteilos" target="Michael Schmid, FDP" />
+      <edge id="33" source="Mario Babini, Parteilos" target="Eduard Guggenheim, AL" />
+      <edge id="34" source="Mario Babini, Parteilos" target="Andreas Egli, FDP" />
+      <edge id="35" source="Ernst Danner, EVP" target="Raphael Kobler, FDP" />
+      <edge id="36" source="Ernst Danner, EVP" target="Albert Leiser, FDP" />
+      <edge id="37" source="Ernst Danner, EVP" target="Corine Mauch, SP" />
+      <edge id="38" source="Ernst Danner, EVP" target="Bastien Girod, Grüne" />
+      <edge id="39" source="Ernst Danner, EVP" target="Gregor Bucher, Grüne" />
+      <edge id="40" source="Ernst Danner, EVP" target="Susi Gut, PFZ" />
+      <edge id="41" source="Ernst Danner, EVP" target="Beatrice Reimann, SP" />
+      <edge id="42" source="Ernst Danner, EVP" target="Walter Angst, AL" />
+      <edge id="43" source="Ernst Danner, EVP" target="Mirella Wepf, SP" />
+      <edge id="44" source="Ernst Danner, EVP" target="Myrtha Meuli, SP" />
+      <edge id="45" source="Ernst Danner, EVP" target="Olivia Romanelli, AL" />
+      <edge id="46" source="Ernst Danner, EVP" target="Bernhard Piller, Grüne" />
+      <edge id="47" source="Ernst Danner, EVP" target="Heinz F. Steger, FDP" />
+      <edge id="48" source="Ernst Danner, EVP" target="Peter Stähli-Barth, SP" />
+      <edge id="49" source="Ernst Danner, EVP" target="Daniel Leupi, Grüne" />
+      <edge id="50" source="Raphael Kobler, FDP" target="Markus Hungerbühler, CVP" />
+      <edge id="51" source="Corine Mauch, SP" target="Albert Leiser, FDP" />
+      <edge id="52" source="Albert Leiser, FDP" target="Daniel Meier, CVP" />
+      <edge id="53" source="Albert Leiser, FDP" target="Peter Püntener, GLP" />
+      <edge id="54" source="Albert Leiser, FDP" target="Markus Hungerbühler, CVP" />
+      <edge id="55" source="Albert Leiser, FDP" target="Gerold Lauber, CVP" />
+      <edge id="56" source="Albert Leiser, FDP" target="Andreas Kirstein, AL" />
+      <edge id="57" source="Albert Leiser, FDP" target="Josef Widler, CVP" />
+      <edge id="58" source="Albert Leiser, FDP" target="Robert Schönbächler, CVP" />
+      <edge id="59" source="Albert Leiser, FDP" target="Marco Denoth, SP" />
+      <edge id="60" source="Albert Leiser, FDP" target="Daniel Leupi, Grüne" />
+      <edge id="61" source="Matthias Probst, Grüne" target="Guido Hüni, GLP" />
+      <edge id="62" source="Matthias Probst, Grüne" target="Guido Trevisan, GLP" />
+      <edge id="63" source="Matthias Probst, Grüne" target="Richard Rabelbauer, EVP" />
+      <edge id="64" source="Matthias Probst, Grüne" target="Marcel Schönbächler, CVP" />
+      <edge id="65" source="Matthias Probst, Grüne" target="Martin Luchsinger, GLP" />
+      <edge id="66" source="Matthias Probst, Grüne" target="Gian von Planta, GLP" />
+      <edge id="67" source="Guido Hüni, GLP" target="Andreas Kirstein, AL" />
+      <edge id="68" source="Guido Hüni, GLP" target="Sebastian Vogel, FDP" />
+      <edge id="69" source="Guido Hüni, GLP" target="Markus Kunz, Grüne" />
+      <edge id="70" source="Guido Hüni, GLP" target="Mathias Egloff, SP" />
+      <edge id="71" source="Köbi Möri, Parteilos" target="Hansruedi Bär, SVP" />
+      <edge id="72" source="Köbi Möri, Parteilos" target="Jürg Casparis, SVP" />
+      <edge id="73" source="Köbi Möri, Parteilos" target="Theo Hauri, SVP" />
+      <edge id="74" source="Köbi Möri, Parteilos" target="Bruno Sidler, SVP" />
+      <edge id="75" source="Köbi Möri, Parteilos" target="Lorenz Habicher, SVP" />
+      <edge id="76" source="Köbi Möri, Parteilos" target="Luzi Rüegg, SVP" />
+      <edge id="77" source="Köbi Möri, Parteilos" target="Mauro Tuena, SVP" />
+      <edge id="78" source="Köbi Möri, Parteilos" target="Hans Marolf, SVP" />
+      <edge id="79" source="Köbi Möri, Parteilos" target="Werner Furrer, SVP" />
+      <edge id="80" source="Cäcilia Hänni-Etter, FDP" target="Markus Hungerbühler, CVP" />
+      <edge id="81" source="Cäcilia Hänni-Etter, FDP" target="Isabel Garcia, GLP" />
+      <edge id="82" source="Markus Hungerbühler, CVP" target="Marcel Tobler, SP" />
+      <edge id="83" source="Markus Hungerbühler, CVP" target="Urs Fehr, SVP" />
+      <edge id="84" source="Markus Hungerbühler, CVP" target="Marcel Bührig, Grüne" />
+      <edge id="85" source="Markus Hungerbühler, CVP" target="Patrick Albrecht, FDP" />
+      <edge id="86" source="Markus Hungerbühler, CVP" target="Marco Denoth, SP" />
+      <edge id="87" source="Markus Hungerbühler, CVP" target="Andreas Egli, FDP" />
+      <edge id="88" source="Markus Hungerbühler, CVP" target="Thomas Kleger, FDP" />
+      <edge id="89" source="Markus Hungerbühler, CVP" target="Marcel Müller, FDP" />
+      <edge id="90" source="Christian Traber, CVP" target="Urs Helfenstein, SP" />
+      <edge id="91" source="Christian Traber, CVP" target="Daniel Leupi, Grüne" />
+      <edge id="92" source="Christian Traber, CVP" target="Judith Bucher, SP" />
+      <edge id="93" source="Christian Traber, CVP" target="Thomas Marthaler, SP" />
+      <edge id="94" source="Christian Traber, CVP" target="Pawel Silberring, SP" />
+      <edge id="95" source="Christian Traber, CVP" target="Hans Urs von Matt, SP" />
+      <edge id="96" source="Christian Traber, CVP" target="Christine Seidler, SP" />
+      <edge id="97" source="Christian Traber, CVP" target="Bruno Amacker, SVP" />
+      <edge id="98" source="Christian Traber, CVP" target="Fiammetta Jahreiss-Montagnani, SP" />
+      <edge id="99" source="Christian Traber, CVP" target="Susi Gut, PFZ" />
+      <edge id="100" source="Christian Traber, CVP" target="Markus Knauss, Grüne" />
+      <edge id="101" source="Christian Traber, CVP" target="Andrea Nüssli, SP" />
+      <edge id="102" source="Christian Traber, CVP" target="Simon Kälin-Werth, Grüne" />
+      <edge id="103" source="Christian Traber, CVP" target="Monika Erfigen, SVP" />
+      <edge id="104" source="Urs Helfenstein, SP" target="Stefan Urech, SVP" />
+      <edge id="105" source="Urs Helfenstein, SP" target="Matthias Wiesmann, GLP" />
+      <edge id="106" source="Daniel Leupi, Grüne" target="Robert Schönbächler, CVP" />
+      <edge id="107" source="Daniel Leupi, Grüne" target="Roger Tognella, FDP" />
+      <edge id="108" source="Daniel Leupi, Grüne" target="Alexander Jäger, FDP" />
+      <edge id="109" source="Daniel Leupi, Grüne" target="Doris Weber, FDP" />
+      <edge id="110" source="Daniel Leupi, Grüne" target="Mischa Morgenbesser, FDP" />
+      <edge id="111" source="Ursula Uttinger, FDP" target="Marco Denoth, SP" />
+      <edge id="112" source="Ursula Uttinger, FDP" target="Irene Bernhard, GLP" />
+      <edge id="113" source="Ursula Uttinger, FDP" target="Jonas Steiner, SP" />
+      <edge id="114" source="Ursula Uttinger, FDP" target="Markus Baumann, GLP" />
+      <edge id="115" source="Ursula Uttinger, FDP" target="Jean-Daniel Strub, SP" />
+      <edge id="116" source="Ursula Uttinger, FDP" target="Pascal Lamprecht, SP" />
+      <edge id="117" source="Ursula Uttinger, FDP" target="Guido Trevisan, GLP" />
+      <edge id="118" source="Ursula Uttinger, FDP" target="Karin Weyermann, CVP" />
+      <edge id="119" source="Marco Denoth, SP" target="Markus Baumann, GLP" />
+      <edge id="120" source="Marco Denoth, SP" target="Sven Sobernheim, GLP" />
+      <edge id="121" source="Marco Denoth, SP" target="Martin Luchsinger, GLP" />
+      <edge id="122" source="Marco Denoth, SP" target="Heinz F. Steger, FDP" />
+      <edge id="123" source="Marco Denoth, SP" target="Ann-Catherine Nabholz, GLP" />
+      <edge id="124" source="Marco Denoth, SP" target="Roger Tognella, FDP" />
+      <edge id="125" source="Markus Baumann, GLP" target="Pascal Lamprecht, SP" />
+      <edge id="126" source="Markus Baumann, GLP" target="Katharina Prelicz-Huber, Grüne" />
+      <edge id="127" source="Markus Baumann, GLP" target="Alan David Sangines, SP" />
+      <edge id="128" source="Markus Baumann, GLP" target="Marcel Tobler, SP" />
+      <edge id="129" source="Markus Baumann, GLP" target="Marco Geissbühler, SP" />
+      <edge id="130" source="Markus Baumann, GLP" target="Alexander Brunner, FDP" />
+      <edge id="131" source="Markus Baumann, GLP" target="Marcel Müller, FDP" />
+      <edge id="132" source="Markus Baumann, GLP" target="Cordula Bieri, Grüne" />
+      <edge id="133" source="Michèle Halser-Furrer, EVP" target="Thomas Wyss, Grüne" />
+      <edge id="134" source="Michèle Halser-Furrer, EVP" target="Peter Küng, SP" />
+      <edge id="135" source="Michèle Halser-Furrer, EVP" target="Florian Utz, SP" />
+      <edge id="136" source="Thomas Wyss, Grüne" target="Bruno Wohler, SVP" />
+      <edge id="137" source="Thomas Wyss, Grüne" target="Hanspeter Kunz, EVP" />
+      <edge id="138" source="Balz Bürgisser, Grüne" target="Yasmine Bourgeois, FDP" />
+      <edge id="139" source="Balz Bürgisser, Grüne" target="Roger Bartholdi, SVP" />
+      <edge id="140" source="Balz Bürgisser, Grüne" target="Sebastian Vogel, FDP" />
+      <edge id="141" source="Balz Bürgisser, Grüne" target="Ann-Catherine Nabholz, GLP" />
+      <edge id="142" source="Elisabeth Schoch, FDP" target="Guy Krayenbühl, GLP" />
+      <edge id="143" source="Elisabeth Schoch, FDP" target="Reto Vogelbacher, CVP" />
+      <edge id="144" source="Elisabeth Schoch, FDP" target="Joe A. Manser, SP" />
+      <edge id="145" source="Guy Krayenbühl, GLP" target="Pawel Silberring, SP" />
+      <edge id="146" source="Guy Krayenbühl, GLP" target="Barbara Wiesmann, SP" />
+      <edge id="147" source="Guy Krayenbühl, GLP" target="Christoph Luchsinger, FDP" />
+      <edge id="148" source="Jonas Steiner, SP" target="Shaibal Roy, GLP" />
+      <edge id="149" source="Peter Küng, SP" target="Gian von Planta, GLP" />
+      <edge id="150" source="Peter Küng, SP" target="Marcel Schönbächler, CVP" />
+      <edge id="151" source="Peter Küng, SP" target="Michael Schmid, FDP" />
+      <edge id="152" source="Gian von Planta, GLP" target="Katrin Wüthrich, SP" />
+      <edge id="153" source="Gian von Planta, GLP" target="Patrick Hadi Huber, SP" />
+      <edge id="154" source="Gian von Planta, GLP" target="Markus Knauss, Grüne" />
+      <edge id="155" source="Daniel Meier, CVP" target="Heinz F. Steger, FDP" />
+      <edge id="156" source="Daniel Meier, CVP" target="Theo Hauri, SVP" />
+      <edge id="157" source="Daniel Meier, CVP" target="Florian Utz, SP" />
+      <edge id="158" source="Daniel Meier, CVP" target="Severin Pflüger, FDP" />
+      <edge id="159" source="Heinz Jacobi, SP" target="Robert Schönbächler, CVP" />
+      <edge id="160" source="Heinz Jacobi, SP" target="Josef Widler, CVP" />
+      <edge id="161" source="Robert Schönbächler, CVP" target="Heinz Bögle, SP" />
+      <edge id="162" source="Robert Schönbächler, CVP" target="Bernhard Piller, Grüne" />
+      <edge id="163" source="Robert Schönbächler, CVP" target="Andres Türler, FDP" />
+      <edge id="164" source="Robert Schönbächler, CVP" target="Emil Seliner, SP" />
+      <edge id="165" source="Robert Schönbächler, CVP" target="Andreas Ammann, SP" />
+      <edge id="166" source="Robert Schönbächler, CVP" target="Markus Bischoff, AL" />
+      <edge id="167" source="Robert Schönbächler, CVP" target="Claudia Nielsen, SP" />
+      <edge id="168" source="Robert Schönbächler, CVP" target="Pierino Cerliani, Grüne" />
+      <edge id="169" source="Robert Schönbächler, CVP" target="Bastien Girod, Grüne" />
+      <edge id="170" source="Robert Schönbächler, CVP" target="Martin Burger, SVP" />
+      <edge id="171" source="Robert Schönbächler, CVP" target="Beatrice Reimann, SP" />
+      <edge id="172" source="Robert Schönbächler, CVP" target="Hansueli Züllig, SVP" />
+      <edge id="173" source="Robert Schönbächler, CVP" target="Bruno Garzotto, SVP" />
+      <edge id="174" source="Robert Schönbächler, CVP" target="Salvatore Di Concilio, SP" />
+      <edge id="175" source="Robert Schönbächler, CVP" target="Ruth Anhorn, SVP" />
+      <edge id="176" source="Robert Schönbächler, CVP" target="Monika Spring-Gross, SP" />
+      <edge id="177" source="Robert Schönbächler, CVP" target="Marlène Butz, SP" />
+      <edge id="178" source="Isabel Garcia, GLP" target="Fiammetta Jahreiss-Montagnani, SP" />
+      <edge id="179" source="Isabel Garcia, GLP" target="Renate Fischer, SP" />
+      <edge id="180" source="Isabel Garcia, GLP" target="Përparim Avdili, FDP" />
+      <edge id="181" source="Isabel Garcia, GLP" target="Michael Schmid, FDP" />
+      <edge id="182" source="Isabel Garcia, GLP" target="Min Li Marti, SP" />
+      <edge id="183" source="Isabel Garcia, GLP" target="Marcel Tobler, SP" />
+      <edge id="184" source="Isabel Garcia, GLP" target="Claudia Simon, FDP" />
+      <edge id="185" source="Isabel Garcia, GLP" target="Walter Angst, AL" />
+      <edge id="186" source="Isabel Garcia, GLP" target="Christina Hug, Grüne" />
+      <edge id="187" source="Isabel Garcia, GLP" target="Andreas Kirstein, AL" />
+      <edge id="188" source="Isabel Garcia, GLP" target="Christine Seidler, SP" />
+      <edge id="189" source="Isabel Garcia, GLP" target="Marcel Bührig, Grüne" />
+      <edge id="190" source="Hermann Aebi, Parteilos" target="Hans Marolf, SVP" />
+      <edge id="191" source="Hermann Aebi, Parteilos" target="Marcel Knörr, FDP" />
+      <edge id="192" source="Peter Püntener, GLP" target="Joe A. Manser, SP" />
+      <edge id="193" source="Roger Tognella, FDP" target="Dorothea Frei, SP" />
+      <edge id="194" source="Roger Tognella, FDP" target="Gerold Lauber, CVP" />
+      <edge id="195" source="Roger Tognella, FDP" target="Hans Jörg Käppeli, SP" />
+      <edge id="196" source="Roger Tognella, FDP" target="Marcel Savarioud, SP" />
+      <edge id="197" source="Roger Tognella, FDP" target="Maya Burri-Wenger, SP" />
+      <edge id="198" source="Heinz F. Steger, FDP" target="Jacqueline Badran, SP" />
+      <edge id="199" source="Heinz F. Steger, FDP" target="Ann-Catherine Nabholz, GLP" />
+      <edge id="200" source="Heinz F. Steger, FDP" target="Ruth Ackermann, CVP" />
+      <edge id="201" source="Heinz F. Steger, FDP" target="Gerold Lauber, CVP" />
+      <edge id="202" source="Heinz F. Steger, FDP" target="Uschi Heinrich, SP" />
+      <edge id="203" source="Heinz F. Steger, FDP" target="Josef Widler, CVP" />
+      <edge id="204" source="Heinz F. Steger, FDP" target="Pawel Silberring, SP" />
+      <edge id="205" source="Heinz F. Steger, FDP" target="Hans Jörg Käppeli, SP" />
+      <edge id="206" source="Bernhard Piller, Grüne" target="Alexander Jäger, FDP" />
+      <edge id="207" source="Bernhard Piller, Grüne" target="Marco V. Camin, FDP" />
+      <edge id="208" source="Bernhard Piller, Grüne" target="Gerhard Bosshard, EVP" />
+      <edge id="209" source="Bernhard Piller, Grüne" target="Martin Mächler, EVP" />
+      <edge id="210" source="Bernhard Piller, Grüne" target="Martin Luchsinger, GLP" />
+      <edge id="211" source="Bernhard Piller, Grüne" target="Joachim Hagger, FDP" />
+      <edge id="212" source="Judith Bucher, SP" target="Doris Weber, FDP" />
+      <edge id="213" source="Thomas Marthaler, SP" target="Alexander Jäger, FDP" />
+      <edge id="214" source="Pascal Lamprecht, SP" target="Marcel Müller, FDP" />
+      <edge id="215" source="Pascal Lamprecht, SP" target="Roger Bartholdi, SVP" />
+      <edge id="216" source="Pascal Lamprecht, SP" target="Sven Sobernheim, GLP" />
+      <edge id="217" source="Pascal Lamprecht, SP" target="Markus Merki, GLP" />
+      <edge id="218" source="Pascal Lamprecht, SP" target="Përparim Avdili, FDP" />
+      <edge id="219" source="Pascal Lamprecht, SP" target="Joachim Hagger, FDP" />
+      <edge id="220" source="Pierino Cerliani, Grüne" target="Michael Baumer, FDP" />
+      <edge id="221" source="Pierino Cerliani, Grüne" target="Claudia Rabelbauer, EVP" />
+      <edge id="222" source="Pierino Cerliani, Grüne" target="Alexander Jäger, FDP" />
+      <edge id="223" source="Marcel Schönbächler, CVP" target="Alan David Sangines, SP" />
+      <edge id="224" source="Marcel Schönbächler, CVP" target="Katrin Wüthrich, SP" />
+      <edge id="225" source="Marcel Schönbächler, CVP" target="Hans Jörg Käppeli, SP" />
+      <edge id="226" source="Marcel Schönbächler, CVP" target="Michel Urben, SP" />
+      <edge id="227" source="Marcel Schönbächler, CVP" target="Florian Utz, SP" />
+      <edge id="228" source="Walter Angst, AL" target="Jean-Claude Virchaux, CVP" />
+      <edge id="229" source="Walter Angst, AL" target="Samuel Dubno, GLP" />
+      <edge id="230" source="Walter Angst, AL" target="Markus Merki, GLP" />
+      <edge id="231" source="Jean-Claude Virchaux, CVP" target="Balthasar Glättli, Grüne" />
+      <edge id="232" source="Jean-Claude Virchaux, CVP" target="Marcel Savarioud, SP" />
+      <edge id="233" source="Dorothea Frei, SP" target="Severin Pflüger, FDP" />
+      <edge id="234" source="Dorothea Frei, SP" target="Heinz Schatt, SVP" />
+      <edge id="235" source="Dorothea Frei, SP" target="Patrick Albrecht, FDP" />
+      <edge id="236" source="Markus Knauss, Grüne" target="Guido Trevisan, GLP" />
+      <edge id="237" source="Markus Knauss, Grüne" target="Roger Liebi, SVP" />
+      <edge id="238" source="Markus Knauss, Grüne" target="Samuel Dubno, GLP" />
+      <edge id="239" source="Markus Knauss, Grüne" target="Richard Rabelbauer, EVP" />
+      <edge id="240" source="Markus Knauss, Grüne" target="Ann-Catherine Nabholz, GLP" />
+      <edge id="241" source="Markus Knauss, Grüne" target="Michael Baumer, FDP" />
+      <edge id="242" source="Guido Trevisan, GLP" target="Alexander Jäger, FDP" />
+      <edge id="243" source="Guido Trevisan, GLP" target="Florian Utz, SP" />
+      <edge id="244" source="Guido Trevisan, GLP" target="Hans Jörg Käppeli, SP" />
+      <edge id="245" source="Guido Trevisan, GLP" target="Simone Brander, SP" />
+      <edge id="246" source="Guido Trevisan, GLP" target="Marc Bourgeois, FDP" />
+      <edge id="247" source="Marcel Tobler, SP" target="Pirmin Meyer, GLP" />
+      <edge id="248" source="Gerold Lauber, CVP" target="Maya Burri-Wenger, SP" />
+      <edge id="249" source="Gerold Lauber, CVP" target="Oliver B. Meier, SVP" />
+      <edge id="250" source="Gerold Lauber, CVP" target="Christine Seidler, SP" />
+      <edge id="251" source="Gerold Lauber, CVP" target="Christoph Hug, Grüne" />
+      <edge id="252" source="Gerold Lauber, CVP" target="Balthasar Glättli, Grüne" />
+      <edge id="253" source="Gerold Lauber, CVP" target="Marcel Savarioud, SP" />
+      <edge id="254" source="Gerold Lauber, CVP" target="Anna Brändle Galliker, SP" />
+      <edge id="255" source="Gabriele Kisker, Grüne" target="Samuel Dubno, GLP" />
+      <edge id="256" source="Gabriele Kisker, Grüne" target="Ann-Catherine Nabholz, GLP" />
+      <edge id="257" source="Gabriele Kisker, Grüne" target="Andri Silberschmidt, FDP" />
+      <edge id="258" source="Samuel Dubno, GLP" target="Min Li Marti, SP" />
+      <edge id="259" source="Samuel Dubno, GLP" target="Marc Bourgeois, FDP" />
+      <edge id="260" source="Samuel Dubno, GLP" target="Urs Egger, FDP" />
+      <edge id="261" source="Samuel Dubno, GLP" target="Jean-Daniel Strub, SP" />
+      <edge id="262" source="Samuel Dubno, GLP" target="Alan David Sangines, SP" />
+      <edge id="263" source="Samuel Dubno, GLP" target="Mark Richli, SP" />
+      <edge id="264" source="Heinz Bögle, SP" target="Rosemarie Berthoud, FDP" />
+      <edge id="265" source="Alexander Brunner, FDP" target="Shaibal Roy, GLP" />
+      <edge id="266" source="Alexander Brunner, FDP" target="Pirmin Meyer, GLP" />
+      <edge id="267" source="Shaibal Roy, GLP" target="Alan David Sangines, SP" />
+      <edge id="268" source="Shaibal Roy, GLP" target="Marcel Bührig, Grüne" />
+      <edge id="269" source="Ann-Catherine Nabholz, GLP" target="Jean-Daniel Strub, SP" />
+      <edge id="270" source="Ann-Catherine Nabholz, GLP" target="Hans Jörg Käppeli, SP" />
+      <edge id="271" source="Ann-Catherine Nabholz, GLP" target="Linda Bär, SP" />
+      <edge id="272" source="Ann-Catherine Nabholz, GLP" target="Andrea Leitner Verhoeven, AL" />
+      <edge id="273" source="Ann-Catherine Nabholz, GLP" target="Patrick Hadi Huber, SP" />
+      <edge id="274" source="Ann-Catherine Nabholz, GLP" target="Felix Moser, Grüne" />
+      <edge id="275" source="Ann-Catherine Nabholz, GLP" target="Simone Brander, SP" />
+      <edge id="276" source="Bastien Girod, Grüne" target="Richard Rabelbauer, EVP" />
+      <edge id="277" source="Jürg R. Schüepp, FDP" target="Willy Furter, EVP" />
+      <edge id="278" source="Willy Furter, EVP" target="Alexander Jäger, FDP" />
+      <edge id="279" source="Willy Furter, EVP" target="Ueli Nagel, Grüne" />
+      <edge id="280" source="Willy Furter, EVP" target="Theresa G. Hensch-Stadelmann, FDP" />
+      <edge id="281" source="Sven Sobernheim, GLP" target="Andri Silberschmidt, FDP" />
+      <edge id="282" source="Sven Sobernheim, GLP" target="Marcel Bührig, Grüne" />
+      <edge id="283" source="Sven Sobernheim, GLP" target="Michael Kraft, SP" />
+      <edge id="284" source="Sven Sobernheim, GLP" target="Markus Kunz, Grüne" />
+      <edge id="285" source="Sven Sobernheim, GLP" target="Nicole Giger, SP" />
+      <edge id="286" source="Sven Sobernheim, GLP" target="Res Marti, Grüne" />
+      <edge id="287" source="Sven Sobernheim, GLP" target="Roger-Paul Speck, SP" />
+      <edge id="288" source="Andri Silberschmidt, FDP" target="Nicole Giger, SP" />
+      <edge id="289" source="Andri Silberschmidt, FDP" target="Vera Ziswiler, SP" />
+      <edge id="290" source="Andri Silberschmidt, FDP" target="Jean-Daniel Strub, SP" />
+      <edge id="291" source="Myrtha Meuli, SP" target="Hans Bachmann, FDP" />
+      <edge id="292" source="Myrtha Meuli, SP" target="Josef Widler, CVP" />
+      <edge id="293" source="Joe A. Manser, SP" target="Andreas J. Schlegel, FDP" />
+      <edge id="294" source="Joe A. Manser, SP" target="Erika Bärtschi Hafner, FDP" />
+      <edge id="295" source="Joe A. Manser, SP" target="Guido Wick, FDP" />
+      <edge id="296" source="Joe A. Manser, SP" target="Max Fritz, FDP" />
+      <edge id="297" source="Joe A. Manser, SP" target="Urs Lauffer, FDP" />
+      <edge id="298" source="Joe A. Manser, SP" target="Hans-Ulrich Meier, FDP" />
+      <edge id="299" source="Joe A. Manser, SP" target="Marco V. Camin, FDP" />
+      <edge id="300" source="Ueli Nagel, Grüne" target="Claudia Rabelbauer, EVP" />
+      <edge id="301" source="Ueli Nagel, Grüne" target="Monjek Rosenheim, FDP" />
+      <edge id="302" source="Ueli Nagel, Grüne" target="Claudia Simon, FDP" />
+      <edge id="303" source="Ueli Nagel, Grüne" target="Marco V. Camin, FDP" />
+      <edge id="304" source="Claudia Rabelbauer, EVP" target="Christina Hug, Grüne" />
+      <edge id="305" source="Claudia Rabelbauer, EVP" target="Michael Baumer, FDP" />
+      <edge id="306" source="Ruth Ackermann, CVP" target="Hans Jörg Käppeli, SP" />
+      <edge id="307" source="Andreas Kirstein, AL" target="Markus Merki, GLP" />
+      <edge id="308" source="Alexander Jäger, FDP" target="Kyriakos Papageorgiou, SP" />
+      <edge id="309" source="Alexander Jäger, FDP" target="Helen Glaser, SP" />
+      <edge id="310" source="Alexander Jäger, FDP" target="Richard Rabelbauer, EVP" />
+      <edge id="311" source="Alexander Jäger, FDP" target="Anton Stäbler, CVP" />
+      <edge id="312" source="Gregor Bucher, Grüne" target="Mischa Morgenbesser, FDP" />
+      <edge id="313" source="Renate Fischer, SP" target="Martin Bürki, FDP" />
+      <edge id="314" source="Reto Vogelbacher, CVP" target="Stefan Urech, SVP" />
+      <edge id="315" source="Martin Sarbach, SP" target="Katrin Schönenberger-Meier, EVP" />
+      <edge id="316" source="Përparim Avdili, FDP" target="Nadia Huberson, SP" />
+      <edge id="317" source="Emil Seliner, SP" target="Placidus Maissen, CVP" />
+      <edge id="318" source="Eduard Guggenheim, AL" target="Stefan Urech, SVP" />
+      <edge id="319" source="Eduard Guggenheim, AL" target="Adrian Gautschi, GLP" />
+      <edge id="320" source="Eduard Guggenheim, AL" target="Marc Bourgeois, FDP" />
+      <edge id="321" source="Eduard Guggenheim, AL" target="Sebastian Vogel, FDP" />
+      <edge id="322" source="Stefan Urech, SVP" target="Markus Merki, GLP" />
+      <edge id="323" source="Beat Badertscher, FDP" target="Peter Stähli-Barth, SP" />
+      <edge id="324" source="Beat Badertscher, FDP" target="Werner Sieg, SP" />
+      <edge id="325" source="Peter Stähli-Barth, SP" target="Paul Kleger, FDP" />
+      <edge id="326" source="Peter Stähli-Barth, SP" target="Bruno Sidler, SVP" />
+      <edge id="327" source="Peter Stähli-Barth, SP" target="Robert Kaeser, FDP" />
+      <edge id="328" source="Marcel Knörr, FDP" target="Hans Diem, CVP" />
+      <edge id="329" source="Rolf Kuhn, SP" target="Kurt Tschopp, CVP" />
+      <edge id="330" source="Rolf Kuhn, SP" target="Anton Stäbler, CVP" />
+      <edge id="331" source="Kurt Tschopp, CVP" target="Monika Spring-Gross, SP" />
+      <edge id="332" source="Jean-Daniel Strub, SP" target="Martin Luchsinger, GLP" />
+      <edge id="333" source="Jean-Daniel Strub, SP" target="Corina Gredig, GLP" />
+      <edge id="334" source="Roger-Paul Speck, SP" target="Markus Merki, GLP" />
+      <edge id="335" source="Markus Merki, GLP" target="Heidi Egger, SP" />
+      <edge id="336" source="Markus Merki, GLP" target="Zilla Roose, SP" />
+      <edge id="337" source="Urs Egger, FDP" target="Anjushka Früh, SP" />
+      <edge id="338" source="Susann Birrer, FDP" target="Claudia Nielsen, SP" />
+      <edge id="339" source="Erika Bärtschi Hafner, FDP" target="Hans Diem, CVP" />
+      <edge id="340" source="Corina Gredig, GLP" target="Marion Schmid, SP" />
+      <edge id="341" source="Marion Schmid, SP" target="Maria del Carmen Señorán, SVP" />
+      <edge id="342" source="Marion Schmid, SP" target="Corina Ursprung, FDP" />
+      <edge id="343" source="Fabienne Vocat, Grüne" target="Michael Baumer, FDP" />
+      <edge id="344" source="Michael Baumer, FDP" target="Balthasar Glättli, Grüne" />
+      <edge id="345" source="Michael Baumer, FDP" target="Thomas  Kappeler, CVP" />
+      <edge id="346" source="Georg Schmid, CVP" target="Werner Sieg, SP" />
+      <edge id="347" source="Georg Schmid, CVP" target="Marlène Butz, SP" />
+      <edge id="348" source="Georg Schmid, CVP" target="Franziska Graf, SP" />
+      <edge id="349" source="Werner Sieg, SP" target="Claudia Rütsche, CVP" />
+      <edge id="350" source="Werner Sieg, SP" target="Hans-Ulrich Meier, FDP" />
+      <edge id="351" source="Karin Rykart Sutter, Grüne" target="Astrid Hirzel, CVP" />
+      <edge id="352" source="Astrid Hirzel, CVP" target="Yvonne Müller, SP" />
+      <edge id="353" source="Astrid Hirzel, CVP" target="Marlène Butz, SP" />
+      <edge id="354" source="Heidi Egger, SP" target="Reto Rudolf, CVP" />
+      <edge id="355" source="Christian Aeschbach, FDP" target="Christina Hug, Grüne" />
+      <edge id="356" source="Nina Fehr Düsel, SVP" target="Karin Weyermann, CVP" />
+      <edge id="357" source="Karin Weyermann, CVP" target="Marcel Savarioud, SP" />
+      <edge id="358" source="Karin Weyermann, CVP" target="Eva-Maria Würth, SP" />
+      <edge id="359" source="Richard Rabelbauer, EVP" target="Mischa Morgenbesser, FDP" />
+      <edge id="360" source="Helen Glaser, SP" target="Pablo Bünger, FDP" />
+      <edge id="361" source="Gerhard Bosshard, EVP" target="Esther Straub, SP" />
+      <edge id="362" source="Gerhard Bosshard, EVP" target="Simon Kälin-Werth, Grüne" />
+      <edge id="363" source="Simone Brander, SP" target="Marc Bourgeois, FDP" />
+      <edge id="364" source="Marcel Savarioud, SP" target="Josef Widler, CVP" />
+      <edge id="365" source="Martin Luchsinger, GLP" target="Simon Kälin-Werth, Grüne" />
+      <edge id="366" source="Marlène Butz, SP" target="Theresa G. Hensch-Stadelmann, FDP" />
+      <edge id="367" source="Zilla Roose, SP" target="Pirmin Meyer, GLP" />
+      <edge id="368" source="Monika Erfigen, SVP" target="Marianne Aubert, SP" />
+      <edge id="369" source="Marianne Aubert, SP" target="Thomas Kleger, FDP" />
+      <edge id="370" source="Mathias Egloff, SP" target="Ronny Siev, GLP" />
+      <edge id="371" source="Luzia Vieli-Hardegger, LdU" target="Simone Bertogg-Baudet, Grüne" />
+      <edge id="372" source="Max Müller, SVP" target="Armin W. Zenger, LdU" />
+      <edge id="373" source="Johanna Tremp, SP" target="Kathy Riklin, CVP" />
+      <edge id="374" source="Romeo Steiner, CVP" target="Armin Schilter, SVP" />
+      <edge id="375" source="Romeo Steiner, CVP" target="Hans-Ulrich Meier, FDP" />
+      <edge id="376" source="Christina Bellin-Isele, SP" target="Thomas  Kappeler, CVP" />
+      <edge id="377" source="Thomas  Kappeler, CVP" target="Franziska Graf, SP" />
+      <edge id="378" source="Joachim Hagger, FDP" target="Davy Graf, SP" />
+      <edge id="379" source="Sacha Walker, GLP" target="Rebekka Wyler, SP" />
+      <edge id="380" source="Florian Blättler, SP" target="Christian Monn, GLP" />
     </edges>
   </graph>
 </gexf>

@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-02-03">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="datum" type="string" />
+      <attribute id="2" title="thema" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partei" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Bastien Girod" label="Bastien Girod">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Ernst Danner" label="Ernst Danner">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="André Odermatt" label="André Odermatt">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Niklaus Scherr" label="Niklaus Scherr">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Theres Renner" label="Theres Renner">
+        <attvalues>
+          <attvalue for="0" value="FraP" />
+        </attvalues>
+      </node>
+      <node id="Susanne Erdös-Schärer" label="Susanne Erdös-Schärer">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Peter Stähli-Barth" label="Peter Stähli-Barth">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christoph Hug" label="Christoph Hug">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Luzi Rüegg" label="Luzi Rüegg">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Köbi Möri" label="Köbi Möri">
+        <attvalues>
+          <attvalue for="0" value="Parteilos" />
+        </attvalues>
+      </node>
+      <node id="Paul Kleger" label="Paul Kleger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Luzia Vieli-Hardegger" label="Luzia Vieli-Hardegger">
+        <attvalues>
+          <attvalue for="0" value="LdU" />
+        </attvalues>
+      </node>
+      <node id="Simone Bertogg-Baudet" label="Simone Bertogg-Baudet">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Max Müller" label="Max Müller">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Armin W. Zenger" label="Armin W. Zenger">
+        <attvalues>
+          <attvalue for="0" value="LdU" />
+        </attvalues>
+      </node>
+      <node id="Ruth Zollinger" label="Ruth Zollinger">
+        <attvalues>
+          <attvalue for="0" value="FraP" />
+        </attvalues>
+      </node>
+      <node id="Marie-Therese Meier" label="Marie-Therese Meier">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Monjek Rosenheim" label="Monjek Rosenheim">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Markus Schwyn" label="Markus Schwyn">
+        <attvalues>
+          <attvalue for="0" value="PFZ" />
+        </attvalues>
+      </node>
+      <node id="Markus Bischoff" label="Markus Bischoff">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Hansueli Züllig" label="Hansueli Züllig">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Robert Schönbächler" label="Robert Schönbächler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Kurt Tschopp" label="Kurt Tschopp">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Monika Spring-Gross" label="Monika Spring-Gross">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Anita Zimmerling Enkelmann" label="Anita Zimmerling Enkelmann">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Bastien Girod" target="Ernst Danner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1996-12-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="André Odermatt" target="Niklaus Scherr" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1996-12-31 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Theres Renner" target="Susanne Erdös-Schärer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1997-12-31 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Theres Renner" target="Anita Zimmerling Enkelmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1995-12-31 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Peter Stähli-Barth" target="Christoph Hug" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1996-06-12 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Peter Stähli-Barth" target="Paul Kleger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1995-01-11 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Luzi Rüegg" target="Köbi Möri" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-01-28 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Luzia Vieli-Hardegger" target="Simone Bertogg-Baudet" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1997-10-22 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Max Müller" target="Armin W. Zenger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-01-21 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Ruth Zollinger" target="Marie-Therese Meier" weight="2">
+        <attvalues>
+          <attvalue for="1" value="1998-01-14 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Ruth Zollinger" target="Markus Bischoff" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-01-21 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Monjek Rosenheim" target="Markus Schwyn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-05-06 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Hansueli Züllig" target="Robert Schönbächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1997-12-31 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Kurt Tschopp" target="Monika Spring-Gross" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1996-12-31 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

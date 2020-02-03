@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-02-03">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="datum" type="string" />
+      <attribute id="2" title="thema" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partei" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Niklaus Scherr" label="Niklaus Scherr">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Robert Schönbächler" label="Robert Schönbächler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Beat Badertscher" label="Beat Badertscher">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Peter Stähli-Barth" label="Peter Stähli-Barth">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Rolf Kuhn" label="Rolf Kuhn">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Kurt Tschopp" label="Kurt Tschopp">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Markus Bischoff" label="Markus Bischoff">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Joe A. Manser" label="Joe A. Manser">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Guido Wick" label="Guido Wick">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Emil Seliner" label="Emil Seliner">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Placidus Maissen" label="Placidus Maissen">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Johanna Tremp" label="Johanna Tremp">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Kathy Riklin" label="Kathy Riklin">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Erika Bärtschi Hafner" label="Erika Bärtschi Hafner">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Max Fritz" label="Max Fritz">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Hans-Ulrich Meier" label="Hans-Ulrich Meier">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Werner Sieg" label="Werner Sieg">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Urs Lauffer" label="Urs Lauffer">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Monika Spring-Gross" label="Monika Spring-Gross">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Niklaus Scherr" target="Robert Schönbächler" weight="2">
+        <attvalues>
+          <attvalue for="1" value="1998-06-10 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Robert Schönbächler" target="Markus Bischoff" weight="2">
+        <attvalues>
+          <attvalue for="1" value="1999-07-14 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Robert Schönbächler" target="Monika Spring-Gross" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2000-03-29 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Beat Badertscher" target="Peter Stähli-Barth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-10-28 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Beat Badertscher" target="Werner Sieg" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2002-01-30 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Rolf Kuhn" target="Kurt Tschopp" weight="3">
+        <attvalues>
+          <attvalue for="1" value="1998-07-08 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Joe A. Manser" target="Guido Wick" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2001-01-10 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Joe A. Manser" target="Erika Bärtschi Hafner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2001-12-31 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Joe A. Manser" target="Max Fritz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2000-03-08 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Joe A. Manser" target="Urs Lauffer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2001-08-29 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Joe A. Manser" target="Hans-Ulrich Meier" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2001-11-21 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Emil Seliner" target="Placidus Maissen" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2001-03-07 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Johanna Tremp" target="Kathy Riklin" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1998-12-31 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Hans-Ulrich Meier" target="Werner Sieg" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2000-11-01 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

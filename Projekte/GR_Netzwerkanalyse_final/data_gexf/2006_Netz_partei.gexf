@@ -1,0 +1,1581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-02-03">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="datum" type="string" />
+      <attribute id="2" title="thema" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partei" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Kurt Hüssy" label="Kurt Hüssy">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Peter Anderegg" label="Peter Anderegg">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Daniel Meier" label="Daniel Meier">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Alecs Recher" label="Alecs Recher">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Peider Filli" label="Peider Filli">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Christine Seidler" label="Christine Seidler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Ueli Nagel" label="Ueli Nagel">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Albert Leiser" label="Albert Leiser">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Heinz Jacobi" label="Heinz Jacobi">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Robert Schönbächler" label="Robert Schönbächler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Bruno Wohler" label="Bruno Wohler">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Thomas Wyss" label="Thomas Wyss">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Daniel Leupi" label="Daniel Leupi">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Roger Tognella" label="Roger Tognella">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Heinz F. Steger" label="Heinz F. Steger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Jacqueline Badran" label="Jacqueline Badran">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Pierino Cerliani" label="Pierino Cerliani">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Mario Mariani" label="Mario Mariani">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Daniel Regli" label="Daniel Regli">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Walter Angst" label="Walter Angst">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Jean-Claude Virchaux" label="Jean-Claude Virchaux">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Hanspeter Kunz" label="Hanspeter Kunz">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Esther Straub" label="Esther Straub">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Gabriele Kisker" label="Gabriele Kisker">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Richard Rabelbauer" label="Richard Rabelbauer">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Esther Ponti-Weder" label="Esther Ponti-Weder">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Ernst Danner" label="Ernst Danner">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Urs Rechsteiner" label="Urs Rechsteiner">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Ruth Ackermann" label="Ruth Ackermann">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Bernhard Piller" label="Bernhard Piller">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Monika Bloch Süss" label="Monika Bloch Süss">
+        <attvalues>
+          <attvalue for="0" value="CSP" />
+        </attvalues>
+      </node>
+      <node id="Myrtha Meuli" label="Myrtha Meuli">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Hans Bachmann" label="Hans Bachmann">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Bernhard Jüsi" label="Bernhard Jüsi">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Hans Urs von Matt" label="Hans Urs von Matt">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Marcel Z'graggen" label="Marcel Z'graggen">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Claudia Rabelbauer" label="Claudia Rabelbauer">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Beat Bloch" label="Beat Bloch">
+        <attvalues>
+          <attvalue for="0" value="CSP" />
+        </attvalues>
+      </node>
+      <node id="Balthasar Glättli" label="Balthasar Glättli">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Fakir Atalay" label="Fakir Atalay">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Gregor Bucher" label="Gregor Bucher">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Niklaus Scherr" label="Niklaus Scherr">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Susi Gut" label="Susi Gut">
+        <attvalues>
+          <attvalue for="0" value="PFZ" />
+        </attvalues>
+      </node>
+      <node id="Karin Rykart Sutter" label="Karin Rykart Sutter">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Martin Sarbach" label="Martin Sarbach">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Andrew Katumba" label="Andrew Katumba">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Emil Seliner" label="Emil Seliner">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Claudia Simon" label="Claudia Simon">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Ilde Cheridito" label="Ilde Cheridito">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Beatrice Reimann" label="Beatrice Reimann">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christina Hug" label="Christina Hug">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Min Li Marti" label="Min Li Marti">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christian Traber" label="Christian Traber">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Alexander Jäger" label="Alexander Jäger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Martin Abele" label="Martin Abele">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Erika Bärtschi Hafner" label="Erika Bärtschi Hafner">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Joe A. Manser" label="Joe A. Manser">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Astrid Hirzel" label="Astrid Hirzel">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Christian Aeschbach" label="Christian Aeschbach">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Bastien Girod" label="Bastien Girod">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Marcel Savarioud" label="Marcel Savarioud">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Josef Widler" label="Josef Widler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+      <node id="Uschi Heinrich" label="Uschi Heinrich">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Marlène Butz" label="Marlène Butz">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Kyriakos Papageorgiou" label="Kyriakos Papageorgiou">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Matthias Probst" label="Matthias Probst">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Daniela Schicker" label="Daniela Schicker">
+        <attvalues>
+          <attvalue for="0" value="AL" />
+        </attvalues>
+      </node>
+      <node id="Markus Knauss" label="Markus Knauss">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Theresa G. Hensch-Stadelmann" label="Theresa G. Hensch-Stadelmann">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Ruth Anhorn" label="Ruth Anhorn">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Mirella Wepf" label="Mirella Wepf">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Theo Hauri" label="Theo Hauri">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Bruno Amacker" label="Bruno Amacker">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Rebekka Wyler" label="Rebekka Wyler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Pascal Pauli" label="Pascal Pauli">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Thomas Marthaler" label="Thomas Marthaler">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Marco V. Camin" label="Marco V. Camin">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Peter Stähli-Barth" label="Peter Stähli-Barth">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Bruno Sidler" label="Bruno Sidler">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Roger Liebi" label="Roger Liebi">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Myriam Barzotto" label="Myriam Barzotto">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Doris Weber" label="Doris Weber">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Mischa Morgenbesser" label="Mischa Morgenbesser">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Heinz Bögle" label="Heinz Bögle">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Christine Stokar Gasser" label="Christine Stokar Gasser">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Markus Schwyn" label="Markus Schwyn">
+        <attvalues>
+          <attvalue for="0" value="PFZ" />
+        </attvalues>
+      </node>
+      <node id="Claudia Nielsen" label="Claudia Nielsen">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Corine Mauch" label="Corine Mauch">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Martin Mächler" label="Martin Mächler">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Karin Meier-Bohrer" label="Karin Meier-Bohrer">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Judith Bucher" label="Judith Bucher">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Katrin Schönenberger-Meier" label="Katrin Schönenberger-Meier">
+        <attvalues>
+          <attvalue for="0" value="EVP" />
+        </attvalues>
+      </node>
+      <node id="Yvonne Müller" label="Yvonne Müller">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Michael Baumer" label="Michael Baumer">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Bruno Garzotto" label="Bruno Garzotto">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Severin Pflüger" label="Severin Pflüger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Hedy Schlatter" label="Hedy Schlatter">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Dominique Feuillet" label="Dominique Feuillet">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Thomas Schwendener" label="Thomas Schwendener">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Fiammetta Jahreiss-Montagnani" label="Fiammetta Jahreiss-Montagnani">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Jean-Daniel Strub" label="Jean-Daniel Strub">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Marianne Spieler Frauenfelder" label="Marianne Spieler Frauenfelder">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="André Odermatt" label="André Odermatt">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Hans Jörg Käppeli" label="Hans Jörg Käppeli">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Mauro Tuena" label="Mauro Tuena">
+        <attvalues>
+          <attvalue for="0" value="SVP" />
+        </attvalues>
+      </node>
+      <node id="Urs Egger" label="Urs Egger">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Salvatore Di Concilio" label="Salvatore Di Concilio">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Franziska Graf" label="Franziska Graf">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Robert Kaeser" label="Robert Kaeser">
+        <attvalues>
+          <attvalue for="0" value="FDP" />
+        </attvalues>
+      </node>
+      <node id="Rolf Kuhn" label="Rolf Kuhn">
+        <attvalues>
+          <attvalue for="0" value="SP" />
+        </attvalues>
+      </node>
+      <node id="Simon Kälin-Werth" label="Simon Kälin-Werth">
+        <attvalues>
+          <attvalue for="0" value="Grüne" />
+        </attvalues>
+      </node>
+      <node id="Thomas  Kappeler" label="Thomas  Kappeler">
+        <attvalues>
+          <attvalue for="0" value="CVP" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Kurt Hüssy" target="Peter Anderegg" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-11-25 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Kurt Hüssy" target="Claudia Simon" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-07-04 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Kurt Hüssy" target="Roger Tognella" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-11-12 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Peter Anderegg" target="Daniel Meier" weight="5">
+        <attvalues>
+          <attvalue for="1" value="2007-08-29 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Peter Anderegg" target="Daniel Regli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-11-25 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Peter Anderegg" target="Heinz F. Steger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-11-25 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Peter Anderegg" target="Marcel Z'graggen" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-06-17 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Peter Anderegg" target="Hans Bachmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-04-01 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Daniel Meier" target="Albert Leiser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-01-31 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Daniel Meier" target="Heinz F. Steger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-04-02 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Daniel Meier" target="Richard Rabelbauer" weight="4">
+        <attvalues>
+          <attvalue for="1" value="2006-11-08 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Daniel Meier" target="Ernst Danner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-03-28 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Daniel Meier" target="Severin Pflüger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-06-17 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Alecs Recher" target="Peider Filli" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2007-10-03 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Alecs Recher" target="Martin Sarbach" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-09-12 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Alecs Recher" target="Martin Abele" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2007-04-18 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Alecs Recher" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-05-17 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Alecs Recher" target="Matthias Probst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-09-20 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Alecs Recher" target="Karin Rykart Sutter" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-12-09 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Peider Filli" target="Ilde Cheridito" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-12-03 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Peider Filli" target="Daniela Schicker" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2006-12-15 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Peider Filli" target="Salvatore Di Concilio" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-02 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Peider Filli" target="Rebekka Wyler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-11-08 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Christine Seidler" target="Ueli Nagel" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2010-01-27 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Christine Seidler" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-01-23 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Christine Seidler" target="Mario Mariani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-06-07 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Ueli Nagel" target="Claudia Rabelbauer" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2008-04-02 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Ueli Nagel" target="Fakir Atalay" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2007-06-06 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Ueli Nagel" target="Claudia Simon" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-02-04 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Ueli Nagel" target="Marco V. Camin" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-10-22 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Ueli Nagel" target="Claudia Nielsen" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2006-06-07 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Ueli Nagel" target="Uschi Heinrich" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-01-14 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Ueli Nagel" target="Franziska Graf" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-09-19 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Ueli Nagel" target="Rolf Kuhn" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2006-12-31 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Albert Leiser" target="Roger Liebi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-06-07 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Albert Leiser" target="Niklaus Scherr" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2006-12-31 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Albert Leiser" target="Mario Mariani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-03-12 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Albert Leiser" target="Hedy Schlatter" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-06-20 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Albert Leiser" target="Josef Widler" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2008-09-17 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Albert Leiser" target="Ruth Anhorn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-12-17 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Albert Leiser" target="Daniel Leupi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-08-19 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Heinz Jacobi" target="Robert Schönbächler" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2006-06-21 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Heinz Jacobi" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-04 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Robert Schönbächler" target="Niklaus Scherr" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2006-08-23 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Robert Schönbächler" target="Ernst Danner" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2006-07-05 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Robert Schönbächler" target="Emil Seliner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-03-17 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Robert Schönbächler" target="Pierino Cerliani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-09-27 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Robert Schönbächler" target="Bastien Girod" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-12-06 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Robert Schönbächler" target="Heinz Bögle" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-03-04 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD), Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Robert Schönbächler" target="Bruno Garzotto" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-03-28 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Robert Schönbächler" target="Salvatore Di Concilio" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-07-12 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Robert Schönbächler" target="Ruth Anhorn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-08-23 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Bruno Wohler" target="Thomas Wyss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-12-16 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Bruno Wohler" target="Mario Mariani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-06-06 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Thomas Wyss" target="Beat Bloch" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-04-21 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Thomas Wyss" target="Monika Bloch Süss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-06 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Daniel Leupi" target="Roger Tognella" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-30 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Daniel Leupi" target="Beatrice Reimann" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2007-08-29 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Daniel Leupi" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-12-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Daniel Leupi" target="Walter Angst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-12-16 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Daniel Leupi" target="Doris Weber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-05-09 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Daniel Leupi" target="Mischa Morgenbesser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-06-07 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Daniel Leupi" target="Claudia Nielsen" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-07-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Daniel Leupi" target="Marianne Spieler Frauenfelder" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-09-17 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Heinz F. Steger" target="Jacqueline Badran" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-05-13 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD), Hochbaudepartement (HBD), Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Heinz F. Steger" target="Uschi Heinrich" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-11-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Heinz F. Steger" target="Theo Hauri" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-11-04 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Heinz F. Steger" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-07-01 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Jacqueline Badran" target="Balthasar Glättli" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-12-02 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Jacqueline Badran" target="Walter Angst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-12-05 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Jacqueline Badran" target="Niklaus Scherr" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-18 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Pierino Cerliani" target="Mario Mariani" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-11-25 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Pierino Cerliani" target="Michael Baumer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-01-10 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Pierino Cerliani" target="Jean-Daniel Strub" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-06-10 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Pierino Cerliani" target="Marianne Spieler Frauenfelder" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-12-03 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Mario Mariani" target="Hanspeter Kunz" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2009-12-16 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Mario Mariani" target="Martin Sarbach" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-04-09 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Mario Mariani" target="Claudia Rabelbauer" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2010-03-17 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Mario Mariani" target="Martin Mächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-01-07 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Mario Mariani" target="Joe A. Manser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-01-09 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Walter Angst" target="Jean-Claude Virchaux" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-11-25 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Walter Angst" target="Balthasar Glättli" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-12-02 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Walter Angst" target="Ernst Danner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-12-05 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Walter Angst" target="Christine Stokar Gasser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-10-01 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Walter Angst" target="Rebekka Wyler" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2010-03-03 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Walter Angst" target="Corine Mauch" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-18 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Jean-Claude Virchaux" target="Ernst Danner" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-05-09 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Jean-Claude Virchaux" target="Balthasar Glättli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-05-27 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Esther Straub" target="Gabriele Kisker" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-02-04 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Gabriele Kisker" target="Andrew Katumba" weight="6">
+        <attvalues>
+          <attvalue for="1" value="2007-05-09 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Gabriele Kisker" target="Monika Bloch Süss" weight="4">
+        <attvalues>
+          <attvalue for="1" value="2007-12-05 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Richard Rabelbauer" target="Esther Ponti-Weder" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2008-04-09 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Richard Rabelbauer" target="Marcel Z'graggen" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-09-23 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Richard Rabelbauer" target="Bastien Girod" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-06-07 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Richard Rabelbauer" target="Matthias Probst" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-09-27 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Richard Rabelbauer" target="Markus Knauss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-11-29 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Richard Rabelbauer" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-30 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Richard Rabelbauer" target="Alexander Jäger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-06-13 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Richard Rabelbauer" target="Mischa Morgenbesser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-02-06 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Richard Rabelbauer" target="Josef Widler" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2008-01-16 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Ernst Danner" target="Urs Rechsteiner" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2008-03-26 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Ernst Danner" target="Ruth Ackermann" weight="5">
+        <attvalues>
+          <attvalue for="1" value="2007-09-26 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Ernst Danner" target="Gregor Bucher" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2006-11-15 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Ernst Danner" target="Susi Gut" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-03-11 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Ernst Danner" target="Mirella Wepf" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-02-06 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="Ernst Danner" target="Myrtha Meuli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-04 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Ernst Danner" target="Bernhard Piller" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-11 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Ernst Danner" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-23 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Ernst Danner" target="Peter Stähli-Barth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-12-17 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Urs Rechsteiner" target="Martin Mächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-05-13 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD), Stadtschreiber/in (STS)" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Ruth Ackermann" target="Hans Jörg Käppeli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-13 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Bernhard Piller" target="Monika Bloch Süss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-02-03 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Bernhard Piller" target="Alexander Jäger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-16 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Bernhard Piller" target="Corine Mauch" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-05-09 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="Bernhard Piller" target="Marco V. Camin" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-05-28 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Bernhard Piller" target="André Odermatt" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2007-01-24 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Bernhard Piller" target="Martin Mächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-12-17 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Monika Bloch Süss" target="Bernhard Jüsi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-27 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Monika Bloch Süss" target="Hans Urs von Matt" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-02-03 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="Monika Bloch Süss" target="Martin Abele" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-12-11 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="Monika Bloch Süss" target="Marlène Butz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-06-10 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="Monika Bloch Süss" target="Karin Meier-Bohrer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-06 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="Monika Bloch Süss" target="Marianne Spieler Frauenfelder" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-04-01 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="Myrtha Meuli" target="Hans Bachmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-27 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="Myrtha Meuli" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-09-20 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="Hans Bachmann" target="Ruth Anhorn" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2010-04-14 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="Hans Urs von Matt" target="Karin Rykart Sutter" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-01-24 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="Marcel Z'graggen" target="Martin Mächler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-04-14 00:00:00" />
+          <attvalue for="2" value="Gesundheits- und Umweltdepartement (GUD)" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="Claudia Rabelbauer" target="Michael Baumer" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-05-07 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="Balthasar Glättli" target="Jean-Daniel Strub" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-30 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="Balthasar Glättli" target="Corine Mauch" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-11-22 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="Gregor Bucher" target="Mischa Morgenbesser" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2008-02-06 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="Gregor Bucher" target="Myriam Barzotto" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-03-07 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="Susi Gut" target="Thomas Schwendener" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-16 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="Susi Gut" target="Christian Traber" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-03-21 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="Karin Rykart Sutter" target="Martin Sarbach" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-04-02 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="Karin Rykart Sutter" target="Astrid Hirzel" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-01-24 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="Martin Sarbach" target="Pascal Pauli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-03-28 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="Martin Sarbach" target="Katrin Schönenberger-Meier" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-05-09 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="Martin Sarbach" target="Markus Knauss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-03-26 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="Claudia Simon" target="Ruth Anhorn" weight="3">
+        <attvalues>
+          <attvalue for="1" value="2007-10-24 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="Beatrice Reimann" target="Markus Knauss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-10-24 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="Christina Hug" target="Min Li Marti" weight="2">
+        <attvalues>
+          <attvalue for="1" value="2009-05-27 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="Christina Hug" target="Christian Aeschbach" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-09-30 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="Christian Traber" target="Bruno Amacker" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-05-17 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="Christian Traber" target="Thomas Marthaler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-11 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="Christian Traber" target="Fiammetta Jahreiss-Montagnani" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-10-28 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="Christian Traber" target="Simon Kälin-Werth" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-11-18 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="Alexander Jäger" target="Kyriakos Papageorgiou" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-07-11 00:00:00" />
+          <attvalue for="2" value="Departement der Industriellen Betriebe (DIB)" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="Alexander Jäger" target="Thomas Marthaler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-05-27 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="Erika Bärtschi Hafner" target="Joe A. Manser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-06-04 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="Joe A. Manser" target="Marco V. Camin" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-12-19 00:00:00" />
+          <attvalue for="2" value="nan" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="Astrid Hirzel" target="Yvonne Müller" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-08-30 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="Astrid Hirzel" target="Marlène Butz" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-01-16 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="Marcel Savarioud" target="Josef Widler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-04-11 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="Marlène Butz" target="Theresa G. Hensch-Stadelmann" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-12-06 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="Matthias Probst" target="Dominique Feuillet" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2008-07-02 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="Matthias Probst" target="Salvatore Di Concilio" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2010-01-13 00:00:00" />
+          <attvalue for="2" value="Hochbaudepartement (HBD)" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="Markus Knauss" target="Myriam Barzotto" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-01-17 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="Markus Knauss" target="Claudia Nielsen" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-12-31 00:00:00" />
+          <attvalue for="2" value="Polizeidepartement (PD)" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="Rebekka Wyler" target="Pascal Pauli" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-04-11 00:00:00" />
+          <attvalue for="2" value="Sozialdepartement (SD)" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="Peter Stähli-Barth" target="Bruno Sidler" weight="5">
+        <attvalues>
+          <attvalue for="1" value="2008-10-01 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="Peter Stähli-Barth" target="Robert Kaeser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2009-08-26 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="Roger Liebi" target="Markus Schwyn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-12-31 00:00:00" />
+          <attvalue for="2" value="Finanzdepartement (FD)" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="Doris Weber" target="Judith Bucher" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-11-22 00:00:00" />
+          <attvalue for="2" value="Schul- und Sportdepartement (SSD)" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="Katrin Schönenberger-Meier" target="Thomas  Kappeler" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2006-10-25 00:00:00" />
+          <attvalue for="2" value="Tiefbau- und Entsorgungsdepartement (TED)" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="Mauro Tuena" target="Urs Egger" weight="1">
+        <attvalues>
+          <attvalue for="1" value="2007-10-24 00:00:00" />
+          <attvalue for="2" value="Präsidialdepartement (PRD)" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
