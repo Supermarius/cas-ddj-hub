@@ -4,6 +4,7 @@ Im Frühjahr 2018 ist eine linke Mehrheit ins Zürcher Stadtparlament gewählt w
 
 ### Publizierter Artikel
 Online-Version mit mehreren Grafiken - [Von wegen rot-grüner Alleingang](http://www.tagesanzeiger.ch/zuerich/region/von-wegen-rotgruener-alleingang/story/20271652)
+
 Grafisch abgespeckte Print-Version - [Von wegen rot-grüner Alleingang](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/ta_20200205_0_0_17.pdf)
 
 ### Ausgangsthese
@@ -40,7 +41,7 @@ Entscheidend würde erstens sein, ob sich anhand der Daten überhaupt eine brauc
 
 Ich habe mich des Themas vor einem Jahr schon einmal angenommen. Damals vertrat SP-Gemeinderat Jean-Daniel Strub den Standpunkt, dass seine Partei konsensorientierter sei als behauptet. Vor den Wahlen habe man namentlich mit der FDP in einigen relevanten Themen, etwa im Schulbereich, gemeinsame Positionen gefunden. Seitdem die Linke eine Mehrheit im Rat hat, habe sich dieser Trend nicht etwas abgeschwächt, im Gegenteil: «Wir haben noch nie so viel überparteilich zusammengearbeitet wie seit den Wahlen».
 
-Vertreter andere Parteien stützten diese Ansicht.  Es falle  auf, dass die SP sich mitunter selbst dann um Schulterschlüsse über die Mitte hinaus bemühe, wenn sie dies rechnerisch gar nicht nötig hätte. 
+Vertreter andere Parteien stützten diese Ansicht. Es falle  auf, dass die SP sich mitunter selbst dann um Schulterschlüsse über die Mitte hinaus bemühe, wenn sie dies rechnerisch gar nicht nötig hätte. 
 
 Im Vorfeld der Datenarbeit habe ich verschiedene Gemeinderäte darauf angesprochen, ob die Auswertung überparteilicher Vorstösse im Gemeinderat ein brauchbares Indiz sein könnte, um die Intensität solcher Kooperationen über die eigene Partei/den eigenen Block hinaus zu messen. Sie äuserten sich positiv: Auch wenn dies nicht die gesamte Arbeit des Gemeinderats abbilde, komme in den Vorstössen sicher eine Grundtendenz zum Ausdruck.
 
@@ -82,4 +83,4 @@ Knackpunkt:
 - [Kompletter dokumentierter Code: Scraper / Datenauslesen / Netzwerkanalyse](http://localhost:8888/notebooks/Documents/maz-datenjournalismus/cas-ddj-hub/Projekte/GR_Netzwerkanalyse_final/Code_Komplett.ipynb)
 - [Beispiel eines fertig geputzten Dataframes als csv (blockübergreifende Vorstösse)](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/Dataframe_bereinigt_blockuebergreifend.csv)
 - [Strukturierte Daten für Visualisierung in Datawrapper (Apple-Numbers-File)](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/Aufbereitet%20f%C3%BCr%20Datawrapper.numbers)
-- [Netzwerkanalyse in Gephi)](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/gemeinderat.gephi)
+- [Netzwerkanalyse in Gephi](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/gemeinderat.gephi)
