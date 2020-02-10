@@ -1,4 +1,4 @@
-# Wie kooperationsfähig ist die linke Mehrheit im Zürcher Gemeinderat?
+# Wie kooperationsbereit ist die linke Mehrheit im Zürcher Gemeinderat?
 
 Im Frühjahr 2018 ist eine linke Mehrheit ins Zürcher Stadtparlament gewählt worden. Seither ist vor allem von der unterlegenen Seite (aber nicht nur) immer wieder zu hören, dass die Zusammenarbeit über Parteien und Blöcke hinweg gelitten habe, wie sie früher üblich gewesen sei. Dies macht sich vor allem an populären linken Vorhaben fest, die die Mehrheit nach eigenem Gutdünken realisiert, wie zum Beispiel am angekündigten Parkplatzabbau in der Innenstadt. Die Linke sagt, es sei genau umgekehrt: Man arbeite mehr zusammen als früher. 
 
