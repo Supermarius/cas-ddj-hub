@@ -3,7 +3,8 @@
 Im Frühjahr 2018 ist eine linke Mehrheit ins Zürcher Stadtparlament gewählt worden. Seither ist vor allem von der unterlegenen Seite (aber nicht nur!) immer wieder zu hören, dass die Zusammenarbeit über Parteien und Blöcke hinweg gelitten habe, wie sie früher üblich gewesen sei. Dies macht sich vor allem an populären linken Vorhaben fest, die die Mehrheit nach eigenem Gutdünken realisiert, wie zum Beispiel am angekündigten Parkplatzabbau in der Innenstadt. Die Linke sagt, es sei genau umgekehrt: Man arbeite mehr zusammen als früher. 
 
 ### Publizierter Artikel
-xxxxx - [Von wegen rot-grüner Alleingang](http://www.tagesanzeiger.ch/zuerich/region/von-wegen-rotgruener-alleingang/story/20271652)
+Online-Version mit mehreren Grafiken - [Von wegen rot-grüner Alleingang](http://www.tagesanzeiger.ch/zuerich/region/von-wegen-rotgruener-alleingang/story/20271652)
+Grafisch abgespeckte Print-Version - [Von wegen rot-grüner Alleingang](https://github.com/Supermarius/cas-ddj-hub/blob/master/Projekte/GR_Netzwerkanalyse_final/ta_20200205_0_0_17.pdf)
 
 ### Ausgangsthese
 
@@ -82,4 +83,5 @@ Knackpunkt:
 - [Ergebnisse als CSV und Outputs matplotlib](https://github.com/leasennch/hitparade/tree/master/python_outputs)
 - [Ergebnisse als Grafiken in Illustrator aufbereitet](https://github.com/leasennch/hitparade/tree/master/finished_graphics)
 - [D3.js-Code für die interaktive Grafik](https://github.com/leasennch/hitparade/tree/master/interactive)
+
 
